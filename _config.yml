@@ -65,6 +65,10 @@ preload:
   - /assets/fonts/Source-Sans-Pro-Regular.woff2
   - /assets/fonts/Source-Sans-Pro-Bold.woff2
 
+webmaster_verifications:
+  - name: google-site-verification
+    key: Ats7XjWjeeIMI7xH0g3G2bhMKXeGTQwlp7s2pGSjQVY
+
 liquid:
   error_mode: warn
 
