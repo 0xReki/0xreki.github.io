@@ -14,23 +14,24 @@ checker:
 
 long: true
 ---
-No, this isn't a mahjong client. It's not old software either.
+No, this isn't a mahjong client.
+It's not old software, either.
 But I do have a third hobby, aside from Riichi Mahjong and Final Fantasy XIV.
 And it's Creative Writing.
 If you haven't seen it yet, I write a Web Novel called [Crystal Down](/crystaldown/){:target="_blank" ref="noopener"}.
 While I do have volunteers and commenters that help me with spelling and grammar, running it through a tool beforehand is just good practice.
 Until now, I've been using Grammarly Free, and it leaves a lot of things to be desired…
-So much so I don't even care about their Premium because it doesn't seem to offer anything I need.
+So much so, I don't even care about their Premium because it doesn't seem to offer anything I need.
 
 I have a tech background.
 That makes me have requirements to software other people might not even consider.
 I know can't have everything, but I'm at least allowed to nicely ask, am I not?
 Let's start with what I want.
 I use Linux as my preferred operating system and [Jekyll](https://jekyllrb.com/){:target="_blank" ref="noopener"} as static site generator.
-If there installable software, Linux support would be very nice.
-I've more or less given up on that front, so I can live with live with the software running in WINE.
+If there is installable software, Linux support would be very nice.
+I've more or less given up on that front, so I can live with just the software running in WINE.
 
-For Jekyll I write in Markdown, so the software should parse it or at least correctly ignore Markdown.
+For Jekyll, I write in Markdown, so the software should parse it or at least correctly ignore Markdown.
 For plus points, it even ignores the front matter.
 That way I can just open my files and edit without needing to copy and paste text to another software and fixing the Markdown.
 There's nothing on this front, so this is also just a nice thing to wish for.

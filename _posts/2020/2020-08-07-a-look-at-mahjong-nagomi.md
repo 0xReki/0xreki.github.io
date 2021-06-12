@@ -35,13 +35,12 @@ Let's face it: a bad translation can be worse than no translation at all.
 
 The rule variation for standard games, as far as I have confirmed, are:
 
-- Players start on points 25,000
+- players start on points 25,000
 - return with placement bonus (uma)
-  - In case multiple people end up on the same rank, the one closer to the
-    initial East gets higher placement
-- The games ends if a player falls below zero points (tobi)
-- Open tanyao is allowed (kuitan ari) (can be disabled)
-- Abortive draws for
+  - If multiple players end up with the same number of points, the one closer to the initial East gets the higher placement
+- game ends if a player falls below zero points (tobi)
+- open tanyao is allowed (kuitan ari) (can be disabled)
+- abortive draws for
   - 9 unique terminals/honours in starting hand (kyuushuu kyuuhai)
   - 4 players discard the same wind in the first tun (suufonsu renta)
   - 4 declared kan without all kan beloing to the same player (suukaikan)
@@ -92,8 +91,8 @@ It's just the translation is self-made and uses quite interesting terms.
 
 ## Stuff for Beginners
 
-If you're new to the mahjong you're inclined to press How to play.
-If you're not your inclined not to do that.
+If you're new to the mahjong, you're inclined to press How to play.
+If you're not, your inclined not to do that.
 But you should.
 There's no tutorial.
 All you get is a wall of text with the rules in ugly Comic Sans.
