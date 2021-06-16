@@ -197,6 +197,17 @@ If you still want to try, do get in touch with the discords I mentioned above.
 They'll help.
 Maybe join one of my tournaments.
 
+<!-- markdownlint-disable MD033 -->
+<aside>
+<h2>Edits</h2>
+<ul>
+ <li>I got the date wrong, patch 4.5 was on 2019-01-07, not 2019-07-01.</li>
+ <li>Of course, Doman Mahjong has akadora, I wonder what happened to my notes…</li>
+ <li>Added in the actual number of akadora.</li>
+</ul>
+</aside>
+<!-- markdownlint-enable MD033 -->
+
 ## References
 
 [^advanced-doman-rules]: [Doman Mahjong — Advanced Rules](https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/goldsaucer/doman-mahjong/special_rule/){:target="_blank" rel="noopener"}
@@ -214,14 +225,3 @@ Maybe join one of my tournaments.
 *[iichan]: East, South, West and North game
 
 *[tobi]: bankrupt
-
-<!-- markdownlint-disable MD033 -->
-<aside>
-<h2>Edits</h2>
-<ul>
- <li>I got the date wrong, patch 4.5 was on 2019-01-07, not 2019-07-01.</li>
- <li>Of course, Doman Mahjong has akadora, I wonder what happened to my notes…</li>
- <li>Added in the actual number of akadora.</li>
-</ul>
-</aside>
-<!-- markdownlint-enable MD033 -->
