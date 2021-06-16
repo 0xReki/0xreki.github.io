@@ -108,7 +108,7 @@ But then, there's no real standard for it.
 
 ## Stuff for Beginners
 
-There's no proper introduction and reading the in game guide to Mahjong doesn't help much.
+There's no proper introduction, and reading the in game guide to Mahjong doesn't help much.
 There's no in-game list of yaku.
 
 If you're unsure about tile efficiency you enable hints which will show directly above the hand options.
@@ -135,7 +135,7 @@ You might be limited by that.
 But that should be just a minor inconvenience, and who but people that I teach to play mahjong and the people that play in [my Doman Mahjong tournaments](/doman/) use these rooms?
 
 Then, there are two ranked rooms: Novice and Advanced.
-You need to be 1st Dan or higher to enter Advanced.
+You need to be 1st Dan or higher to enter Advanced games.
 Though due to the relative small player base no one ever queues for Advanced games which can make games quite frustrating for higher ranked players, more about that later.
 
 Other than aforementioned differences, all rooms use the same rules:
@@ -163,7 +163,7 @@ Well I said earlier no one plays in the advanced rooms.
 But that has a big drawback that everyone seems to accept: if a 1st dan player looses against three 4th dan players in the novice room, they lose about a lot of ranking points.
 Even getting 2nd might result in you losing ranking points there.
 Also, playing an unranked game requires you to put together your own Light Party.
-As mentioned above, that might be imponssible.
+As mentioned above, that might be impossible.
 Fortunately, players just organize themselves for this.
 
 You might want to check out the various communities for that.
@@ -197,16 +197,6 @@ If you still want to try, do get in touch with the discords I mentioned above.
 They'll help.
 Maybe join one of my tournaments.
 
-<!-- markdownlint-disable MD033 -->
-<aside>
-<ul>
- <li>I got the date wrong, patch 4.5 was on 2019-01-07, not 2019-07-01.</li>
- <li>Of course, Doman Mahjong has akadora, I wonder what happened to my notes…</li>
- <li>Added in the actual number of akadora.</li>
-</ul>
-</aside>
-<!-- markdownlint-enable MD033 -->
-
 ## References
 
 [^advanced-doman-rules]: [Doman Mahjong — Advanced Rules](https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/goldsaucer/doman-mahjong/special_rule/){:target="_blank" rel="noopener"}
@@ -224,3 +214,14 @@ Maybe join one of my tournaments.
 *[iichan]: East, South, West and North game
 
 *[tobi]: bankrupt
+
+<!-- markdownlint-disable MD033 -->
+<aside>
+<h2>Edits</h2>
+<ul>
+ <li>I got the date wrong, patch 4.5 was on 2019-01-07, not 2019-07-01.</li>
+ <li>Of course, Doman Mahjong has akadora, I wonder what happened to my notes…</li>
+ <li>Added in the actual number of akadora.</li>
+</ul>
+</aside>
+<!-- markdownlint-enable MD033 -->
