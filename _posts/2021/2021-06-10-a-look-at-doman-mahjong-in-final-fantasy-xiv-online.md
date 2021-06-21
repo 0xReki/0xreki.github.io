@@ -22,17 +22,17 @@ seo_meta_fix: 1
 ---
 Since January 2019, Doman Mahjong is a one of the Games you can play in the Gold Saucer in Final Fantasy XIV.[^patch-4-5]
 That's more than 2 years now!
-From what I have seen, at least is the West, it had very a rocky path to being an accepted addition to the game.
+From what I have seen, at least is the West, it had a very rocky path to being an accepted addition to the game.
 Things definitely got better, but that's also because of the improvements the “mini-game” got over the past two years.
 Let's have a look at what it looks like today.
 
 ## Final Fantasy XIV
 
 First, let's get the basics down:
-Final Fantasy XIV is an MMO for Windows, macOS, PlayStation 4 and PlayStation 5 where you need to both purchase the game and have an active subscription, usually.
+Final Fantasy XIV is an MMORPG for Windows, macOS, PlayStation 4 and PlayStation 5 where you usually need to both purchase the game and have an active subscription.
 But if you're only interested in Mahjong, rejoice: you can play using the time-unlimited trial account.
 You don't need to pay at all.
-Granted, there are some restrictions in place, e.g., not being able to use tells, a.k.a. whisper to someone.
+Granted, there are some restrictions in place, e.g., not being able to use tells, a.k.a. whisper to someone or not being able to invite other players to join your party.
 Those restrictions might be a hindrance to playing mahjong.
 More of that later.
 
@@ -61,7 +61,7 @@ In 2020, SquareEnix put their set into their merchandise lineup.
 I immediately ordered it, but due to COVID-19, it took till February 2021 to arrive.
 If you're interested to procure it yourself, check out the respective store pages.
 
-- [Doman Mahjong Set from Final Fanatsy XIV (US Shop Link)](https://store.na.square-enix-games.com/en_US/product/608809/final-fantasy-xiv-doman-mahjong-tiles){:target="_blank" rel="noopener"}
+- [Doman Mahjong Set from Final Fantasy XIV (US Shop Link)](https://store.na.square-enix-games.com/en_US/product/608809/final-fantasy-xiv-doman-mahjong-tiles){:target="_blank" rel="noopener"}
 - [Doman Mahjong Set from Final Fantasy XIV (EU Shop Link)](https://store.eu.square-enix-games.com/geo/ff14_doman_mahjong_tiles){:target="_blank" rel="noopener"}.
 
 No matter if you choose the Standard layout or the High Resolution layout, the information you need is spread over the screen.
@@ -111,14 +111,14 @@ But then, there's no real standard for it.
 There's no proper introduction, and reading the in game guide to Mahjong doesn't help much.
 There's no in-game list of yaku.
 
-If you're unsure about tile efficiency you enable hints which will show directly above the hand options.
+If you're unsure about tile efficiency, you can enable hints which will show directly above the hand options.
 Which would be a great plus for beginner friendliness if there was a proper tutorial for the game.
 Also, if you're not good a reading the river, you can enable the dangerous tiles marker.
 Which would mark all the dangerous tiles with red and orange marks.
 
 ![Doman Mahjong Dangerous Tiles Marker]({{ "/blog/images/2019-07-14-dangerous-tiles.png" | prepend: site.static_url | absolute_url }})
 
-If you aren't proficient with the Chinese numerals you can enable tile names which you display the tile names on your tiles in your hand when you hover over them.
+If you aren't proficient with the Chinese numerals, you can enable tile names which you display the tile names on your tiles in your hand when you hover over them.
 But sadly only for the tiles in your hand and only if it's your turn.
 Alternatively, you can always use the aforementioned Doman set, which has stylized Arabian Numbers that do look like Asian characters.
 
@@ -159,10 +159,10 @@ Other than aforementioned differences, all rooms use the same rules:
 
 ### The Problems
 
-Well I said earlier no one plays in the advanced rooms.
-But that has a big drawback that everyone seems to accept: if a 1st dan player looses against three 4th dan players in the novice room, they lose about a lot of ranking points.
+Earlier, I said no one plays in the Advanced rooms.
+That seems fine, people can just play in Novice rooms, but that has a big drawback that everyone seems to accept: if a 1st dan player looses against three 4th dan players in the novice room, they lose about a lot of ranking points.
 Even getting 2nd might result in you losing ranking points there.
-Also, playing an unranked game requires you to put together your own Light Party.
+Also, playing an unranked game requires your to put together your own Light Party.
 As mentioned above, that might be impossible.
 Fortunately, players just organize themselves for this.
 
