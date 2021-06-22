@@ -10,4 +10,4 @@ gem "jekyll-remote-theme", "~> 0.4.3"
 
 gem "jekyll-last-modified-at", "~> 1.3"
 
-gem "jekyll-wns", "~> 3.3"
+gem "jekyll-wns"
