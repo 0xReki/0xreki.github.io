@@ -6,7 +6,7 @@ tags:
   - Censorship
   - Games
   - WTF
-  - Post in German
+  - Posts in German
   - Germany
 
 excerpt: Ein Zombie kommt aus dem Grab wieder heraus gekrochen.
@@ -14,14 +14,14 @@ image: /blog/images/2016-07-26-counter-strike-global-offensive.jpg
 
 long: true
 ---
-*Ursprünglich veröffentlicht auf blog.crystaldown.de, welche nicht mehr existiert.*
+*Ursprünglich veröffentlicht am 2016-07-26 auf blog.crystaldown.de, welche nun in diesen Blog aufgegangen ist.*
 
 OMG! Ein Zombie kommt aus dem Grab wieder heraus gekrochen.
 
 <figure>
   <a href="https://store.steampowered.com/app/730/" target="_blank" rel="noopener"><!--_-->
     <img
-      src="/blog/images/2016-07-26-counter-strike-global-offensive.jpg"
+      src="{{'/blog/images/2016-07-26-counter-strike-global-offensive.jpg' | prepend: site.static_url | absolute_url }}"
       alt="Steam Banner von Counter Strike: Global Offensive">
   </a>
   Quelle: steampowered.com
@@ -53,7 +53,7 @@ Spiel!“
 
 <figure>
   <a href="https://store.steampowered.com/app/374900/" target="_blank" rel="noopener">
-    <img src="/blog/images/2016-07-26-agatha-christie-the-abc-murders.jpg"
+    <img src="{{ '/blog/images/2016-07-26-agatha-christie-the-abc-murders.jpg' | prepend: site.static_url | absolute_url }}"
       alt="Steam Banner von Agatha Christie — The ABC Murders">
   </a>
   Quelle: steampowered.com
@@ -74,7 +74,7 @@ Wie konnte es nur dazu kommen?
 Was könnte getan werden, um künftig sowas zu verhindern?
 
 <figure>
-    <img src="/blog/images/2016-07-26-who-wants-change-deu.jpg"
+    <img src="{{ '/blog/images/2016-07-26-who-wants-change-deu.jpg' | prepend: site.static_url | absolute_url }}"
       alt="Wer möchte Veränderung?">
   Orginal: changeactivation.com
 </figure>
@@ -86,7 +86,7 @@ Genau, finden wir ein anderes Sündenbock, damit wir als Gesellschaft uns nicht 
 
 <figure>
   <a href="https://changeactivation.com/" target="_blank" rel="noopener">
-    <img src="/blog/images/2016-07-26-who-wants-to-change-deu.jpg"
+    <img src="{{ '/blog/images/2016-07-26-who-wants-to-change-deu.jpg' | prepend: site.static_url | absolute_url }}"
       alt="Wer möchte sich ändern?">
   </a>
   Orginal: changeactivation.com

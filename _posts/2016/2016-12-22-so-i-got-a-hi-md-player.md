@@ -11,7 +11,6 @@ tags:
 long: true
 seo_meta_fix: 1
 ---
-
 Well, I'm in my late 20s and I suddenly got that urge to get me some stuff couldn't have when I was younger.
 So I did some research into what ever happened with magnetic-optical-technology, especially the Sony MiniDisc.
 

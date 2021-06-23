@@ -5,7 +5,7 @@ lang: de-DE
 tags:
   - Axel-Springer-Verlag
   - AdBlock
-  - Post in German
+  - Posts in German
   - Germany
 
 excerpt: |
@@ -15,7 +15,7 @@ excerpt: |
 long: true
 seo_meta_fix: 1
 ---
-*Ursprünglich veröffentlicht auf blog.crystaldown.de, welche nicht mehr existiert.*
+*Ursprünglich veröffentlicht am 2016-03-10 auf blog.crystaldown.de, welche nicht mehr existiert.*
 
 Werbung im Internet hat sein Vor- und Nachteile.
 Bei einer idealen Seitennutzer-Seitenbetreiber-Beziehung, spricht für Werbung, dass die, die die Werbung einblenden, damit Geld verdienen können.

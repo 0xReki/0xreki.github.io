@@ -7,7 +7,7 @@ tags:
   - Slack
   - Skype
   - Software
-  - Post in German
+  - Posts in German
 
 excerpt: | 
   Nach einem Bericht von TechCrunch stand Microsoft kurz vor der Übernahme von Slack, die dann doch von Bill Gates und Vorstandschef Satya Nadella gekippt wurde.
@@ -16,7 +16,7 @@ long: true
 seo_meta_fix: 1
 ---
 
-*Ursprünglich veröffentlicht auf blog.crystaldown.de, welche nicht mehr existiert.*
+*Ursprünglich veröffentlicht am 2016-03-05 auf blog.crystaldown.de, welche nicht mehr existiert.*
 
 Nach einem Bericht von TechCrunch stand Microsoft kurz vor der Übernahme von Slack, die dann doch von Bill Gates und Vorstandschef Satya Nadella gekippt wurde.[^1]
 
