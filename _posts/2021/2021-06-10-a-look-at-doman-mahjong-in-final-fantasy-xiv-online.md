@@ -12,7 +12,7 @@ redirect_from:
   - /2019/07/14/final-fantasy-xiv-doman-mahjong/
   - /2020/06/08/a-look-at-doman-mahjong-in-final-fantasy-xiv-online
 
-image: /blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.png
+image: /blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.webp
 
 checker:
   - lt
@@ -44,7 +44,7 @@ Or you can play bot games using the NPC tables in the Gold Saucer.
 
 ## The Visual Experience at the Table
 
-![Doman Mahjong]({{ "/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.png" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong]({{ "/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.webp" | prepend: site.static_url | absolute_url }})
 
 The Mahjong game has barely any animations at all.
 Drawing, discarding and calling have the minimum amount of animation of them, so you can see what is happening.
@@ -116,7 +116,7 @@ Which would be a great plus for beginner friendliness if there was a proper tuto
 Also, if you're not good a reading the river, you can enable the dangerous tiles marker.
 Which would mark all the dangerous tiles with red and orange marks.
 
-![Doman Mahjong Dangerous Tiles Marker]({{ "/blog/images/2019-07-14-dangerous-tiles.png" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong Dangerous Tiles Marker]({{ "/blog/images/2019-07-14-dangerous-tiles.webp" | prepend: site.static_url | absolute_url }})
 
 If you aren't proficient with the Chinese numerals, you can enable tile names which you display the tile names on your tiles in your hand when you hover over them.
 But sadly only for the tiles in your hand and only if it's your turn.

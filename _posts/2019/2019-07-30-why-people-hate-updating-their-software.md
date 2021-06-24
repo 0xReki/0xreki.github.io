@@ -11,7 +11,7 @@ tags:
   - PlayStation 3
   - Skype
 
-image: /blog/images/2019-07-30-windows-10-update.png
+image: /blog/images/2019-07-30-windows-10-update.webp
 
 checker:
   - pwa
@@ -41,7 +41,7 @@ But the damage is already done.
 Over time, frustrated users have already started to disable updates.
 And they will not reenable them if they can help it.
 
-![Windows 10 Update]({{ "/blog/images/2019-07-30-windows-10-update.png" | prepend: site.static_url | absolute_url }})
+![Windows 10 Update]({{ "/blog/images/2019-07-30-windows-10-update.webp" | prepend: site.static_url | absolute_url }})
 
 Another reason is updates that improve user experience.
 While it might sound like a good idea, after all this time, reading “improve user experience” just means one of two things: on a console that's just another update designed to hinder the execution of homebrew, user-written software for consoles.

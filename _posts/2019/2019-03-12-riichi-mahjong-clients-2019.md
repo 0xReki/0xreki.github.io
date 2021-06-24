@@ -7,7 +7,7 @@ tags:
   - Riichi Mahjong
   - Review
 
-image: /blog/images/2019-03-12-final-fantasy-doman-mahjong.png
+image: /blog/images/2019-03-12-final-fantasy-doman-mahjong.webp
 
 checker:
   - pwa
@@ -29,7 +29,7 @@ It has clients in Flash and HTML5 to run in any compatible browser and a native 
 Although it is only available in Japanese there is an [extension for Firefox and Chromium-based browsers that translates the HTML5 version](https://gitlab.com/zefiris/tenhou-english-ui) to English and French.
 Tenhou is very playable even without a premium subscription.
 
-![Tenhou]({{ "/blog/images/2019-03-12-tenhou.png" | prepend: site.static_url | absolute_url }})
+![Tenhou]({{ "/blog/images/2019-03-12-tenhou.webp" | prepend: site.static_url | absolute_url }})
 
 All the information about the deal is in the center.
 The dora indicators are in the wall as you expect.
@@ -43,7 +43,7 @@ So soon, that in fact if you only want to play Mahjong you can just get the free
 Since Final Fantasy XIV Online is a multilingual MMO even the Mahjong game is translated to several languages.
 And I think it's the most beginner friendly client.
 
-![Doman Mahjong Guides]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.png" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong Guides]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.webp" | prepend: site.static_url | absolute_url }})
 
 You cannot see the wall.
 Instead, you see the remaining tile count in the center.
@@ -54,7 +54,7 @@ In the bottom right corner, you have hints: it tells you what to discard to best
 Then, near the end of a deal or after somebody calls Riichi there are the Dangerous Tile Markers: red means very dangerous, orange dangerous etc.
 Safe tiles are not marked.
 
-![Doman Mahjong]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong.png" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong.webp" | prepend: site.static_url | absolute_url }})
 
 Called tiles are not removed, instead, they become darkened “ghost tiles”.
 
@@ -91,7 +91,7 @@ One the first look it seems decent.
 I do quite like how it looks.
 But looking at it more you can see it has very major flaws.
 
-![OpenRiichi]({{ "/blog/images/2019-03-12-openriichi.png" | prepend: site.static_url | absolute_url }})
+![OpenRiichi]({{ "/blog/images/2019-03-12-openriichi.webp" | prepend: site.static_url | absolute_url }})
 
 While in other clients I discussed till now you can easily see what the current deal, e.g., East&thinsp;—&thinsp;4, this client does not properly display it.
 You might assume you can infer the deal from the position of the dealer in relation to the chicha marker on the table.

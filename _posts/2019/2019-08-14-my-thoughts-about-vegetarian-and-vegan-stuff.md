@@ -6,7 +6,7 @@ tags:
   - Vegan
   - Vegetarian
 
-image: /blog/images/2019-08-14-vegan.png
+image: /blog/images/2019-08-14-vegan.webp
 
 checker:
   - pwa
@@ -19,7 +19,7 @@ In my time at I the Student's Union in fact, I was completely unaware of people 
 I only noticed it one day when we were preparing for a camp when I looked at the participant list.
 And these are my thoughts about the matter:
 
-![European Vegitarian Union Logo]({{ "/blog/images/2019-08-14-vegan.png" | prepend: site.static_url | absolute_url }})
+![European Vegitarian Union Logo]({{ "/blog/images/2019-08-14-vegan.webp" | prepend: site.static_url | absolute_url }})
 
 I stopped caring what reasons people have to eat like they eat -- be it beliefs or some disease or even just as a fun challenge.
 I learned that's not really my business.

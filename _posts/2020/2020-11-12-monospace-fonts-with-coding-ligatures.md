@@ -10,7 +10,7 @@ checker:
   - pw
   - lt
 
-image: /blog/images/2020-11-12-jetbrains.png
+image: /blog/images/2020-11-12-jetbrains.webp
 
 long: true
 ---
@@ -47,7 +47,7 @@ Basically, it's a font feature where the software you're using should automatica
 For most languages, it just makes the text look prettier.
 For other languages, it's a central feature that makes having the language on computers even possible.
 
-![Font ligatures in Linux Libertine]({{ "/blog/images/2020-11-12-libertine.png" | prepend: site.static_url | absolute_url }})
+![Font ligatures in Linux Libertine]({{ "/blog/images/2020-11-12-libertine.webp" | prepend: site.static_url | absolute_url }})
 
 As for what can go wrong when your software implements support for those, have a look at [The Effective Power Bug: Why Can Weird Text Crash Your iPhone? by Tom Scott](https://www.youtube.com/watch?v=hJLMSllzoLA){:target="_blank" rel="noopener"}.
 
@@ -61,7 +61,7 @@ The similar-looking characters are distinct, and you can easily recognize which 
 If you see an isolated l, you know it's a lowercase letter l without seeing a capital letter I or a number 1 in context.
 Capital letter O and number 0 look very distinct as well.
 
-![coding ligatures and capital i lower l number 1 number 0 capital o in font Fira Code]({{ "/blog/images/2020-11-12-fira.png" | prepend: site.static_url | absolute_url }})
+![coding ligatures and capital i lower l number 1 number 0 capital o in font Fira Code]({{ "/blog/images/2020-11-12-fira.webp" | prepend: site.static_url | absolute_url }})
 
 But with natural language support it falls apart.
 It's missing a lot of glyphs in the Latin-extended set.
@@ -75,7 +75,7 @@ The similar looking characters are distinct, and you can easily recognize which 
 If you see an isolated l, you know it's a lowercase letter l without seeing a capital letter I or a number 1 in context.
 Capital letter O and number 0 look very distinct as well.
 
-![coding ligatures and capital i lower l number 1 number 0 capital o in font Hasklig]({{ "/blog/images/2020-11-12-hasklig.png" | prepend: site.static_url | absolute_url }})
+![coding ligatures and capital i lower l number 1 number 0 capital o in font Hasklig]({{ "/blog/images/2020-11-12-hasklig.webp" | prepend: site.static_url | absolute_url }})
 
 Source Code Pro and by extension Hasklig support lots of natural languages.
 But with the small number of ligatures, I'm skipping over this one.
@@ -87,7 +87,7 @@ It supports more naturals languages than Fira Code, but its ligatures aren't loo
 It's more condensed, so you can fit more text into one line.
 But that makes it slightly harder to read.
 
-![coding ligatures and capital i lower l number 1 number 0 capital o in font Iosevka]({{ "/blog/images/2020-11-12-iosevka.png" | prepend: site.static_url | absolute_url }})
+![coding ligatures and capital i lower l number 1 number 0 capital o in font Iosevka]({{ "/blog/images/2020-11-12-iosevka.webp" | prepend: site.static_url | absolute_url }})
 
 What made me shy away is that the similar looking characters look too similar.
 If I'm not used to it, I could easily mistake a lower case l for a number 1.
@@ -103,7 +103,7 @@ If you see an isolated l, you know it's a lowercase letter l without seeing a ca
 Capital letter O and number 0 don't look very distinct.
 Making them more distinct doesn't fit into the look of the boxy aesthetic of the font.
 
-![coding ligatures and capital i lower l number 1 number 0 capital o in font JetBrains Mono]({{ "/blog/images/2020-11-12-jetbrains.png" | prepend: site.static_url | absolute_url }})
+![coding ligatures and capital i lower l number 1 number 0 capital o in font JetBrains Mono]({{ "/blog/images/2020-11-12-jetbrains.webp" | prepend: site.static_url | absolute_url }})
 
 ## Conclusion
 

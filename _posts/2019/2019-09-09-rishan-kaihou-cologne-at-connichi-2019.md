@@ -7,7 +7,7 @@ tags:
   - Riichi Mahjong
   - Conventions
 
-image: /blog/images/2019-09-09-connichi.png
+image: /blog/images/2019-09-09-connichi.webp
 
 checker:
   - pwa
@@ -17,7 +17,7 @@ seo_meta_fix: 1
 ---
 Saturday,  September 7th, 2019, it's about noon.
 An enthusiastic “Tsumo!” can be heard in the rooms of Games Unplugged at Connichi in Kassel.
-![Logo of Connichi]({{ "/blog/images/2019-09-09-connichi.png" | prepend: site.static_url | absolute_url }})
+![Logo of Connichi]({{ "/blog/images/2019-09-09-connichi.webp" | prepend: site.static_url | absolute_url }})
 
 If you have been at Connichi last weekend probably knows about it: we have been invited to Connichi 2019 in Kassel to show the world the joys of Riichi Mahjong.
 

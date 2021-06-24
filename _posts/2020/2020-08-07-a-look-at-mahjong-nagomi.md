@@ -9,7 +9,7 @@ tags:
 checker:
   - pwa
 
-image: /blog/images/2020-08-07-title-screen.png
+image: /blog/images/2020-08-07-title-screen.webp
 
 long: true
 ---
@@ -17,7 +17,7 @@ long: true
 There's a new Riichi Mahjong platform on Steam: [Mahjong Nagomi](https://store.steampowered.com/app/1356180/Mahjong_Nagomi/).
 On the first glance, it looks decent. So let's dive right in!
 
-![Mahjong Nagomi Title Screen]({{ "/blog/images/2020-08-07-title-screen.png" | prepend: site.static_url | absolute_url }})
+![Mahjong Nagomi Title Screen]({{ "/blog/images/2020-08-07-title-screen.webp" | prepend: site.static_url | absolute_url }})
 
 ## Rule Sets
 
@@ -54,7 +54,7 @@ If you find any mistake or have more information, please get in touch.
 
 ## The Visual Experience at the Table
 
-![Mahjong Nagomi Table]({{ "/blog/images/2020-08-07-table.png" | prepend: site.static_url | absolute_url }})
+![Mahjong Nagomi Table]({{ "/blog/images/2020-08-07-table.webp" | prepend: site.static_url | absolute_url }})
 
 This game has basic animations. Dora have a glowing animation on them.
 But it feels cheap. Very cheap.
