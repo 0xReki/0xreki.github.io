@@ -24,7 +24,7 @@ I only did that, so I could use my phone to write when I was on the go.
 Writing on the phone is something I've given up on, so now I mostly write on my computer.
 <!--more-->
 
-![Gears]({{'/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }})
+![Gears]({{'/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}){:srcset="{{'/blog/images/xs/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }} 319w, {{'/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }} 880w"}
 
 ## Visual Studio Code and its Extensions
 
