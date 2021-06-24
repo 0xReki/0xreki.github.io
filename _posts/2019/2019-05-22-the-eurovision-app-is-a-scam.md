@@ -8,7 +8,7 @@ tags:
 checker:
   - pwa
 
-image: /blog/images/2019-05-22-eurovision-splash.avif
+image: /blog/images/2019-05-22-eurovision-splash.webp
 
 long: true
 seo_meta_fix: 1
@@ -20,7 +20,7 @@ But I'm not here to write about who won and who lost or who should have won.
 This is about the Eurovision App and how it gets advertised in the show and why it's a scam.
 During the whole week, they say you have multiple options to vote: voting by calling a premium number, voting by writing an SMS to a premium number and voting by using the app!
 
-![Eurovision Splash]({{ "/blog/images/2019-05-22-eurovision-splash.avif" | prepend: site.static_url | absolute_url }})
+![Eurovision Splash]({{ "/blog/images/2019-05-22-eurovision-splash.webp" | prepend: site.static_url | absolute_url }})
 
 The costs on premium numbers are not that high.
 But still, some people might prefer to disable premium numbers for multiple good reasons.
