@@ -65,7 +65,7 @@ canonical_url: https://0xreki.de/blog/
         {% endif %}
       {% endif %}
       <img itemprop="url"
-        srcset="{{ post.image | replace: '/image/', '/image/xs/' | prepend: site.static_url | absolute_url }} 319w, {{ post.image | prepend: site.static_url | absolute_url }} 880w"
+        srcset="{{ post.image | replace: '/images/', '/images/xs/' | prepend: site.static_url | absolute_url }} 319w, {{ post.image | prepend: site.static_url | absolute_url }} 880w"
         sizes="(max-width: 575.96px) 319px, 880px"
         src="{{ post.image | prepend: site.static_url | absolute_url }}" 
         alt="{{ post.title }}">
