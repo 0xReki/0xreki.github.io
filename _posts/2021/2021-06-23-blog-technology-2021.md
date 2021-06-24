@@ -7,7 +7,7 @@ tags:
 redirect_from:
   - /2020/05-22-blog-technology-2020/
 
-image: /blog/images/2021-06-23-gears.jpg
+image: /blog/images/2021-06-23-gears.avif
 #image_license: CC-0
 
 checker:
@@ -24,7 +24,7 @@ I only did that, so I could use my phone to write when I was on the go.
 Writing on the phone is something I've given up on, so now I mostly write on my computer.
 <!--more-->
 
-![Gears]({{'/blog/images/2021-06-23-gears.jpg' | prepend: site.static_url | absolute_url }})
+![Gears]({{'/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }})
 
 ## Visual Studio Code and its Extensions
 

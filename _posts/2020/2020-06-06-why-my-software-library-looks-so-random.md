@@ -42,7 +42,7 @@ There's a solution to that problem:<br>
 <a href="https://www.commitstrip.com/en/2016/10/27/a-magical-cure/">
   <img 
     class="img-fluid"
-    src="{{ "/blog/images/2018-04-04-a-magical-cure.jpg" | preprend: site.static_url | absolute_url }}"
+    src="{{ "/blog/images/2018-04-04-a-magical-cure.avif" | preprend: site.static_url | absolute_url }}"
     alt="CommitStrip: A Magical Cure">
 </a><br>
 **END RANT**

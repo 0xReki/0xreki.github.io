@@ -55,7 +55,7 @@ The Doman Set has stylized Arabic Numbers for manzu, Namazu for pinzu and Sabote
 Personally, I like the look of most tiles of the set, I just don't like stylized Arabic Numbers.
 People that are proficient in Japanese can happen to actually see katakana instead of numbers.
 
-![Doman Mahjong Set from Final Fantasy XIV]({{ "/blog/images/2021-01-06-doman.jpg" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong Set from Final Fantasy XIV]({{ "/blog/images/2021-01-06-doman.avif" | prepend: site.static_url | absolute_url }})
 
 In 2020, SquareEnix put their set into their merchandise lineup.
 I immediately ordered it, but due to COVID-19, it took till February 2021 to arrive.

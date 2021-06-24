@@ -9,7 +9,7 @@ tags:
   - Nintendo
   - Nintendo Switch
 
-image: /blog/images/2020-06-05-table.jpg
+image: /blog/images/2020-06-05-table.avif
 
 checker:
   - lt
@@ -28,7 +28,7 @@ This is **not** a full review of Clubhouse Games.
 
 ## The Visual Experience at the Table
 
-![Riichi Table in Clubhouse Games]({{ "/blog/images/2020-06-05-table.jpg" | prepend: site.static_url | absolute_url }})
+![Riichi Table in Clubhouse Games]({{ "/blog/images/2020-06-05-table.avif" | prepend: site.static_url | absolute_url }})
 
 The interface looks neat as expected.
 The Nintendo “Yakuman Phoenix” tile set is a nice touch.
@@ -68,7 +68,7 @@ I'd prefer some variety though.
 
 ## Scoring of a Hand
 
-![Haneman in Clubhouse Games]({{ "/blog/images/2020-06-05-scoring.jpg" | prepend: site.static_url | absolute_url }})
+![Haneman in Clubhouse Games]({{ "/blog/images/2020-06-05-scoring.avif" | prepend: site.static_url | absolute_url }})
 
 Scoring is as you would expect.
 Now might be a good time to mention there are no replays.

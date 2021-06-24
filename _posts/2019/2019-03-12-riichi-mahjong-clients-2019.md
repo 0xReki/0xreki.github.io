@@ -66,7 +66,7 @@ But unfortunately, those are not without problems: for people who can read Japan
 OK, it is obvious when you see them in the sorted with other manzu, but when you encounter them in isolation you get this: “no man? fu man?” referring to the strange looking 1 man and 7 man respectively.
 Good thing you can simply switch the tileset to traditional in the Gold Saucer options.
 
-![Doman Mahjong Set]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.jpg" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong Set]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.avif" | prepend: site.static_url | absolute_url }})
 
 All in all, I think Square Enix has done a great job of making Riichi Mahjong accessible to new players.
 
@@ -75,7 +75,7 @@ All in all, I think Square Enix has done a great job of making Riichi Mahjong ac
 [SEGA NET Mahjong MJ](https://sega-mj.com) is another client I commonly use.
 It is Japanese language only.
 
-![SEGA NET Mahjong MJ]({{ "/blog/images/2019-03-12-sega-net-mj.jpg" | prepend: site.static_url | absolute_url }})
+![SEGA NET Mahjong MJ]({{ "/blog/images/2019-03-12-sega-net-mj.avif" | prepend: site.static_url | absolute_url }})
 
 You cannot see the wall, but you can see dora indicator in the top left corner.
 Doras turn all golden. All information about the current deal is in the center.
@@ -114,7 +114,7 @@ Since extensions don't run on mobile you are stuck with a Japanese interface.
 
 [Minna no Mahjong](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.mjminna) used to be good single player client.
 
-![Minna no Mahjong]({{ "/blog/images/2019-03-12-minna-no-mahjong.jpg" | prepend: site.static_url | absolute_url }})
+![Minna no Mahjong]({{ "/blog/images/2019-03-12-minna-no-mahjong.avif" | prepend: site.static_url | absolute_url }})
 
 It only has a Japanese interface.
 It has good AI players. It looks great. So why do I hate it?
