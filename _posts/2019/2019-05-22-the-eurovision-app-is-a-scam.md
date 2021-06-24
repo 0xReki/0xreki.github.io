@@ -46,7 +46,7 @@ I just didn't vote.
 I am just to cheap to pay 20 cents per vote?
 Maybe.
 But then, most likely not.
-I mean I'm one of those people who happily pay 20 bucks for having access to a bunch of pixels that look like a fat cat.
+I mean, I'm one of those people who happily pay 20 bucks for having access to a bunch of pixels that look like a fat cat.
 What bothers me that it's a scam.
 And being scammed like that killed all the hype for Eurovision to me.
 Will they ever fix that?
