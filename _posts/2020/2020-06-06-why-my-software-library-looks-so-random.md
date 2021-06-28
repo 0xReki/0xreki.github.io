@@ -11,8 +11,8 @@ seo_title_fix: 1
 People generally ask me why the software I use seems so random.
 While I prefer Linux over Windows, I prefer the Microsoft Office Suite over Libre Office.
 OK, the latter might not be true anymore.
-
 <!--more-->
+
 I do also use Open Source software like Etherpad, [Gnumeric](https://www.gnumeric.org/){:target="_blank" rel="noopener"}, LaTeX.
 I even code slides in HTML5 for my presentations.
 But that's the problem: I can only do that when I work alone or the people I work with have acquired a certain skill set.

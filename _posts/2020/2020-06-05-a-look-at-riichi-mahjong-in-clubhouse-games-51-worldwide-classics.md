@@ -25,6 +25,7 @@ And since it's made by Nintendo, the bar is set slightly higher.
 It's finally out, and I dove straight in, ignoring all other games (and sleep).
 As such, this is only a look at Riichi Mahjong in Clubhouse Games.
 This is **not** a full review of Clubhouse Games.
+<!--more-->
 
 ## The Visual Experience at the Table
 

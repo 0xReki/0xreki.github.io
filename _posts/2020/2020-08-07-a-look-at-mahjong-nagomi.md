@@ -16,6 +16,7 @@ long: true
 
 There's a new Riichi Mahjong platform on Steam: [Mahjong Nagomi](https://store.steampowered.com/app/1356180/Mahjong_Nagomi/).
 On the first glance, it looks decent. So let's dive right in!
+<!--more-->
 
 ![Mahjong Nagomi Title Screen]({{ "/blog/images/2020-08-07-title-screen.webp" | prepend: site.static_url | absolute_url }})
 

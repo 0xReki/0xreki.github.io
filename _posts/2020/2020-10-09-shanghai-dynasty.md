@@ -21,6 +21,7 @@ I have written about old software before.
 I have written about Mahjong before.
 But I haven't done both at the same time!
 Let's talk about “Shanghai: Dynasty”.
+<!--more-->
 
 ![Shanghai: Dynasty Title Screen]({{ "/blog/images/2020-10-09-title-screen.webp" | prepend: site.static_url | absolute_url }})
 

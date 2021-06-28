@@ -22,6 +22,7 @@ If you haven't seen it yet, I write a Web Novel called [Crystal Down](/crystaldo
 While I do have volunteers and commenters that help me with spelling and grammar, running it through a tool beforehand is just good practice.
 Until now, I've been using Grammarly Free, and it leaves a lot of things to be desired…
 So much so, I don't even care about their Premium because it doesn't seem to offer anything I need.
+<!--more-->
 
 I have a tech background.
 That makes me have requirements to software other people might not even consider.

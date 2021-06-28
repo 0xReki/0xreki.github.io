@@ -11,12 +11,13 @@ long: true
 seo_meta_fix: 1
 ---
 
-The [Final Fantasy XIV Companion App](https://eu.finalfantasyxiv.com/companion/){:target="_blank" rel="noopener"}<!--_--> has been released for almost two years now.
+The [Final Fantasy XIV Companion App](https://eu.finalfantasyxiv.com/companion/){:target="_blank" rel="noopener"} has been released for almost two years now.
 How is my experience with the App until now?
 Why do I still use it? Is it even worth the time?
-I mean it's released two years ago.
+I mean, it's been released two years ago.
+<!--more-->
 
-Before we begin: if you collect emotes registering the app itself gives you a fun emote `/tomestone`.
+Before we begin: if you collect emotes, registering the app itself gives you a fun emote `/tomestone`.
 But let's get into the functions of the app.
 
 The first point of the app, the chat function, would be a great thing to have if it actually worked properly!

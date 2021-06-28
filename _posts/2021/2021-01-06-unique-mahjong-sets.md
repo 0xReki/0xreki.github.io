@@ -19,6 +19,7 @@ TLDR: Mahjong Sets with non-standard look are nothing new.
 Unique sets go “simple” branding to completely changing the look and/or rules.
 The most lazy change is just putting some branding onto the back of the tiles.
 But to me, those are also the most boring ones — changes in the tile faces feel more artistic to me.
+<!--more-->
 
 This post will focus heavily Ichikawaya sets.
 It's not sponsored, but they're the only place I know that makes such sets in Riichi format.

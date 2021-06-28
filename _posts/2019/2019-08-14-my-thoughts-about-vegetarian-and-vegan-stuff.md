@@ -15,9 +15,10 @@ long: true
 ---
 I neither vegetarian nor vegan.
 And I seldom have problems with people that are.
-In my time at I the Student's Union in fact, I was completely unaware of people I was working with being vegetarians or vegans for quite a while.
+In my time at the Student's Union in fact, I was completely unaware of people I was working with being vegetarians or vegans for quite a while.
 I only noticed it one day when we were preparing for a camp when I looked at the participant list.
 And these are my thoughts about the matter:
+<!--more-->
 
 ![European Vegitarian Union Logo]({{ "/blog/images/2019-08-14-vegan.webp" | prepend: site.static_url | absolute_url }})
 

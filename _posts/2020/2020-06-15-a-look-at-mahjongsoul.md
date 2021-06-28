@@ -23,6 +23,7 @@ I'm still around, since everyone else is still on it…
 Just like with Facebook.
 That's just how it is…
 But I can still try and be give you a neutral breakdown.
+<!--more-->
 
 ![MahjongSoul Title Screen]({{ "/blog/images/2019-05-03-title-screen.webp" | prepend: site.static_url | absolute_url }})
 
