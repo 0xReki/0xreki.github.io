@@ -1,0 +1,29 @@
+<speak>
+<p>0xReki's Adventures by Night. Blog Technology 2021.</p>
+<p>published on 2021-06-23, last updated on 2021-06-28.</p>
+<p>tagged with  Software Recommendations .</p>
+
+<break time="3s" />
+
+<p>This is just what I currently use; I tend to replace tools with other tools if they provide me with better user experience. If you have suggestions,  feel free to reach out .</p> <p>I used to write most of the stuff in Google Docs. I only did that, so I could use my phone to write when I was on the go. Writing on the phone is something I’ve given up on, so now I mostly write on my computer. <!--more--></p>
+
+<break time="3s" />
+
+<p>Visual Studio Code and its Extensions.</p>
+<p>My editor of choice is Visual Studio Code and use all kinds of extensions. The one that made the biggest difference this year is  LanguageTool Linter . For all the natural language extensions I’ve used so far, this is the most configurable one. If you bother to install a local version of the tool, you can even run it while you are offline.</p> <p>There’s also  VSCode Neovim . But VIM is just my personal preference, and I don’t like missionaries from either side. Just use whatever you feel is best for you.</p>
+
+<p>Jekyll, its Plugins and what my Theme uses.</p>
+
+<p> I like using markdown  and luckily, that’s what  Jekyll  takes to build this website. In the beginning, I used GitHub Pages to build and host, but as the site got bigger and I wanted some more custom code, and more plugins, it quickly fell out of what GitHub Pages supports. Now I have  Netlify  build and host the site, it’s more flexible. I can just push source files and don’t need to push rendered files into the repository.</p> <p>Why did I need more plugins anyway? When I first I wanted to have automatic linking key terms to the respective glossary and using a regex plugin is the only way to make it efficient. I tried it without the regex plugin and the pages took like 30 minutes to render. With the regex plugin it’s only 2 minutes.</p> <p>Over time, I just wanted some more custom code, so I ended up making my own plugins.</p>
+
+<p>Currently, the Jekyll Plugins I use are:jekyll-last-modified-at, jekyll-regex-replace, jekyll-include-cache, ekyll-liquify, jekyll-criticmarkup and jekyll-wns</p>
+
+<p>While not technically a Jekyll Plugin, my theme uses  Hagsten/Talkify  for the Text-To-Speech function. I don’t use their fancy voices, their free limits are too restrictive. Instead, I just use the browser provided ones. Sadly, that means Firefox has the worst selection of Text-to-Speech voices. It still works, but the AI voices that Edge and Chrome provide are much more superior.</p> <p>Speaking of my theme, when I preview my site, all of the content is displayed in an editable container. All that container does is make it possible for  ProWritingAid  to go over the chapter and point out anything it finds. It still have to edit it in Visual Studio Code, but it’s the easiest solution for me. Plus, this should also work for Grammarly, should you prefer that.</p>
+
+<p>GitLab.</p>
+<p>As of last year, I have my code mainly on GitLab. Why? It has issue branches. It’s a very basic feature, and GitHub just doesn’t care about implementing it. Yes, there’s some custom action you can configure to make something like that, but it’s clunky — you have to do that for every single repository. Plus, I’m not comfortable with their freemium model.</p>
+
+<p>Command-Line Tools</p>
+
+<p>I shouldn’t forget to mention  markdowny . When I started out I had like 5 lines of front matter in my files. Since then, I had to add more to do things like navigation, SEO etc. There were times, where 40 lines of front matter for each file was normal. Granted I managed to automate them where possible, but it’s still 20 lines per files wherever it’s needed. All that would be a real pain to manage and check, if I didn’t have a tool that goes with it. npm keeps screaming its dependencies are outdated, but my node JS is not good enough for me to try and fix that.</p> <p>For now, I’m not putting out eBooks versions, but I still have my pipeline somewhere. I use  pandoc  for creating ePUB versions. And then, I use  Calibre  to convert my ePUB to PDF. In 90% of all cases, this works without further intervention. In the other 10% of the cases, I just tweak the code until it works.</p> <p>That’s all about the technology that I use with the page. Next time I think I should tell you about the adventures with getting the chapters out to social media… I’m still looking for suitable tools. </p>
+</speak>
