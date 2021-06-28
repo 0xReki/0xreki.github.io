@@ -58,5 +58,5 @@ What are your thoughts on the resulting audio?
   </fieldset>
 </form>
 
-If you have more feed back to give, feel free to [send me a message](/contact/) or join [{{ site.name }} Discord](https://discord.gg/8DCZWGc)!
+If you have more feed back to give, feel free to [send me a message](/contact/) or join the [{{ site.title }} Discord](https://discord.gg/8DCZWGc)!
 If I'm to be honest, the latter might be faster.
