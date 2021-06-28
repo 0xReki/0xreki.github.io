@@ -2,7 +2,9 @@
 title: Sample Audio Files Added
 ---
 You may have noticed I added some audio to [Amauga Chapter 1](https://0xreki.de/amauga/01-far-from-any-semblance-of-modern-civilization/001-quick-starting-my-summer-break/) and the post [Blog Technology 2021](https://0xreki.de/2021/06-23-blog-technology-2021/).
-What are your thoughts?
+
+I'm not a great narrator, so I put it in Amazon Polly and fiddled around with it.
+What are your thoughts on the resulting audio?
 
 <form name="Audio 2021" method="POST" action="/thanks-for-voting/" id="audio-2021-keep" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
   <fieldset id="contact">
