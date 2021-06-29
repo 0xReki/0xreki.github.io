@@ -25,7 +25,7 @@ That's just how it is…
 But I can still try and be give you a neutral breakdown.
 <!--more-->
 
-![MahjongSoul Title Screen]({{ "/blog/images/2019-05-03-title-screen.webp" | prepend: site.static_url | absolute_url }})
+![MahjongSoul Title Screen]({{ "/blog/images/2019-05-03-title-screen.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 First, let get the basics down: you can log in with a standard account as well as with Google, Twitter and Facebook using OAuth.
 You might think that's standard in this day and age, but it's not a given.
@@ -35,7 +35,7 @@ After the tutorial, you get directly to the main menu.
 The interface should be self-explanatory, so I'm not going to cover that.
 But at the top, we immediately see the 2 types of currency: Coppers and Jade.
 
-![MahjongSoul Main Menu]({{ "/blog/images/2019-05-03-main-menu.webp" | prepend: site.static_url | absolute_url }})
+![MahjongSoul Main Menu]({{ "/blog/images/2019-05-03-main-menu.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 ## A Quick Analysis of the Freemium
 
@@ -79,7 +79,7 @@ As I said, that's just an attempt, there's no guarantee you even get a character
 
 ## The Visual Experience at the Table
 
-![Mahjong Soul Table]({{ "/blog/images/2019-05-03-table.webp" | prepend: site.static_url | absolute_url }})
+![Mahjong Soul Table]({{ "/blog/images/2019-05-03-table.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 This game has nice animations.
 Dora have a glowing animation on them.
@@ -113,7 +113,7 @@ But if I have to do that, it just proves how terrible it is.
 
 ## Scoring of a Hand
 
-![Mahjong Soul Scoring]({{ "/blog/images/2019-05-03-hand.webp" | prepend: site.static_url | absolute_url }})
+![Mahjong Soul Scoring]({{ "/blog/images/2019-05-03-hand.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 Scoring is as you would expect.
 If you have levelled the bond with your character, the character with a complete portrait shot reads the yaku — plus can unlock their alternate costume.

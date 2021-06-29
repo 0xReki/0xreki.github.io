@@ -40,7 +40,7 @@ There's nothing on this front, so this is also just a nice thing to wish for.
 I'm writing a Novel, so options for more natural speech and other colloquial styles would be very useful.
 So I get the 7-day free trial of [ProWritingAid](https://prowritingaid.com/?afid=9599){:target="_blank" rel="sponsored" ref="noopener"} and start testing it.
 
-![ProWritingAid]({{ "/blog/images/2020-10-12-prowritingaid-logo.webp" | prepend: site.static_url | absolute_url }})
+![ProWritingAid]({{ "/blog/images/2020-10-12-prowritingaid-logo.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 ## A Look at the Technical Matters
 
@@ -58,7 +58,7 @@ Markdown! That's exactly what I need!
 It doesn't have a Linux version, and the Windows version doesn't run in WINE, I tried.
 Maybe I'll have more luck with the MacOS version and darling, but that'll have to wait for later.
 
-![ProWritingAid DesktopApp]({{ "/blog/images/2020-10-12-prowritingaid-desktop.webp" | prepend: site.static_url | absolute_url }})
+![ProWritingAid DesktopApp]({{ "/blog/images/2020-10-12-prowritingaid-desktop.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 So for testing, I run it on a Windows machine.
 The software looks much like the Web App, but the options are in the native menu bar, making them much easier to access.

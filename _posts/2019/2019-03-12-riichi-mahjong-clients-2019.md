@@ -32,7 +32,7 @@ It has clients in Flash and HTML5 to run in any compatible browser and a native 
 Although it is only available in Japanese there is an [extension for Firefox and Chromium-based browsers that translates the HTML5 version](https://gitlab.com/zefiris/tenhou-english-ui) to English and French.
 Tenhou is very playable even without a premium subscription.
 
-![Tenhou]({{ "/blog/images/2019-03-12-tenhou.webp" | prepend: site.static_url | absolute_url }})
+![Tenhou]({{ "/blog/images/2019-03-12-tenhou.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 All the information about the deal is in the center.
 The dora indicators are in the wall as you expect.
@@ -46,7 +46,7 @@ So soon, that in fact if you only want to play Mahjong you can just get the free
 Since Final Fantasy XIV Online is a multilingual MMO even the Mahjong game is translated to several languages.
 And I think it's the most beginner friendly client.
 
-![Doman Mahjong Guides]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.webp" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong Guides]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 You cannot see the wall.
 Instead, you see the remaining tile count in the center.
@@ -57,7 +57,7 @@ In the bottom right corner, you have hints: it tells you what to discard to best
 Then, near the end of a deal or after somebody calls Riichi there are the Dangerous Tile Markers: red means very dangerous, orange dangerous etc.
 Safe tiles are not marked.
 
-![Doman Mahjong]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong.webp" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 Called tiles are not removed, instead, they become darkened “ghost tiles”.
 
@@ -69,7 +69,7 @@ But unfortunately, those are not without problems: for people who can read Japan
 OK, it is obvious when you see them in the sorted with other manzu, but when you encounter them in isolation you get this: “no man? fu man?” referring to the strange looking 1 man and 7 man respectively.
 Good thing you can simply switch the tileset to traditional in the Gold Saucer options.
 
-![Doman Mahjong Set]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.avif" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong Set]({{ "/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 All in all, I think Square Enix has done a great job of making Riichi Mahjong accessible to new players.
 
@@ -78,7 +78,7 @@ All in all, I think Square Enix has done a great job of making Riichi Mahjong ac
 [SEGA NET Mahjong MJ](https://sega-mj.com) is another client I commonly use.
 It is Japanese language only.
 
-![SEGA NET Mahjong MJ]({{ "/blog/images/2019-03-12-sega-net-mj.avif" | prepend: site.static_url | absolute_url }})
+![SEGA NET Mahjong MJ]({{ "/blog/images/2019-03-12-sega-net-mj.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 You cannot see the wall, but you can see dora indicator in the top left corner.
 Doras turn all golden. All information about the current deal is in the center.
@@ -94,7 +94,7 @@ One the first look it seems decent.
 I do quite like how it looks.
 But looking at it more you can see it has very major flaws.
 
-![OpenRiichi]({{ "/blog/images/2019-03-12-openriichi.webp" | prepend: site.static_url | absolute_url }})
+![OpenRiichi]({{ "/blog/images/2019-03-12-openriichi.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 While in other clients I discussed till now you can easily see what the current deal, e.g., East&thinsp;—&thinsp;4, this client does not properly display it.
 You might assume you can infer the deal from the position of the dealer in relation to the chicha marker on the table.
@@ -117,7 +117,7 @@ Since extensions don't run on mobile you are stuck with a Japanese interface.
 
 [Minna no Mahjong](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.mjminna) used to be good single player client.
 
-![Minna no Mahjong]({{ "/blog/images/2019-03-12-minna-no-mahjong.avif" | prepend: site.static_url | absolute_url }})
+![Minna no Mahjong]({{ "/blog/images/2019-03-12-minna-no-mahjong.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 It only has a Japanese interface.
 It has good AI players. It looks great. So why do I hate it?

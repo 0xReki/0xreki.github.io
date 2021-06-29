@@ -8,53 +8,53 @@ What are your thoughts on the resulting audio?
 
 {% unless canonical_url %}
 <form name="Audio 2021" method="POST" action="/thanks-for-voting/" id="audio-2021-keep" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
-  <fieldset id="contact">
+  <fieldset>
     <div class="d-none">
       <input name="vote" type="hidden" value="keep">
       <label for="captcha">Captcha</label>
       <input name="captcha" type="text">
     </div>
     <div>
-      <button type="sumbit" id="messagebutton" class="btn btn-primary btn-block">It's good, make more of it!</button>
+      <button type="sumbit" class="btn btn-primary btn-block">It's good, make more of it!</button>
     </div>
   </fieldset>
 </form>
 
 <form name="Audio 2021" method="POST" action="/thanks-for-voting/" id="audio-2021-posts" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
-  <fieldset id="contact">
+  <fieldset>
     <div class="d-none">
       <input name="vote" type="hidden" value="posts">
       <label for="captcha">Captcha</label>
       <input name="captcha" type="text">
     </div>
     <div>
-      <button type="sumbit" id="messagebutton" class="btn btn-primary btn-block">Post audio is great, but chapter audio is dreadfull! Scrap chapter audio!</button>
+      <button type="sumbit" class="btn btn-primary btn-block">Post audio is great, but chapter audio is dreadfull! Scrap chapter audio!</button>
     </div>
   </fieldset>
 </form>
 
 <form name="Audio 2021" method="POST" action="/thanks-for-voting/" id="audio-2021-none" class="form-horizontal" data-netlify="true" netlify-honeypot="captcha">
-  <fieldset id="contact">
+  <fieldset>
     <div class="d-none">
       <input name="vote" type="hidden" value="none">
       <label for="captcha">Captcha</label>
       <input name="captcha" type="text">
     </div>
     <div>
-      <button type="sumbit" id="messagebutton" class="btn btn-primary btn-block">Totally useless, a waste of time!</button>
+      <button type="sumbit" class="btn btn-primary btn-block">Totally useless, a waste of time!</button>
     </div>
   </fieldset>
 </form>
 
 <form name="Audio 2021" method="POST" action="/thanks-for-voting/" id="audio-2021-narrator" class="form-horizontal mb-4" data-netlify="true" netlify-honeypot="captcha">
-  <fieldset id="contact">
+  <fieldset>
     <div class="d-none">
       <input name="vote" type="hidden" value="narrator">
       <label for="captcha">Captcha</label>
       <input name="captcha" type="text">
     </div>
     <div>
-      <button type="sumbit" id="messagebutton" class="btn btn-primary btn-block">Post audio is great, but chapter audio is dreadfull! Look for a proper narrator!</button>
+      <button type="sumbit" class="btn btn-primary btn-block">Post audio is great, but chapter audio is dreadfull! Look for a proper narrator!</button>
     </div>
   </fieldset>
 </form>

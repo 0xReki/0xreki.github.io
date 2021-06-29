@@ -20,7 +20,7 @@ I only noticed it one day when we were preparing for a camp when I looked at the
 And these are my thoughts about the matter:
 <!--more-->
 
-![European Vegitarian Union Logo]({{ "/blog/images/2019-08-14-vegan.webp" | prepend: site.static_url | absolute_url }})
+![European Vegitarian Union Logo]({{ "/blog/images/2019-08-14-vegan.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 I stopped caring what reasons people have to eat like they eat -- be it beliefs or some disease or even just as a fun challenge.
 I learned that's not really my business.

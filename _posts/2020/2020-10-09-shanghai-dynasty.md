@@ -23,7 +23,7 @@ But I haven't done both at the same time!
 Let's talk about “Shanghai: Dynasty”.
 <!--more-->
 
-![Shanghai: Dynasty Title Screen]({{ "/blog/images/2020-10-09-title-screen.webp" | prepend: site.static_url | absolute_url }})
+![Shanghai: Dynasty Title Screen]({{ "/blog/images/2020-10-09-title-screen.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 Shanghai: Dynasty was written by Quicksilver Software.
 It was published by Activision in 1997 for Windows 95 and macOS 7.
@@ -84,9 +84,9 @@ Yes, Riichi Mahjong feels every tacked on. Granted, it is. It was added in a pat
 Whenever you get uradora, you can only see them mark gold in the hand.
 You won't see the uradora indicators.
 
-![Winning with 2 Dora]({{ "/blog/images/2020-10-09-whats-my-ura-1.webp" | prepend: site.static_url | absolute_url }})
+![Winning with 2 Dora]({{ "/blog/images/2020-10-09-whats-my-ura-1.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
-![You see 1 dora indicator, but no ura indicator]({{ "/blog/images/2020-10-09-whats-my-ura-2.webp" | prepend: site.static_url | absolute_url }})
+![You see 1 dora indicator, but no ura indicator]({{ "/blog/images/2020-10-09-whats-my-ura-2.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 But then there are… the bugs? Misinterpretation of the rules?
 The more you play, the more you notice them.
@@ -94,7 +94,7 @@ Like you can kan after you call, you shouldn't be able to do that.
 
 Just when I was about to finish up my screenshot collection for this post, I stumbled across something else: a wild 4 Winds Abortion appears where it shouldn't.
 
-![A Wild Suufon Appears!]({{ "/blog/images/2020-10-09-a-wild-suufon-appears.webp" | prepend: site.static_url | absolute_url }})
+![A Wild Suufon Appears!]({{ "/blog/images/2020-10-09-a-wild-suufon-appears.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 I like the sound and visual effects of the calls.
 I think it's one of the reasons I like revisiting this software.

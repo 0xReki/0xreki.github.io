@@ -28,7 +28,7 @@ If you know of other place to reliably find such sets, please get in touch.
 
 ## Crabs and Gold Fish Set by Ichikawaya
 
-![Crabs and Gold Fish Set by Ichikawaya]({{ "/blog/images/2021-01-06-kingyo.avif" | prepend: site.static_url | absolute_url }})
+![Crabs and Gold Fish Set by Ichikawaya]({{ "/blog/images/2021-01-06-kingyo.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 Let's begin with a very ancient set: [Crabs and Gold Fish Set by Ichikawaya](http://www.1kawaya.com/mj/r-kingyo.html){:target="_blank" rel="noopener"}.
 My Japanese is close to non-existent but Google Translate tells me it's a reproduction of an antique set.
@@ -37,14 +37,14 @@ Sure, green souzu isn't green, but everything about this set says it's from a pr
 
 ## Tengen Set by Ichikawaya
 
-![Tengen Set by Ichikawaya]({{ "/blog/images/2021-01-06-tengen.avif" | prepend: site.static_url | absolute_url }})
+![Tengen Set by Ichikawaya]({{ "/blog/images/2021-01-06-tengen.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 The [Tengen Set by Ichikawaya](http://www.1kawaya.com/mj/p-tengen.html){:target="_blank" rel="noopener"} is currently the set I'm thinking of buying in the near future.
 It has a classy look that doesn't feel old.
 
 ## Galaxy Set by Ichikawaya
 
-![Galaxy Set by Ichikawaya]({{ "/blog/images/2021-01-06-galaxy.avif" | prepend: site.static_url | absolute_url }})
+![Galaxy Set by Ichikawaya]({{ "/blog/images/2021-01-06-galaxy.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 One of most changed sets I'm eyeing from time to time is the [Galaxy Set by Ichikawaya](http://www.1kawaya.com/mj/p-galaxy01.html){:target="_blank" rel="noopener"}.
 It doesn't look like any other Mahjong Set I've ever seen.
@@ -57,7 +57,7 @@ It's such different take on tiles I'd consider it more a collectable than an act
 
 ## Doman Mahjong Set from Final Fantasy XIV
 
-![Doman Mahjong Set from Final Fanatsy XIV]({{ "/blog/images/2021-01-06-doman.avif" | prepend: site.static_url | absolute_url }})
+![Doman Mahjong Set from Final Fanatsy XIV]({{ "/blog/images/2021-01-06-doman.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 Of course, there's the [Doman Mahjong Set from Final Fanatsy XIV (US Shop Link)](https://store.na.square-enix-games.com/en_US/product/608809/final-fantasy-xiv-doman-mahjong-tiles){:target="_blank" rel="noopener"} [(EU Shop Link)](https://store.eu.square-enix-games.com/geo/ff14_doman_mahjong_tiles){:target="_blank" rel="noopener"}.
 Pinpu in this set are Namazu, souzu are Sabotender, and the manzu are with stylized arabic numbers.
@@ -66,7 +66,7 @@ If not for the ongoing pandemic, this set is widely available, so I decided to m
 
 ## MACHILL Set by THE 90s LAB
 
-![MACHILL Set by THE 90s LAB]({{ "/blog/images/2021-01-06-machill.avif" | prepend: site.static_url | absolute_url }})
+![MACHILL Set by THE 90s LAB]({{ "/blog/images/2021-01-06-machill.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 Stepping away from Riichi tiles, I recently found the MACHILL Set by THE 90s LAB.
 It's very modern and simplistic.
@@ -75,7 +75,7 @@ Anyway, I can't find it anywhere, so even if I would want to buy it, I currently
 
 ## The Minimal Line by The Mahjong Line
 
-![The Minimal Line by The Mahjong Line]({{ "/blog/images/2021-01-06-minimal.avif" | prepend: site.static_url | absolute_url }})
+![The Minimal Line by The Mahjong Line]({{ "/blog/images/2021-01-06-minimal.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
 Finally, I just found a minimalistic set from the west,
 [The Minimal Line by The Mahjong Line](https://themahjongline.com/collections/the-minimal-line).
