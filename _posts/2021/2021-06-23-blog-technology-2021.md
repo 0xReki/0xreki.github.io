@@ -26,8 +26,13 @@ I only did that, so I could use my phone to write when I was on the go.
 Writing on the phone is something I've given up on, so now I mostly write on my computer.
 <!--more-->
 
-![Gears]({{'/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}){:srcset="{{'/blog/images/xs/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }} 319w, {{'/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }} 880w" loading="lazy"}
+<picture class="mb-2">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-06-23-gears.jpg' | prepend: site.static_url | absolute_url }}" alt="Gears">
+</picture>
 
+{:.mt-4}
 ## Visual Studio Code and its Extensions
 
 My editor of choice is Visual Studio Code and use all kinds of extensions.

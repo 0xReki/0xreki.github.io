@@ -29,8 +29,13 @@ This is **not** a full review of Clubhouse Games.
 
 ## The Visual Experience at the Table
 
-![Riichi Table in Clubhouse Games]({{ "/blog/images/2020-06-05-table.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2020-06-05-table.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-06-05-table.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-06-05-table.jpg' | prepend: site.static_url | absolute_url }}" alt="Riichi Table in Clubhouse Games">
+</picture>
 
+{:.mt-4}
 The interface looks neat as expected.
 The Nintendo “Yakuman Phoenix” tile set is a nice touch.
 It's easy to spot since it's more or less the only set with a tortoise in the 1 pin.
@@ -69,8 +74,13 @@ I'd prefer some variety though.
 
 ## Scoring of a Hand
 
-![Haneman in Clubhouse Games]({{ "/blog/images/2020-06-05-scoring.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2020-06-05-scoring.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-06-05-scoring.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-06-05-scoring.jpg' | prepend: site.static_url | absolute_url }}" alt="Haneman in Clubhouse Games">
+</picture>
 
+{:.mt-4}
 Scoring is as you would expect.
 Now might be a good time to mention there are no replays.
 So if you want to share your big hand, you need to screenshot it immediately.

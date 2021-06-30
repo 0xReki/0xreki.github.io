@@ -6,7 +6,7 @@ tags:
   - Vegan
   - Vegetarian
 
-image: /blog/images/2019-08-14-vegan.webp
+image: /blog/images/2019-08-14-vegan.avif
 
 checker:
   - pwa
@@ -20,8 +20,13 @@ I only noticed it one day when we were preparing for a camp when I looked at the
 And these are my thoughts about the matter:
 <!--more-->
 
-![European Vegitarian Union Logo]({{ "/blog/images/2019-08-14-vegan.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2019-08-14-vegan.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-08-14-vegan.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-08-14-vegan.jpg' | prepend: site.static_url | absolute_url }}" alt="European Vegitarian Union Logo">
+</picture>
 
+{:.mt-4}
 I stopped caring what reasons people have to eat like they eat -- be it beliefs or some disease or even just as a fun challenge.
 I learned that's not really my business.
 Yes, I am slightly interested, but to me, accepting their eating habits entails not bothering them about it.

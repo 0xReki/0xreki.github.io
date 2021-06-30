@@ -8,7 +8,7 @@ tags:
 checker:
   - pwa
 
-image: /blog/images/2019-05-22-eurovision-splash.webp
+image: /blog/images/2019-05-22-eurovision-splash.avif
 
 long: true
 seo_meta_fix: 1

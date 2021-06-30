@@ -9,7 +9,7 @@ tags:
 checker:
   - pwa
 
-image: /blog/images/2020-08-07-title-screen.webp
+image: /blog/images/2020-08-07-title-screen.avif
 
 long: true
 ---
@@ -18,8 +18,13 @@ There's a new Riichi Mahjong platform on Steam: [Mahjong Nagomi](https://store.s
 On the first glance, it looks decent. So let's dive right in!
 <!--more-->
 
-![Mahjong Nagomi Title Screen]({{ "/blog/images/2020-08-07-title-screen.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2020-08-07-title-screen.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-08-07-title-screen.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-08-07-title-screen.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Nagomi Title Screen">
+</picture>
 
+{:.mt-4}
 ## Rule Sets
 
 Let's talk about rule sets: you can choose between East-Only (tonpuusen) and
@@ -55,8 +60,13 @@ If you find any mistake or have more information, please get in touch.
 
 ## The Visual Experience at the Table
 
-![Mahjong Nagomi Table]({{ "/blog/images/2020-08-07-table.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2020-08-07-table.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-08-07-table.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-08-07-table.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Nagomi Table">
+</picture>
 
+{:.mt-4}
 This game has basic animations. Dora have a glowing animation on them.
 But it feels cheap. Very cheap.
 Other clients that use glowing animations do it much better.

@@ -6,7 +6,7 @@ tags:
   - Riichi Mahjong
   - Review
 
-image: /blog/images/2019-05-03-title-screen.webp
+image: /blog/images/2019-05-03-title-screen.avif
 
 checker:
   - lt
@@ -25,8 +25,13 @@ That's just how it is…
 But I can still try and be give you a neutral breakdown.
 <!--more-->
 
-![MahjongSoul Title Screen]({{ "/blog/images/2019-05-03-title-screen.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2019-05-03-title-screen.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-title-screen.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-title-screen.jpg' | prepend: site.static_url | absolute_url }}" alt="MahjongSoul Title Screen">
+</picture>
 
+{:.mt-4}
 First, let get the basics down: you can log in with a standard account as well as with Google, Twitter and Facebook using OAuth.
 You might think that's standard in this day and age, but it's not a given.
 At your first login, you're presented with a tutorial to Riichi Mahjong.
@@ -35,8 +40,13 @@ After the tutorial, you get directly to the main menu.
 The interface should be self-explanatory, so I'm not going to cover that.
 But at the top, we immediately see the 2 types of currency: Coppers and Jade.
 
-![MahjongSoul Main Menu]({{ "/blog/images/2019-05-03-main-menu.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2019-05-03-main-menu.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-main-menu.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-main-menu.jpg' | prepend: site.static_url | absolute_url }}" alt="MahjongSoul Main Menu">
+</picture>
 
+{:.mt-4}
 ## A Quick Analysis of the Freemium
 
 Over the last decade or so, I got a habit when starting F2P games: I check premium stuff first.
@@ -79,8 +89,13 @@ As I said, that's just an attempt, there's no guarantee you even get a character
 
 ## The Visual Experience at the Table
 
-![Mahjong Soul Table]({{ "/blog/images/2019-05-03-table.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2019-05-03-table.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-table.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-table.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Soul Table">
+</picture>
 
+{:.mt-4}
 This game has nice animations.
 Dora have a glowing animation on them.
 Among the cosmetics, assuming you can afford them, you can have different table cloths, tile backs, riichi sticks, hands and animations.
@@ -113,8 +128,13 @@ But if I have to do that, it just proves how terrible it is.
 
 ## Scoring of a Hand
 
-![Mahjong Soul Scoring]({{ "/blog/images/2019-05-03-hand.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2019-05-03-hand.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-hand.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-hand.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Soul Scoring">
+</picture>
 
+{:.mt-4}
 Scoring is as you would expect.
 If you have levelled the bond with your character, the character with a complete portrait shot reads the yaku — plus can unlock their alternate costume.
 

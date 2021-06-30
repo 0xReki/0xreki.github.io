@@ -11,7 +11,7 @@ tags:
   - PlayStation 3
   - Skype
 
-image: /blog/images/2019-07-30-windows-10-update.webp
+image: /blog/images/2019-07-30-windows-10-update.avif
 
 checker:
   - pwa

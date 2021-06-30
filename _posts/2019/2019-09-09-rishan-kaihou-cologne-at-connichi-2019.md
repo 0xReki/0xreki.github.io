@@ -7,7 +7,7 @@ tags:
   - Riichi Mahjong
   - Conventions
 
-image: /blog/images/2019-09-09-connichi.webp
+image: /blog/images/2019-09-09-connichi.avif
 
 checker:
   - pwa
@@ -17,8 +17,14 @@ seo_meta_fix: 1
 ---
 Saturday,  September 7th, 2019, it's about noon.
 An enthusiastic “Tsumo!” can be heard in the rooms of Games Unplugged at Connichi in Kassel.
-![Logo of Connichi]({{ "/blog/images/2019-09-09-connichi.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
 
+<picture>
+  <source srcset="{{ '/blog/images/2019-09-09-connichi.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-09-09-connichi.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-09-09-connichi.png' | prepend: site.static_url | absolute_url }}" alt="Logo of Connichi">
+</picture>
+
+{:.mt-4}
 If you have been at Connichi last weekend probably knows about it: we have been invited to Connichi 2019 in Kassel to show the world the joys of Riichi Mahjong.
 
 Not all of us could get a day off.
@@ -59,8 +65,13 @@ To the others we explain what a yakuman is. And what a double yakuman is.
 
 By the way, congratulations to Nico for his first Yakuman!
 
-![Mahjong Tiles: 六六六➁➄➄➄西西西北北北➁ 666m2555p333444z2p — suuankou tankimatchi (“double” Yakuman) ]({{ "/blog/images/2019-09-09-suuankou-tanki.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2019-09-09-suuankou-tanki.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-09-09-suuankou-tanki.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-09-09-suuankou-tanki.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Tiles: 六六六➁➄➄➄西西西北北北➁ 666m2555p333444z2p — suuankou tankimatchi (“double” Yakuman) ">
+</picture>
 
+{:.mt-4}
 We get even more people.
 I look around, but there's no place for a third table.
 I walk around a bit.
@@ -78,8 +89,13 @@ Since it's for a group of people that already play I leave them and visit once i
 A little later I'm being called outside: “Thai, can you come quickly? We need help with scoring.”
 Of course, I get out to help. Huh? A very rare hand awaits me:
 
-![Mahjong Tiles: 四四五五六七七八八九九８８六 — 44556778899m88s6m — riichi ippatsu tsumo pinfu ryanpeikou (Haneman) ]({{ "/blog/images/2019-09-09-ryanpeikou.avif" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+<picture>
+  <source srcset="{{ '/blog/images/2019-09-09-ryanpeikou.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-09-09-ryanpeikou.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-09-09-ryanpeikou.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Tiles: 四四五五六七七八八九九８８六 — 44556778899m88s6m — riichi ippatsu tsumo pinfu ryanpeikou (Haneman) ">
+</picture>
 
+{:.mt-4}
 Sunday is nearing its end.
 It was an exhausting weekend.
 Exhausting but fun.
