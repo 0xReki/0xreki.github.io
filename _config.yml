@@ -97,7 +97,7 @@ defaults:
       path: "_posts"
     values:
       category: personal
-      layout: 2020/post
+      layout: 2021/post
       type: post
       lang: "en-CA"
       author: reki
