@@ -52,7 +52,7 @@ Or you can play bot games using the NPC tables in the Gold Saucer.
 <picture>
   <source srcset="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong">
 </picture>
 
 {:.mt-4}
@@ -68,7 +68,7 @@ People that are proficient in Japanese can happen to actually see katakana inste
 <picture>
   <source srcset="{{ '/blog/images/2021-01-06-doman.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2021-01-06-doman.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-01-06-doman.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Set from Final Fantasy XIV">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-01-06-doman.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Set from Final Fantasy XIV">
 </picture>
 
 {:.mt-4}
@@ -134,7 +134,7 @@ Which would mark all the dangerous tiles with red and orange marks.
 <picture>
   <source srcset="{{ '/blog/images/2019-07-14-dangerous-tiles.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2019-07-14-dangerous-tiles.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-07-14-dangerous-tiles.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Dangerous Tiles Marker">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2019-07-14-dangerous-tiles.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Dangerous Tiles Marker">
 </picture>
 
 {:.mt-4}

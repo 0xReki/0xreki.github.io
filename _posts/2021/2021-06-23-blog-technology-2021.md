@@ -8,6 +8,7 @@ redirect_from:
   - /2020/05-22-blog-technology-2020/
 
 image: /blog/images/2021-06-23-gears.avif
+image_alt: Gears (Symbolic Picture)
 #image_license: CC-0
 
 checker:
@@ -26,13 +27,16 @@ I only did that, so I could use my phone to write when I was on the go.
 Writing on the phone is something I've given up on, so now I mostly write on my computer.
 <!--more-->
 
-<picture class="mb-2">
-  <source srcset="{{ '/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-06-23-gears.jpg' | prepend: site.static_url | absolute_url }}" alt="Gears">
+<picture>
+  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" alt="{{ page.image_alt }}" title="{{ page.image_alt }}">
 </picture>
 
-{:.mt-4}
 ## Visual Studio Code and its Extensions
 
 My editor of choice is Visual Studio Code and use all kinds of extensions.
