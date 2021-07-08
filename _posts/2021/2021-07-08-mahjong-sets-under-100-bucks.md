@@ -34,6 +34,16 @@ The leather case is ~~garbage~~ not well assembled.
 The trays are too big, which might be better for getting the tiles out, but not good for transporting it, at least with just its case.
 But it's the tiles we're most interested in, so how are they?
 
+<picture>
+  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-07-08-jaques.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-07-08-jaques.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-07-08-jaques.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-jaques.webp' | prepend: site.static_url | absolute_url }}" alt="Jaques Set" title="Jaques Set">
+</picture>
+
 They are white tiles with white back.
 This isn't great for Riichi.
 Sure, you can get used to it, but they are quite a bother to play with.
@@ -49,7 +59,7 @@ In the end, when I was transporting the set back from trying out the set with [R
 But if you're still interested, I'm putting some Amazon links to it here:
 
 - [Jaques London Luxury Mahjong Set on Amazon DE](https://www.amazon.de/-/dp/B07312NX2P)
-- [Jaques London Luxury Mahjong Set on Amazon GB](https://www.amazon.co.uk/-/dp/B07312NX2P)
+- [Jaques London Luxury Mahjong Set on Amazon UK](https://www.amazon.co.uk/-/dp/B07312NX2P)
 
 *[haku]: White Dragon
 
@@ -92,6 +102,16 @@ I haven't tried this one yet, but the AMOS Max set was [recommended over on Redd
 
 Unlike the two other sets, this one doesn't have the Arabic numbers and Western symbols.
 And its colours are, like most Japanese sets, quite dark.
+
+<picture>
+  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-07-08-amos-max.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-07-08-amos-max.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-07-08-amos-max.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-amos-max.webp' | prepend: site.static_url | absolute_url }}" alt="AMOS Max Set" title="AMOS Max Set">
+</picture>
 
 Even though you have to import this set from Japan, at the time of writing, it ends up about the same price as the other two.
 If only there were sets with red back…
