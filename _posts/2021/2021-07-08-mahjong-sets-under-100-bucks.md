@@ -53,7 +53,7 @@ With their usable weight, the tiles stand rather stable on the table.
 
 Unusual for a set with a Chinese-style bing, this set comes with tenbo.
 Other than they exist, I can't say any positive about them: they are made from very cheap, brittle plastic.
-In the end, when I was transporting the set back from trying out the set with [Rishan Kaihou Cologne](https://riichi.cologne), the case broke and I returned it to Amazon.
+In the end, when I was transporting the set back from trying out the set with [Rishan Kaihou Cologne](https://riichi.cologne), the case broke, and I returned it to Amazon.
 But if you're still interested, I'm putting some Amazon links to it here:
 
 - [Jaques London Luxury Mahjong Set on Amazon DE](https://www.amazon.de/-/dp/B07312NX2P)
@@ -61,7 +61,7 @@ But if you're still interested, I'm putting some Amazon links to it here:
 
 *[haku]: White Dragon
 
-*[bing]: Plate, that's why it's B for Haku.
+*[bing]: Plate, that's why it's B for Haku; some Americans call it soap.
 
 ## Philos 3166
 
@@ -113,6 +113,8 @@ And its colours are, like most Japanese sets, quite dark.
 
 Even though you have to import this set from Japan, at the time of writing, it ends up about the same price as the other two.
 If only there were sets with red back…
+Yes, they are bigger than the usual tiles, and it takes time getting used it.
+But after a while, they kinda grow on you.
 
 - [AMOS Max Set on Amazon JP](https://www.amazon.co.jp/-/dp/B015SDE3SS/)
 - [AMOS Max Set on Amazon UK](https://www.amazon.co.uk/-/dp/B015SDE3SS/)
