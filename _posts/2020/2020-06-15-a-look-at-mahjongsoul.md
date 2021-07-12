@@ -8,6 +8,9 @@ tags:
 
 image: /blog/images/2019-05-03-title-screen.avif
 
+redirect_from: 
+  - /2019/05/03/i-played-mahjongsoul-and-i-dont-like-it
+
 checker:
   - lt
 
