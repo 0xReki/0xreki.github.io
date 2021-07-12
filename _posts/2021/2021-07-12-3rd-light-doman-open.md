@@ -27,9 +27,11 @@ excerpt: |
   It's time for another Light Doman Open!
   This is the sixth Doman Mahjong Tournament on Light, feel free to make an alt character on Light, or Chaos, to join.
   This will be the first tournament after Final Fantasy XIV adds Data Centre Travel, let's see how well it works for us.
-  And since I need some image I can connect to this tournament, I dug out some bad pun: 来冬 の 麻雀, raito no maajan.
+  And since I need some image I can connect to this tournament, I dug out some bad pun: 来冬 の 麻雀, raitou no maajan.
   来冬 means next winter.
   You know where this is going: Riichi is coming.
+audio:
+  date: 2021-07-12
 ---
 <script type="application/ld+json">
 {
