@@ -50,7 +50,7 @@ For other languages, it's a central feature that makes having the language on co
 <picture>
   <source srcset="{{ '/blog/images/2020-11-12-libertine.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2020-11-12-libertine.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-libertine.jpg' | prepend: site.static_url | absolute_url }}" alt="Font ligatures in Linux Libertine">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-libertine.png' | prepend: site.static_url | absolute_url }}" alt="Font ligatures in Linux Libertine">
 </picture>
 
 {:.mt-4}
@@ -69,7 +69,7 @@ Capital letter O and number 0 look very distinct as well.
 <picture>
   <source srcset="{{ '/blog/images/2020-11-12-fira.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2020-11-12-fira.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-fira.jpg' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Fira Code">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-fira.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Fira Code">
 </picture>
 
 {:.mt-4}
@@ -88,7 +88,7 @@ Capital letter O and number 0 look very distinct as well.
 <picture>
   <source srcset="{{ '/blog/images/2020-11-12-hasklig.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2020-11-12-hasklig.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-hasklig.jpg' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Hasklig">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-hasklig.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Hasklig">
 </picture>
 
 {:.mt-4}
@@ -105,7 +105,7 @@ But that makes it slightly harder to read.
 <picture>
   <source srcset="{{ '/blog/images/2020-11-12-iosevka.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2020-11-12-iosevka.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-iosevka.jpg' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Iosevka">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-iosevka.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Iosevka">
 </picture>
 
 {:.mt-4}
@@ -126,7 +126,7 @@ Making them more distinct doesn't fit into the look of the boxy aesthetic of the
 <picture>
   <source srcset="{{ '/blog/images/2020-11-12-jetbrains.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
   <source srcset="{{ '/blog/images/2020-11-12-jetbrains.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-jetbrains.jpg' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font JetBrains Mono">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-jetbrains.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font JetBrains Mono">
 </picture>
 
 {:.mt-4}

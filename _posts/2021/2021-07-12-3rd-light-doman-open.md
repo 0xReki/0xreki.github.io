@@ -72,10 +72,10 @@ audio:
 <picture>
   <source srcset="{{ '/blog/images/xs/2021-09-throne.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
   <source srcset="{{ '/blog/images/xs/2021-09-throne.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-09-throne.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/xs/2021-09-throne.png' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
   <source srcset="{{ '/blog/images/2021-09-throne.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
   <source srcset="{{ '/blog/images/2021-09-throne.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-09-throne.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-09-throne.png' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/png">
   <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-09-throne.webp' | prepend: site.static_url | absolute_url }}" alt="The Mahjong Throne" title="The Mahjong Throne">
   <figcaption class="text-center">The Mahjong Throne</figcaption>
 </picture>
