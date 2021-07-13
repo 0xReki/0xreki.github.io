@@ -105,7 +105,7 @@ As always, this is a player event: it is not affiliated with FFXIV, SquareEnix e
 
 The spreadsheet includes space for private games.
 After the finalization of the timetable, feel free to challenge some players for a game to fill the time.
-There will be second ranking for those, which also include the scores for games some subbed in.
+There will be second ranking for those, which also include the scores for games someone subbed in.
 I'm giving an extra prize for the top average score: 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 5 EUR.
 
 A big thanks to the sponsors!
@@ -120,7 +120,7 @@ Note: Prizes can't be received on any trial accounts.
 **Registered Players, Seating etc.**: {% if page.sheet_url %} see the
 [Tournament Spreadsheet]({{ page.sheet_url }}){:target="_blank" rel="noopener"}, times are all UTC (a.k.a.Server Time) {% else %}not available{% endif %}
 
-**Where**: Final Fantasy XIV Online, Data Centre Light, preferably at the Mahjong Tables on Server Odin. Feel Free to join the [Mahjong of Light Discord](https://discord.gg/nUSfJ2Q){:target="_blank" rel="noopener"}
+**Where**: Final Fantasy XIV Online, Data Centre Light, preferably at the Mahjong Tables on Server Odin. Feel free to join the [Mahjong of Light Discord](https://discord.gg/nUSfJ2Q){:target="_blank" rel="noopener"}
 
 ## Format
 
@@ -132,16 +132,22 @@ My current plan is to have 2 games per player each day.
 Having more slots just helps a lot with not playing the same people each time.
 
 All games will be played in Final Fantasy XIV Online as friendly matches “Full Game Four-player Mahjong (Kuitan Enabled)” on Data Centre Light.
-Don't be confused, what Doman Mahjong considers a “Full Game” is just a Hanchan, it's *not* an Iichan.
+Don't be confused, what Doman Mahjong considers a “Full Game” is just a hanchan, it's *not* an iichan.
 After the game, since FFXIV doesn't have logs and spectator mode (yet! Yoshi-P, please add one for us!) the result should be screenshotted and sent to the organizer.
 
 ## Rules
+
+I want everyone to have a good time, so please show good sportsmanship.
+In case of bad conduct, I will take the liberty to disqualify any offending players.
+Should any problems arise, even during the tournament, please don't hesitate to contact me.
+
+### Riichi Rules
 
 Most of these are the result of playing in Final Fantasy XIV Online.
 
 - three red fives (aka ari)
 - players **start on 25,000 points** and return 25,000
-- placement bonus is +15/+5/-5/-15
+- placement bonuses are +15/+5/-5/-15
 - hanchan **ends** if a player falls **below zero points** (tobi)
 - South 4 Round also ends when dealership doesn't pass (agariyame)
 - open tanyao is allowed (kuitan ari)
@@ -153,11 +159,10 @@ Most of these are the result of playing in Final Fantasy XIV Online.
   - same wind tile as the first 4 discards (suufonsu renda) [^advanced-doman-rules]
   - 4 kan not from the same person (suukaikan) and [^advanced-doman-rules]
   - triple ron (sancha hou) [^advanced-doman-rules]
-- no abortive draw for 4 riichi (suucha riichi)
+- **no abortive draw** for 4 riichi (suucha riichi)
 - mangan at draw (nagashi mangan) possible [^special-yaku]
 
-If a player is late by more than ten minutes they are replaced by a substitute
-player for the hanchan.
+If a player is late by more than ten minutes, they are replaced by a substitute player for the hanchan.
 
 ### On Missed Games and Substituted Players
 
