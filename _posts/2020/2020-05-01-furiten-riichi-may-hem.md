@@ -44,8 +44,8 @@ excerpt: |
   "isAccessibleForFree": true,
   "organizer": {
     "@type": "Person",
-    "url": "https://0xreki.de",
-    "name": "Thai “0xReki” Chung"
+    "url": "https://0xreki.de/about-me/",
+    "name": "quốc Thái “0xReki” Chung"
   }
 }
 </script>
