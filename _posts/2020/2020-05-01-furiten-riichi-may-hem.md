@@ -28,7 +28,6 @@ excerpt: |
   "@type": "SportsEvent",
   "name": "{{ page.title }}",
   "url": "{{ page.url }}",
-  "id": "{{ page.url }}",
   "sport": "Riichi Mahjong",
   "startDate": "2020-05-01",
   "endDate": "2020-05-03",

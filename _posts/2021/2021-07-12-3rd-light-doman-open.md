@@ -39,7 +39,6 @@ audio:
   "@type": "SportsEvent",
   "name": "{{ page.title }}",
   "url": "{{ page.url }}",
-  "id": "{{ page.url}}",
   "sport": "Riichi Mahjong",
   "startDate": "{{ page.start_date }}",
   "endDate": "{{ page.end_date }}",
