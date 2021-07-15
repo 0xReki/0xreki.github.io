@@ -65,8 +65,8 @@ excerpt: |
 </script>
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.avif' | prepend: site.static_url | absolute_url }}"media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.webp' | prepend: site.static_url | absolute_url }}"media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
   <source srcset="{{ '/blog/images/2020-09-18-turn-order.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
   <source srcset="{{ '/blog/images/2020-09-18-turn-order.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
   <img loading="lazy" src="{{ '/blog/images/2020-09-18-turn-order.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Turn Order">
@@ -103,9 +103,9 @@ Riichi Ippatsu Dora 6. Sadly, it stayed the biggest hand for the day.
 </picture>
 
 {:.mt-4}
-Saturday was the secound day. And things went wild very quickly.
+Saturday was the second day. And things went wild very quickly.
 Ai Hinatsuru hit with an open Honitsu Chanta Haku Hatsu Sha Dora Dora.
-Even so it wasn't enough to become first at that table.
+Even so, it wasn't enough to become first at that table.
 
 <picture>
   <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-aeliott-cadenza.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
