@@ -583,10 +583,10 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 清一色<br>
       romaji: chiniisou or chinitsu<br>
-      EMA/WRC: Half Flush<br>
-      Nintendo Clubhouse Games: Half Flush<br>
-      Doman Mahjong: Half Flush<br>
-      Mahjong Soul: Half Flush
+      EMA/WRC: Full Flush<br>
+      Nintendo Clubhouse Games: Full Flush<br>
+      Doman Mahjong: Full Flush<br>
+      Mahjong Soul: Full Flush
     </p>
     <p>
       Value: 6 han, 5 han if hand is open
