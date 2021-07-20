@@ -559,7 +559,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
   <dd>
     <p>
       Japanase: 二盃口<br>
-      romaji: honiisou or honitsu<br>
+      romaji: ryanpeikou<br>
       EMA/WRC: Twice Pure Double Chows<br>
       Nintendo Clubhouse Games: Double Twin Runs<br>
       Doman Mahjong: Twice Pure Double Chi<br>
