@@ -16,7 +16,8 @@ image_alt: Not a standard hand, but Big Wheels seems to be quite popular.
 These days, there's a lot of English language options for Riichi Mahjong.
 But one thing that's always seems different is how the yaku are translated.
 It can lead to confusion when switching clients.
-To help with that, here is a list of terms used in EMA, WRC, SEGA NET MJ, Nintendo Clubhouse Games, Final Fantasy XIV Doman Mahjong and Mahjong Soul.
+To help with that, here is a list of terms used in EMA [^ema], WRC [^wrc], SEGA NET MJ [^sega], Nintendo Clubhouse Games, Final Fantasy XIV Doman Mahjong [^doman] and Mahjong Soul.
+
 
 <!-- markdownlint-disable MD033 -->
 <picture>
@@ -803,6 +804,7 @@ To help with that, here is a list of terms used in EMA, WRC, SEGA NET MJ, Ninten
     </p>
     <p>
       To get this, your hand must consist 4 kans.
+      All kinds of kan qualify for this yaku.
     </p>
   </dd>
 
@@ -867,4 +869,14 @@ To help with that, here is a list of terms used in EMA, WRC, SEGA NET MJ, Ninten
 ## Edit History
 
 - 2021-07-20: Fixed Copy/Paste Error in Full Flush
-- 2021-07-21: Added Information from SEGA NET MJ
+- 2021-07-21: Added Information from SEGA NET MJ; added references where possible.
+
+## References
+
+[^ema]: [EMA Riichi Rules 2016](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf)
+
+[^wrc]: [World Riichi Championship Rules 2015](http://ooyamaneko.net/download/mahjong/World_Riichi_Championship_Rules_2015.pdf)
+
+[^sega]: [SEGA NET MJ: How to make Yaku](https://en.sega-mj.com/whatis/yaku/)
+
+[^doman]: [Final Fantasy XIV Online: Doman Mahjong Yaku List](https://eu.finalfantasyxiv.com/lodestone/playguide/contentsguide/goldsaucer/doman-mahjong/yaku_list/)
