@@ -16,7 +16,7 @@ image_alt: Not a standard hand, but Big Wheels seems to be quite popular.
 These days, there's a lot of English language options for Riichi Mahjong.
 But one thing that's always seems different is how the yaku are translated.
 It can lead to confusion when switching clients.
-To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse Games, Final Fantasy XIV Doman Mahjong and Mahjong Soul.
+To help with that, here is a list of terms used in EMA, WRC, SEGA NET MJ, Nintendo Clubhouse Games, Final Fantasy XIV Doman Mahjong and Mahjong Soul.
 
 <!-- markdownlint-disable MD033 -->
 <picture>
@@ -38,7 +38,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: ツモ, 略称ツモ, or 門前清自摸和<br>
       romaji: tsumo, menzen tsumo, or menzenchin tsumohou<br>
-      EMA/WRC: Fully Concealed Hand<br>
+      EMA, WRC, SEGA NET MJ: Fully Concealed Hand<br>
       Nintendo Clubhouse Games: Closed Tsumo<br>
       Doman Mahjong: Menzen Tsumo<br>
       Mahjong Soul: Fully Concealed Hand
@@ -55,7 +55,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 立直 or リーチ<br>
       romaji: riichi<br>
-      EMA/WRC: Riichi<br>
+      EMA, WRC, SEGA NET MJ: Riichi<br>
       Nintendo Clubhouse Games: Riichi<br>
       Doman Mahjong: Riichi<br>
       Mahjong Soul: Riichi
@@ -78,14 +78,14 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: ダブルリーチ<br>
       romaji: daburu riichi<br>
-      EMA/WRC: Double Riichi<br>
+      EMA, WRC, SEGA NET MJ: Double Riichi<br>
       Nintendo Clubhouse Games: Double Riichi<br>
       Doman Mahjong: Double Riichi<br>
       Mahjong Soul: Double Riichi
     </p>
     <p>
       Value: additional 1 han to Riichi<br>
-      Conditions: closed hand only; first turn only
+      Conditions: closed hand only; first turn only. Any call made before nullifies this.
     </p>
   </dd>
 
@@ -94,7 +94,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 一発<br>
       romaji: ippatsu<br>
-      EMA/WRC: Ippatsu<br>
+      EMA, WRC, SEGA NET MJ: Ippatsu<br>
       Nintendo Clubhouse Games: One-Shot<br>
       Doman Mahjong: Ippatsu<br>
       Mahjong Soul: Ippatsu
@@ -114,7 +114,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 平和<br>
       romaji: pinfu<br>
-      EMA/WRC: Pinfu<br>
+      EMA, WRC, SEGA NET MJ: Pinfu<br>
       Nintendo Clubhouse Games: All Runs<br>
       Doman Mahjong: Pinfu<br>
       Mahjong Soul: Pinfu
@@ -134,7 +134,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 一盃口<br>
       romaji: iipeikou or iipei<br>
-      EMA/WRC: Pure Double Chow<br>
+      EMA, WRC, SEGA NET MJ: Pure Double Chow<br>
       Nintendo Clubhouse Games: Twin Runs<br>
       Doman Mahjong: Pure Double Chi<br>
       Mahjong Soul: Pure Double Sequence
@@ -154,7 +154,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
       Japanase: 海底撈月<br>
       romaji: haitei raoyue or haitei<br>
       EMA: Under the Sea<br>
-      WRC: Last Tile Draw<br>
+      WRC, SEGA NET MJ: Last Tile Draw<br>
       Nintendo Clubhouse Games: Last-Ditch Tsumo<br>
       Doman Mahjong: Last Tile Draw<br>
       Mahjong Soul: Under the Sea
@@ -174,7 +174,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
       Japanase: 河底撈魚<br>
       romaji: houtei raoyui or houtei<br>
       EMA: Under the Sea<br>
-      WRC: Last Tile Claim<br>
+      WRC, SEGA NET MJ: Last Tile Claim<br>
       Nintendo Clubhouse Games: Last-Ditch Ron<br>
       Doman Mahjong: Last Tile Claim<br>
       Mahjong Soul: Under the River
@@ -192,7 +192,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 嶺上開花<br>
       romaji: rishan kaihou or rinshan<br>
-      EMA/WRC: After A Kong<br>
+      EMA, WRC, SEGA NET MJ: After A Kong<br>
       Nintendo Clubhouse Games: Dead Wall Draw<br>
       Doman Mahjong: After A Kan<br>
       Mahjong Soul: After A Kan
@@ -212,7 +212,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 搶槓<br>
       romaji: chankan<br>
-      EMA/WRC: Robbing A Kong<br>
+      EMA, WRC, SEGA NET MJ: Robbing A Kong<br>
       Nintendo Clubhouse Games: Stolen Kan<br>
       Doman Mahjong: Robbing A Kan<br>
       Mahjong Soul: Robbing A Kan
@@ -233,7 +233,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 断幺九<br>
       romaji: tanyaochu or tanyao<br>
-      EMA/WRC: All Simples<br>
+      EMA, WRC, SEGA NET MJ: All Simples<br>
       Nintendo Clubhouse Games: All Simples<br>
       Doman Mahjong: Tanyao<br>
       Mahjong Soul: All Simples
@@ -253,7 +253,8 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 場風 役牌<br>
       romaji: bakaze yakuhai<br>
-      EMA/WRC: Prevalent Wind<br>
+      EMA, WRC: Prevalent Wind<br>
+      SEGA NET MJ: Yakuhai<br>
       Nintendo Clubhouse Games: Auspicious / Perfect Winds <br>
       Doman Mahjong: Yaku Tiles<br>
       Mahjong Soul: Prevalent Wind
@@ -264,8 +265,8 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       To get this, your hand needs to contain a triplet of the current prevalent wind, also called round wind.
       This can also be stacked onto <a href="{{ page.url | absolute_url }}#jikaze">Seat Wind</a>.<br>
-      Sometimes, players refer to the actual wind that gives this yaku instead, e.g., ton (East) or Double ton (East), if East was also Seat Wind.
-      Other players think of all yakuhai yaku as the same yaku, so does Doman Mahjong.<br>
+      Sometimes, players refer to the actual wind that gives this yaku instead, e.g., ton (East) or double ton (Double East), if East was also Seat Wind.
+      Other players think of all yakuhai yaku as the same yaku, so does SEGA NET MJ and Doman Mahjong.<br>
       Nintendo Clubhouse Games has a different system to refer to these: Auspicious Winds mean either
       Prevalent Wind or Seat Wind, Perfect Winds mean both Prevalent Wind and Seat Wind.
     </p>
@@ -276,7 +277,8 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 自風 役牌<br>
       romaji: jikaze yakuhai<br>
-      EMA/WRC: Seat Wind<br>
+      EMA, WRC: Seat Wind<br>
+      SEGA NET MJ: Yakuhai<br>
       Nintendo Clubhouse Games: Auspicious / Perfect Winds <br>
       Doman Mahjong: Yaku Tiles<br>
       Mahjong Soul: Seat Wind
@@ -286,11 +288,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     </p>
     <p>
       To get this, your hand needs to contain a triplet of the current seat wind.
-      This can also be stacked onto <a href="{{ page.url | absolute_url }}#bakaze">Prevalent Wind</a>.<br>
-      Sometimes, players refer to the actual wind that gives this yaku instead, e.g., ton (East) or Double ton (East), if East was also Seat Wind.
-      Other players think of all yakuhai yaku as the same yaku, so does Doman Mahjong.<br>
-      Nintendo Clubhouse Games has a different system to refer to these: Auspicious Winds mean either
-      Prevalent Wind or Seat Wind, Perfect Winds mean both Prevalent Wind and Seat Wind.
+      This can also be stacked onto <a href="{{ page.url | absolute_url }}#bakaze">Prevalent Wind</a>.
     </p>
   </dd>
 
@@ -299,7 +297,8 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 三元牌 役牌 or 三元牌<br>
       romaji: sangenpai yakuhai or sangenpai<br>
-      EMA/WRC: Dragon Pung<br>
+      EMA, WRC: Dragon Pung<br>
+      SEGA NET MJ: Yakuhai<br>
       Nintendo Clubhouse Games: Dragon Tiles<br>
       Doman Mahjong: Yaku Tiles<br>
       Mahjong Soul: Dragons
@@ -311,7 +310,6 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
       To get this, your hand needs to contain a triplet of dragons.
       This yaku can stack for different dragons and with <a href="{{ page.url | absolute_url }}#shousangen">Little Three Dragons</a>.
       Sometimes, players refer to the actual dragon that gives this yaku instead, e.g., chun (Red Dragon.
-      Other players think of all yakuhai yaku as the same yaku, so does Doman Mahjong.
     </p>
   </dd>
 </dl>
@@ -324,7 +322,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 対々和 or 対々<br>
       romaji: toitoihou or toitoi<br>
-      EMA/WRC: All Pung<br>
+      EMA, WRC, SEGA NET MJ: All Pung<br>
       Nintendo Clubhouse Games: All Triplets<br>
       Doman Mahjong: All Pon<br>
       Mahjong Soul: All Triplets
@@ -343,7 +341,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 三色同順 or 三色<br>
       romaji: sanshoku dojun or sanshoku<br>
-      EMA/WRC: Mixed Triple Chow<br>
+      EMA, WRC, SEGA NET MJ: Mixed Triple Chow<br>
       Nintendo Clubhouse Games: Tricolor Run<br>
       Doman Mahjong: Mixed Triple Chi<br>
       Mahjong Soul: Mixed Triple Sequence
@@ -361,7 +359,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 七対子 or 七対<br>
       romaji: chiitoitsu or chiitoi<br>
-      EMA/WRC: Seven Pairs<br>
+      EMA, WRC, SEGA NET MJ: Seven Pairs<br>
       Nintendo Clubhouse Games: Seven Pairs<br>
       Doman Mahjong: Seven Pairs<br>
       Mahjong Soul: Seven Pairs
@@ -380,7 +378,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 一気通貫 or 一通<br>
       romaji: ikkitsuukan or ittsuu<br>
-      EMA/WRC: Pure Straight<br>
+      EMA, WRC, SEGA NET MJ: Pure Straight<br>
       Nintendo Clubhouse Games: Pure Straight<br>
       Doman Mahjong: Pure Straight<br>
       Mahjong Soul: Pure Straight
@@ -398,7 +396,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 混全帯么九 or 全帯么 or 全帯<br>
       romaji: honchantaiyaochuu or chantaiyao or chanta<br>
-      EMA/WRC: Outside Hand<br>
+      EMA, WRC, SEGA NET MJ: Outside Hand<br>
       Nintendo Clubhouse Games: Terminals and Honors<br>
       Doman Mahjong: Outside Hand<br>
       Mahjong Soul: Half Outside Hand
@@ -418,7 +416,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 三暗刻 or 三暗<br>
       romaji: sanankou or sanan<br>
-      EMA/WRC: Three Concealed Pungs<br>
+      EMA, WRC, SEGA NET MJ: Three Concealed Pungs<br>
       Nintendo Clubhouse Games: Three Hidden Triplets<br>
       Doman Mahjong: Three Concealed Pon<br>
       Mahjong Soul: Three Concealed Triplets
@@ -438,7 +436,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 三色同刻<br>
       romaji: sanshoku dokou<br>
-      EMA/WRC: Triple Pong<br>
+      EMA, WRC, SEGA NET MJ: Triple Pong<br>
       Nintendo Clubhouse Games: Tricolor Triplets<br>
       Doman Mahjong: Triple Pon<br>
       Mahjong Soul: Triple Triplets
@@ -456,7 +454,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 三槓子<br>
       romaji: sankantsu<br>
-      EMA/WRC: Three Kongs<br>
+      EMA, WRC, SEGA NET MJ: Three Kongs<br>
       Nintendo Clubhouse Games: Triple Kan<br>
       Doman Mahjong: Three Kan<br>
       Mahjong Soul: Three Quards
@@ -475,7 +473,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 小三元<br>
       romaji: shousangen<br>
-      EMA/WRC: Little Three Dragons<br>
+      EMA, WRC, SEGA NET MJ: Little Three Dragons<br>
       Nintendo Clubhouse Games: Small Three Dragons<br>
       Doman Mahjong: Little Three Dragons<br>
       Mahjong Soul: Little Three Dragons
@@ -494,7 +492,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 混老頭<br>
       romaji: honroutou<br>
-      EMA/WRC: All Terminals and Honors<br>
+      EMA, WRC, SEGA NET MJ: All Terminals and Honors<br>
       Nintendo Clubhouse Games: Pure Terminals and Honors<br>
       Doman Mahjong: All Terminals and Honors<br>
       Mahjong Soul: All Terminals and Honors
@@ -520,7 +518,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 純全帯么九 or 純全帯么 or 純全<br>
       romaji: junchantaiyaochuu or junchantaiyao or junchan<br>
-      EMA/WRC: Terminals in All Sets<br>
+      EMA, WRC, SEGA NET MJ: Terminals in All Sets<br>
       Nintendo Clubhouse Games: Terminal Foundations<br>
       Doman Mahjong: Terminals in All Groups<br>
       Mahjong Soul: Full Outside Hand
@@ -540,7 +538,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 混一色<br>
       romaji: honiisou or honitsu<br>
-      EMA/WRC: Half Flush<br>
+      EMA, WRC, SEGA NET MJ: Half Flush<br>
       Nintendo Clubhouse Games: Half Flush<br>
       Doman Mahjong: Half Flush<br>
       Mahjong Soul: Half Flush
@@ -560,7 +558,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 二盃口<br>
       romaji: ryanpeikou<br>
-      EMA/WRC: Twice Pure Double Chows<br>
+      EMA, WRC, SEGA NET MJ: Twice Pure Double Chows<br>
       Nintendo Clubhouse Games: Double Twin Runs<br>
       Doman Mahjong: Twice Pure Double Chi<br>
       Mahjong Soul: Twice Pure Double Sequence
@@ -583,7 +581,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 清一色<br>
       romaji: chiniisou or chinitsu<br>
-      EMA/WRC: Full Flush<br>
+      EMA, WRC, SEGA NET MJ: Full Flush<br>
       Nintendo Clubhouse Games: Full Flush<br>
       Doman Mahjong: Full Flush<br>
       Mahjong Soul: Full Flush
@@ -603,6 +601,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
       Japanase: 流し満貫<br>
       romaji: nagashi mangan<br>
       EMA: Nagashi Mangan<br>
+      SEGA NET MJ: All Terminal and Honor Discard<br>
       Doman Mahjong: Nagashi Mangan<br>
       Mahjong Soul: Mangan at Draw
     </p>
@@ -627,7 +626,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 大三元<br>
       romaji: daisangen<br>
-      EMA/WRC: Big Three Dragons<br>
+      EMA, WRC, SEGA NET MJ: Big Three Dragons<br>
       Nintendo Clubhouse Games: Large Three Dragons<br>
       Doman Mahjong: Big Three Dragons<br>
       Mahjong Soul: Big Three Dragons
@@ -645,7 +644,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 四暗刻<br>
       romaji: suuankou<br>
-      EMA/WRC: Four Concealed Pung<br>
+      EMA, WRC, SEGA NET MJ: Four Concealed Pung<br>
       Nintendo Clubhouse Games: Four Hidden Triplets<br>
       Doman Mahjong: Four Concealed Pon<br>
       Mahjong Soul: Four Concealed Triplets
@@ -665,7 +664,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 国士無双<br>
       romaji: kokushi musou or kokushi<br>
-      EMA/WRC: Thirteen Orphans<br>
+      EMA, WRC, SEGA NET MJ: Thirteen Orphans<br>
       Nintendo Clubhouse Games: Thirteen Orphans<br>
       Doman Mahjong: Thirteen Orphans<br>
       Mahjong Soul: Thirteen Orphans
@@ -684,7 +683,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 小四喜<br>
       romaji: shousuushi<br>
-      EMA/WRC: Little Four Winds<br>
+      EMA, WRC, SEGA NET MJ: Little Four Winds<br>
       Nintendo Clubhouse Games: Little Four Winds<br>
       Doman Mahjong: Little Four Winds<br>
       Mahjong Soul: Little Four Winds
@@ -702,7 +701,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 大四喜<br>
       romaji: daisuushi<br>
-      EMA/WRC: Big Four Winds<br>
+      EMA, WRC, SEGA NET MJ: Big Four Winds<br>
       Nintendo Clubhouse Games: Big Four Winds<br>
       Doman Mahjong: Big Four Winds<br>
       Mahjong Soul: Big Four Winds
@@ -721,7 +720,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 字一色<br>
       romaji: tsuuiisou<br>
-      EMA/WRC: All Honors<br>
+      EMA, WRC, SEGA NET MJ: All Honors<br>
       Nintendo Clubhouse Games: Pure Honors<br>
       Doman Mahjong: All Honors<br>
       Mahjong Soul: All Honors
@@ -739,7 +738,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 清老頭<br>
       romaji: chinroutou<br>
-      EMA/WRC: All Terminals<br>
+      EMA, WRC, SEGA NET MJ: All Terminals<br>
       Nintendo Clubhouse Games: Pure Terminals<br>
       Doman Mahjong: All Terminals<br>
       Mahjong Soul: All Terminals
@@ -757,7 +756,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 緑一色<br>
       romaji: ryuuiisou<br>
-      EMA/WRC: All Green<br>
+      EMA, WRC, SEGA NET MJ: All Green<br>
       Nintendo Clubhouse Games: Pure Green<br>
       Doman Mahjong: All Green<br>
       Mahjong Soul: All Green
@@ -776,7 +775,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 九連宝燈<br>
       romaji: chuuren poutou<br>
-      EMA/WRC: Nine Gates<br>
+      EMA, WRC, SEGA NET MJ: Nine Gates<br>
       Nintendo Clubhouse Games: Nine Needs<br>
       Doman Mahjong: Nine Gates<br>
       Mahjong Soul: Nine Gates
@@ -789,13 +788,30 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
       In variants with more than one Yakuman per Yaku, waiting with the exact pattern 1112345678999 results in a 9-sided wait, which ups this yaku to the variant 純正九蓮宝燈 (junsei chuuren poutou) with two yakuman.
     </p>
   </dd>
+  <dt class="h3 mt-4" id="suukantsu">Four Kan</dt>
+  <dd>
+    <p>
+      Japanase: 緑一色<br>
+      romaji: ryuuiisou<br>
+      EMA, WRC, SEGA NET MJ: Four Kongs<br>
+      Nintendo Clubhouse Games: Quadruple Kan<br>
+      Doman Mahjong: Four Kan<br>
+      Mahjong Soul: Four Quads
+    </p>
+    <p>
+      Value: Yakuman
+    </p>
+    <p>
+      To get this, your hand must consist 4 kans.
+    </p>
+  </dd>
 
   <dt class="h3 mt-4" id="tenhou">Blessing of Heaven</dt>
   <dd>
     <p>
       Japanase: 天和<br>
       romaji: tenhou<br>
-      EMA/WRC: Blessing of Heaven<br>
+      EMA, WRC, SEGA NET MJ: Blessing of Heaven<br>
       Nintendo Clubhouse Games: Blessing of Heaven<br>
       Doman Mahjong: Blessing of Heaven<br>
       Mahjong Soul: Blessing of Heaven
@@ -814,7 +830,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     <p>
       Japanase: 地和<br>
       romaji: chihou<br>
-      EMA/WRC: Blessing of Earth<br>
+      EMA, WRC, SEGA NET MJ: Blessing of Earth<br>
       Nintendo Clubhouse Games: Blessing of Earth<br>
       Doman Mahjong: Blessing of Earth<br>
       Mahjong Soul: Blessing of Earth
@@ -824,6 +840,7 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
     </p>
     <p>
       To get this, your must win on self-draw in the first turn.
+      Any call made before this will invalidate this yaku.
     </p>
   </dd>
   
@@ -833,32 +850,21 @@ To help with that, here is a list of terms used in EMA/WRC, Nintendo Clubhouse G
       Japanase: 人和<br>
       romaji: renhou<br>
       EMA: Blessing of Man<br>
+      SEGA NET MJ: Blessing of Man<br>
       Mahjong Soul: Hand of Man
     </p>
     <p>
-      Value: varies, in EMA rules: unstackable mangan, in Mahjong Soul: custom rules Yakuman
+      Value: varies, in EMA rules: unstackable mangan, in SEGA NET MJ: Baiman, in Mahjong Soul: custom rules Yakuman
     </p>
     <p>
+      Not a default yaku, but without it, the trinity of ten (Heaven), chi (Earth) and ren (Man) wouldn't be complete.<br>
       To get this, your must win on a discard in the first turn.
-      Not a default yaku, but without it, the trinity of ten (Heaven), chi (Earth) and ren (Man) wouldn't be complete.
-    </p>
-  </dd>
-
-  <dt class="h3 mt-4" id="suukantsu">Four Kan</dt>
-  <dd>
-    <p>
-      Japanase: 緑一色<br>
-      romaji: ryuuiisou<br>
-      EMA/WRC: Four Kongs<br>
-      Nintendo Clubhouse Games: Quadruple Kan<br>
-      Doman Mahjong: Four Kan<br>
-      Mahjong Soul: Four Quads
-    </p>
-    <p>
-      Value: Yakuman
-    </p>
-    <p>
-      To get this, your hand must consist 4 kans.
+      Any call made before this will invalidate this yaku.
     </p>
   </dd>
 </dl>
+
+## Edit History
+
+- 2021-07-20: Fixed Copy/Paste Error in Full Flush
+- 2021-07-21: Added Information from SEGA NET MJ
