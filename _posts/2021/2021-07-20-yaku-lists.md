@@ -12,12 +12,16 @@ tags:
 image: /blog/images/2021-07-20-daisharin.avif
 image_alt: Not a standard hand, but Big Wheels seems to be quite popular.
 
+excerpt: |
+  These days, there's a lot of English language options for Riichi Mahjong.
+  But one thing that's always seems different is how the yaku are translated.
+  It can lead to confusion when switching clients.
+  To help with that, here is a list of terms used in EMA, WRC, SEGA NET MJ, Nintendo Clubhouse Games, Final Fantasy XIV Doman Mahjong and Mahjong Soul.
 ---
 These days, there's a lot of English language options for Riichi Mahjong.
 But one thing that's always seems different is how the yaku are translated.
 It can lead to confusion when switching clients.
 To help with that, here is a list of terms used in EMA [^ema], WRC [^wrc], SEGA NET MJ [^sega], Nintendo Clubhouse Games, Final Fantasy XIV Doman Mahjong [^doman] and Mahjong Soul.
-
 
 <!-- markdownlint-disable MD033 -->
 <picture>
