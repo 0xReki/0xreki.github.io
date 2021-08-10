@@ -1,7 +1,6 @@
 ---
 title: Riichi Mahjong Yaku Lists Compared
 
-published: pre-sponsored
 lang: en-US
 
 long: true
@@ -131,6 +130,11 @@ To help with that, here is a list of terms used in EMA [^ema], WRC [^wrc], SEGA 
       Pinfu translates to “without points”.
       While you can only get this hand when it entirely consists of runs, the final wait must be one that doesn't hive you extra fu points: no penchan (edge wait), no kanchan (closed wait) and no tanki (pair wait).
       That means the only wait possible for this is a ryanmen (two-sided run wait).
+    </p>
+    <p>
+      Note: If you tsumo, don't ever sort the tile you've drawn into your hand.
+      If you did, you might get this yaku denied.
+      In general, it's best you sort your hand after you've discarded.
     </p>
   </dd>
 
