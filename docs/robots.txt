@@ -1,9 +1,0 @@
-Sitemap: https://0xreki.github.io/sitemap.xml
-
-Sitemap: https://0xreki.github.io/crystaldown/sitemap.xml
-
-Sitemap: https://0xreki.github.io/scions/sitemap.xml
-
-User-Agent: *
-Allow:
-Disallow: /.dev
