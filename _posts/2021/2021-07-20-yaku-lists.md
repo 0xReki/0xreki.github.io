@@ -26,7 +26,7 @@ To help with that, here is a list of terms used in EMA [^ema], WRC [^wrc], SEGA 
 <picture>
   <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
   <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.png' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.png' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/png">
   <source srcset="{{ '/blog/images/2021-07-20-daisharin.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
   <source srcset="{{ '/blog/images/2021-07-20-daisharin.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
   <source srcset="{{ '/blog/images/2021-07-20-daisharin.png' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/png">
