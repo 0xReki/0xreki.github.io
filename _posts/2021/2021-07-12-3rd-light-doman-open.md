@@ -10,6 +10,8 @@ redirect_from:
   - /doman-mahjong-tournament
   - /doman
 
+shortlink: /wtf/2021-doman-open/
+
 permalink: /doman/2021-09-3rd-light-doman-open/
 
 image: /blog/images/2021-09-throne.avif
