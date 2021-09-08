@@ -9,9 +9,6 @@ tags:
 
 image: /blog/images/2019-03-12-final-fantasy-doman-mahjong.avif
 
-redirect_from:
-  - /2019/03/12/riichi-mahjong-clients-2019
-
 checker:
   - pwa
 

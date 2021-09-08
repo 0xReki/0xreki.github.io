@@ -12,9 +12,6 @@ tags:
 image: /blog/images/2020-06-05-table.avif
 image_alt: Riichi Table in Clubhouse Games
 
-redirect_from:
-  - /2020/06/05/a-look-at-riichi-mahjong-in-clubhouse-games-51-worldwide-classics
-
 checker:
   - lt
 
