@@ -9,10 +9,6 @@ tags:
 
 image: /blog/images/2020-05-furiten.avif
 
-redirect_from: 
-  - /doman-mahjong-tournament/2020-05-furiten-riichi-may-hem
-  - /doman/archive/2020-05-furiten-riichi-may-hem
-
 seo_title_fix: 1
 
 excerpt: |

@@ -20,10 +20,6 @@ registration_url:
 registration_date: 2020-09-13
 sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_i6HuA6osMNNKR7PaDNpMpTEWHaTxVXuUfLEHytMJaMsRZXpovG-bNiPx9UNJ14fm5WYmCwaNqbKA/pubhtml#
 
-redirect_from: 
-  - /doman-mahjong-tournament/2020-09-2nd-light-doman-open
-  - /doman/archive/2020-09-2nd-light-doman-open
-
 excerpt: |
   It was time for another Light Doman Open!
   This was the fourth Doman Mahjong Tournament on Light, with 31 participants from 14 countries.
