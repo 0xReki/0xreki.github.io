@@ -173,7 +173,7 @@ To help with that, here is a list of terms used in EMA [^ema], WRC [^wrc], SEGA 
     <p>
       To get this, you need to win on the last tile drawn from the live wall.
       Rishan tiles, kan replacement tiles, do not count for this yaku.
-      Haitei raoyue litterally means scooping up (the reflection of) the moon from the bottom of the sea.
+      Haitei raoyue literally means scooping up (the reflection of) the moon from the bottom of the sea.
     </p>
   </dd>
 
