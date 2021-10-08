@@ -35,7 +35,7 @@ If you know of other place to reliably find such sets, please get in touch.
 </picture>
 
 {:.mt-4}
-Let's begin with a very ancient set: [Crabs and Gold Fish Set by Ichikawaya](http://www.1kawaya.com/mj/r-kingyo.html){:target="_blank" rel="noopener"}.
+Let's begin with a very ancient set: Crabs and Gold Fish Set by Ichikawaya.
 My Japanese is close to non-existent but Google Translate tells me it's a reproduction of an antique set.
 The pinzu in this set are crabs while the souzu are gold fish.
 Sure, green souzu isn't green, but everything about this set says it's from a prior era and high class.
@@ -49,8 +49,9 @@ Sure, green souzu isn't green, but everything about this set says it's from a pr
 </picture>
 
 {:.mt-4}
-The [Tengen Set by Ichikawaya](http://www.1kawaya.com/mj/p-tengen.html){:target="_blank" rel="noopener"} is currently the set I'm thinking of buying in the near future.
+The Tengen Set by Ichikawaya is currently the set I'm thinking of buying in the near future.
 It has a classy look that doesn't feel old.
+EDIT: Well now it's sold out. T_T
 
 ## Galaxy Set by Ichikawaya
 
@@ -61,14 +62,14 @@ It has a classy look that doesn't feel old.
 </picture>
 
 {:.mt-4}
-One of most changed sets I'm eyeing from time to time is the [Galaxy Set by Ichikawaya](http://www.1kawaya.com/mj/p-galaxy01.html){:target="_blank" rel="noopener"}.
+One of most changed sets I'm eyeing from time to time is the Galaxy Set by Ichikawaya.
 It doesn't look like any other Mahjong Set I've ever seen.
 In this set, Pinzu are planets, manzu have the man symbol replaced by planet symbols, and souzu are all star constellations.
 To stay in the theme, red fives are replaced by blue fives.
 The winds are just simple letters, E S W and N.
 The dragons are the western zodiac signs divided into 3 groups of the same colour.
 Flowers and seasons are more symbols that are used in Astrology.
-It's such different take on tiles I'd consider it more a collectable than an actual set to play.
+It's such different take on tiles, I'd consider it more a collectable than an actual set to play.
 
 ## Doman Mahjong Set from Final Fantasy XIV
 
@@ -131,3 +132,7 @@ EDIT: The site wasn't purged intentionally by the owners, so I can even link to 
 
 This was to be the end of my little list, but meanwhile the camp that actually enjoys nice things pointed me to another Riichi Set: ah, Asia and their love of puns!
 [The Big Sushi Set by Taiyo Chemicals](https://www.amazon.co.jp/-/en/Mahjong-Tiles-Daisuchi-Ponguan-Margun/dp/B008GRZUYU) replaces all the common elements with rice, fish and seaweed.
+
+## Edit History
+
+- 2021-10-08: Removed Dead Links to Sold-Out 1kawaya products.

@@ -878,13 +878,14 @@ To help with that, here is a list of terms used in EMA [^ema], WRC [^wrc], SEGA 
 
 - 2021-07-20: Fixed Copy/Paste Error in Full Flush
 - 2021-07-21: Added Information from SEGA NET MJ; added references where possible.
+- 2021-10-08: Updated Links; removed dead links.
 
 ## References
 
 [^ema]: [EMA Riichi Rules 2016](http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf)
 
-[^wrc]: [World Riichi Championship Rules 2015](http://ooyamaneko.net/download/mahjong/World_Riichi_Championship_Rules_2015.pdf)
+[^wrc]: [World Riichi Championship Rules 2015](http://ooyamaneko.net/download/mahjong/World_Riichi_Championship_Rules_2015_en.pdf)
 
-[^sega]: [SEGA NET MJ: How to make Yaku](https://en.sega-mj.com/whatis/yaku/)
+[^sega]: SEGA NET MJ: How to make Yaku, site has been removed.
 
 [^doman]: [Final Fantasy XIV Online: Doman Mahjong Yaku List](https://eu.finalfantasyxiv.com/lodestone/playguide/contentsguide/goldsaucer/doman-mahjong/yaku_list/)
