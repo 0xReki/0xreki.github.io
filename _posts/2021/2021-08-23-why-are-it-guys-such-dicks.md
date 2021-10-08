@@ -6,6 +6,8 @@ long: true
 tags:
   - Rant
 
+seo_meta_fix: 4
+
 image: /blog/images/2021-08-23-war.avif
 image_alt: War (Symbolic Image)
 
