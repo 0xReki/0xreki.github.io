@@ -15,8 +15,9 @@ image_license: Image by Reginal from Pixabay
 image_license_url: https://pixabay.com/de/photos/umleitung-baustelle-absperrung-3823502/
 ---
 As you might have noticed, this page has moved to a new domain: reki.wtf.
+RIP search engine rankings.
 Why did I move?
-There's actually a lot of reasons…
+Actually, I had a lot of reasons…
 
 ## The Past
 
@@ -27,7 +28,7 @@ It's a strange handle, I know.
 When I started going by Reki on the internet, that handle was sometimes taken.
 While people seem to just say, it's fine, I wanted something I can use everywhere.
 Just by adding the 0x prefix to make it look geekier, I had a handle that was available to on almost all platforms.
-Yes, some platforms forbid the handle starting with a digit… but those platforms came later.
+Yes, some platforms don't permit the handle starting with a digit… but those platforms came later.
 
 Being a latecomer, reki.de was already taken by reiki.de, a page about Reiki, whatever that is.
 I had looked at it, and decided it was not worth remembering what it was.
