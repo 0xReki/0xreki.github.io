@@ -7,7 +7,7 @@ tags:
   - Doman Mahjong Tournament
 
 redirect_from: 
-  - /doman
+  - /doman/
 
 permalink: /doman/2021-09-3rd-light-doman-open/
 
