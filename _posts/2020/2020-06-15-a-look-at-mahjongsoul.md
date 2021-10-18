@@ -171,7 +171,7 @@ Luckily for both of us, we managed to tobi one of the players that left.
 It's a big part of my frustration with the game.
 It gets better the higher you get, but it's still an issue.
 
-And after seeing how Nintendo handles disconnects in [Clubhouse Games: 51 Worldwide Classics](/2020/06-05-a-look-at-riichi-mahjong-in-clubhouse-games-51-worldwide-classics/) this feels just so… backwards.
+And after seeing how Nintendo handles disconnects in [Clubhouse Games: 51 Worldwide Classics](/blog/2020/06-05-a-look-at-riichi-mahjong-in-clubhouse-games-51-worldwide-classics/) this feels just so… backwards.
 And people usually accuse Nintendo of being backwards.
 
 ## In Short
