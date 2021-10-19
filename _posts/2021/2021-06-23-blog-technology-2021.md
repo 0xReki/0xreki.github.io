@@ -51,7 +51,7 @@ Just use whatever you feel is best for you.
 
 ## Jekyll, its Plugins and what my Theme uses
 
-[I like using markdown](https://0xreki.de/2019/12-22-what-i-hate-about-wysiwyg/) and luckily, that's what [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"} takes to build this website.
+[I like using markdown](https://reki.wtf/blog/2019/12-22-what-i-hate-about-wysiwyg/) and luckily, that's what [Jekyll](https://jekyllrb.com/){:target="_blank" rel="noopener"} takes to build this website.
 In the beginning, I used GitHub Pages to build and host, but as the site got bigger and I wanted some more custom code, and more plugins, it quickly fell out of what GitHub Pages supports.
 Now I have [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener"} build and host the site, it's more flexible.
 I can just push source files and don't need to push rendered files into the repository.
