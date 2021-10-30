@@ -1,6 +1,10 @@
 ---
 title: Publishing Platforms
 
+category:
+  - personal
+  - amauga
+
 tags:
   - Creative Writing
   - Review
@@ -15,19 +19,21 @@ I think details about the platforms should be interesting enough for a blog post
 Why would I crosspost?
 People have their favourite platform, so they can read wherever they like.
 I should not take too much of my time to get it over there… and some platforms can be a nightmare to work on…
+I will not be giving any scores since everyone has their own needs.
+My needs are certainly different ones than other authors' needs.
 
-## Own Homepage
+## Custom Homepage
 
 As you can see, I have my own homepage where I publish all my stuff.
-When running your own homepage, you have a lot of freedom, you can add whatever feature you like, provided you can find that feature or code it yourself.
-The more specialized your need, the more work it will make.
-I'm currently using Jekyll, which is more useful for blogging, for everything.
+When running your own homepage, you have a lot of freedom, you can add whatever feature you like, provided you can find that feature in the software you use or code it yourself.
+The more specialized your need, the more work it will need.
+But the sky is the limit.
+I'm currently using Jekyll, which is more useful for blogging, for everything I do with this site.
 I basically wrote my own theme to support publishing a web serial.
-While I think I made generalized, I haven't tried it with yet.
+While I think I made very generalized, I haven't tried it yet.
 So far, though I offered, nobody has gotten in touch with me about setting up their own page.
 
-A big drawback is there's almost no way to get people to look at your page.
-If you don't already have an audience.
+A big drawback is there's almost no way to get people to look at your page if you don't already have an audience.
 
 ## DeviantArt
 
@@ -46,7 +52,7 @@ On the plus side, you can choose from All Right Reserved and multiple Creative C
 There's no option to put your work into public domain.
 
 I get the feeling it's not worth my time to crosspost there anymore, so I might remove it soon.
-Given how dead it feels, I'm not sure I have been reaching any new readers at all…
+Given how dead it feels, I'm not sure if I have been reaching any new readers at all…
 
 ## Wattpad
 
@@ -58,7 +64,11 @@ If you write in German and use typographical quotation marks („“) you end up
 I publish my work with a Creative Commons license.
 Many platforms don't give you the choice what Creative Commons license it actually is, but in Wattpad you can actually choose what Creative Commons license you want.
 Although they don't say which version is meant.
-What made me remove my work from the page is that goddamn bug, that insist on putting my work to All Rights Reversed every so often.
+What made me remove my work from the page is that goddamn bug, that insists on putting my work to All Rights Reversed every so often.
+
+I also had to DMCA one of my works off that platform, it's kinda sad, since that work seemed to be doing well over there.
+But they didn't give proper attribution, so I had to nuke it.
+I mean I would have been fine, if they added the missing attribution, but they weren't reachable.
 
 ## ScribbleHub
 
