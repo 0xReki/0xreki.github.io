@@ -10,7 +10,7 @@ tags:
   - Germany
 
 excerpt: Ein Zombie kommt aus dem Grab wieder heraus gekrochen.
-image: /blog/images/2016-07-26-counter-strike-global-offensive.avif
+image: /blog/images/2016-07-26-counter-strike-global-offensive.jpg
 
 long: true
 ---

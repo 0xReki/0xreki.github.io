@@ -9,7 +9,7 @@ tags:
 checker:
   - pwa
 
-image: /blog/images/2020-08-07-title-screen.avif
+image: /blog/images/2020-08-07-title-screen.jpg
 
 long: true
 ---

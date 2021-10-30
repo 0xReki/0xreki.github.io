@@ -8,7 +8,7 @@ long: true
 tags:
   - Riichi Mahjong
 
-image: /blog/images/2021-07-20-daisharin.avif
+image: /blog/images/2021-07-20-daisharin.jpg
 image_alt: Not a standard hand, but Big Wheels seems to be quite popular.
 
 excerpt: |

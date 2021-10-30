@@ -7,7 +7,7 @@ tags:
   - Riichi Mahjong
   - Conventions
 
-image: /blog/images/2019-09-09-connichi.avif
+image: /blog/images/2019-09-09-connichi.jpg
 
 checker:
   - pwa

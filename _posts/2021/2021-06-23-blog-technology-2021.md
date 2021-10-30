@@ -8,7 +8,7 @@ redirect_from:
   - /2020/05-22-blog-technology-2020
   - /2020/05/22/blog-technology-2020
 
-image: /blog/images/2021-06-23-gears.avif
+image: /blog/images/2021-06-23-gears.jpg
 image_alt: Gears (Symbolic Picture)
 #image_license: CC-0
 

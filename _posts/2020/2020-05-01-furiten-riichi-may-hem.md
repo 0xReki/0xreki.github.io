@@ -7,7 +7,7 @@ tags:
   - Riichi Mahjong
   - Doman Mahjong Tournament
 
-image: /blog/images/2020-05-furiten.avif
+image: /blog/images/2020-05-furiten.jpg
 
 seo_title_fix: 1
 

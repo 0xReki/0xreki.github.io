@@ -5,7 +5,7 @@ tags:
   - Games
   - Riichi Mahjong
 
-image: /blog/images/2021-07-08-philos-3166.avif
+image: /blog/images/2021-07-08-philos-3166.jpg
 image_alt: Philos 3166 Mahjong Set
 
 checker:

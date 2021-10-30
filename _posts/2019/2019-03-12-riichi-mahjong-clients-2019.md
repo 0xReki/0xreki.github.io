@@ -7,7 +7,7 @@ tags:
   - Riichi Mahjong
   - Review
 
-image: /blog/images/2019-03-12-final-fantasy-doman-mahjong.avif
+image: /blog/images/2019-03-12-final-fantasy-doman-mahjong.jpg
 
 checker:
   - pwa

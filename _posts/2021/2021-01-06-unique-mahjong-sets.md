@@ -5,7 +5,7 @@ tags:
   - Games
   - Riichi Mahjong
 
-image: /blog/images/2021-01-06-galaxy.avif
+image: /blog/images/2021-01-06-galaxy.jpg
 
 checker:
   - lt

@@ -8,7 +8,7 @@ tags:
 
 seo_meta_fix: 4
 
-image: /blog/images/2021-08-23-war.avif
+image: /blog/images/2021-08-23-war.jpg
 image_alt: War (Symbolic Image)
 
 #image_license: CC0 by Mohamed Mahmoud Hassan

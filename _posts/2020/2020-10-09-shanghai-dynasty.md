@@ -9,7 +9,7 @@ tags:
   - WINE Is Not an Emulator
   - Good Game
 
-image: /blog/images/2020-10-09-title-screen.avif
+image: /blog/images/2020-10-09-title-screen.jpg
 
 checker:
   - pwa

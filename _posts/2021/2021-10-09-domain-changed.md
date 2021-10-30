@@ -8,7 +8,7 @@ long: true
 tags:
   - Status
 
-image: /blog/images/2021-10-09-umleitung.avif
+image: /blog/images/2021-10-09-umleitung.jpg
 image_alt: Detour (Symbolic Image)
 
 image_license: Image by Reginal from Pixabay

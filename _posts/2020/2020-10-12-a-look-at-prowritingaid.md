@@ -7,7 +7,7 @@ tags:
   - Spell Checking
   - Review
 
-image: /blog/images/2020-10-12-prowritingaid-logo.avif
+image: /blog/images/2020-10-12-prowritingaid-logo.jpg
 
 checker:
   - pwa

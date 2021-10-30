@@ -10,7 +10,7 @@ checker:
   - pw
   - lt
 
-image: /blog/images/2020-11-12-jetbrains.avif
+image: /blog/images/2020-11-12-jetbrains.jpg
 
 long: true
 ---

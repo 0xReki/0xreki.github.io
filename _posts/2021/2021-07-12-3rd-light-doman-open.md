@@ -11,7 +11,7 @@ redirect_from:
 
 permalink: /doman/2021-09-3rd-light-doman-open/
 
-image: /blog/images/2021-09-throne.avif
+image: /blog/images/2021-09-throne.jpg
 image_alt: The Mahjong Throne
 
 seo_title_fix: 3

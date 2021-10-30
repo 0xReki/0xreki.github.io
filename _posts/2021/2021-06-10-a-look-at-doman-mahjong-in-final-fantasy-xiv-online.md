@@ -12,7 +12,7 @@ redirect_from:
   - /2019/07/14/final-fantasy-xiv-doman-mahjong
   - /2020/06/08/a-look-at-doman-mahjong-in-final-fantasy-xiv-online
 
-image: /blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.avif
+image: /blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.jpg
 
 checker:
   - lt

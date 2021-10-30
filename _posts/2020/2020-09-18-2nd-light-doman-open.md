@@ -7,7 +7,7 @@ tags:
   - Riichi Mahjong
   - Doman Mahjong Tournament
 
-image: /blog/images/2020-09-18-turn-order.avif
+image: /blog/images/2020-09-18-turn-order.jpg
 image_alt: Mahjong Turn Order
 
 seo_title_fix: 2

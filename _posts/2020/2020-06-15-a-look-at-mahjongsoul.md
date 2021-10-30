@@ -6,7 +6,7 @@ tags:
   - Riichi Mahjong
   - Review
 
-image: /blog/images/2019-05-03-title-screen.avif
+image: /blog/images/2019-05-03-title-screen.jpg
 
 redirect_from: 
   - /2019/05/03/i-played-mahjongsoul-and-i-dont-like-it

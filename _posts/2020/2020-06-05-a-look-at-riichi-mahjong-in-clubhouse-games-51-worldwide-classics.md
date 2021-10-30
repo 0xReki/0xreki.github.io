@@ -9,7 +9,7 @@ tags:
   - Nintendo
   - Nintendo Switch
 
-image: /blog/images/2020-06-05-table.avif
+image: /blog/images/2020-06-05-table.jpg
 image_alt: Riichi Table in Clubhouse Games
 
 checker:
