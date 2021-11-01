@@ -1,10 +1,6 @@
 ---
 title: Publishing Platforms
 
-category:
-  - personal
-  - amauga
-
 tags:
   - Creative Writing
   - Review
