@@ -13,6 +13,12 @@ redirect_from:
 
 long: true
 seo_title_fix: 1
+
+image: /blog/images/2021-11-08-cds.jpg
+image_alt: CDs (Symbolic Image)
+
+image_license: Image from pxfuel
+image_license_url: https://www.pxfuel.com/en/free-photo-oxgaq
 ---
 People seem to be confused by the software I use — it seems so random.
 I have made both good and bad experiences with both closed source and open source software.

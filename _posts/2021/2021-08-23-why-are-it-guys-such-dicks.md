@@ -11,8 +11,8 @@ seo_meta_fix: 4
 image: /blog/images/2021-08-23-war.jpg
 image_alt: War (Symbolic Image)
 
-#image_license: CC0 by Mohamed Mahmoud Hassan
-#image_license_url: https://www.publicdomainpictures.net/en/view-image.php?image=240356&picture=war
+image_license: CC0 by Mohamed Mahmoud Hassan
+image_license_url: https://www.publicdomainpictures.net/en/view-image.php?image=240356&picture=war
 ---
 So I've recently switched from Windows 10 to Arch Linux as my main OS.
 It's perfect for me, but I'm also a techie: I can customize my setup however I like.
