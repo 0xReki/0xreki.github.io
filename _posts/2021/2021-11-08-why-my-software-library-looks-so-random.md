@@ -34,7 +34,7 @@ Isn't that how everyone uses their computer?
 
 While I prefer Linux to Windows, the recent trend of Microsoft of shipping buggy patches to their Home customers really undermines the image of stability they have been trying to build.
 The more problems their feature updates bring, the more inclined I get to move my systems to Linux.
-But Linux is not the solution to all my problems.
+But Linux is not the solution to all my issues.
 And it's still not in state to be used for everyone on desktop.
 Reasons?
 I blame the elitists.
@@ -76,7 +76,7 @@ Let's talk about audio software next
 Some people claim you definitely need a Mac for that.
 I strongly disagree.
 Sure, Mac was the best for that at some point, but now, the actual audio interface and microphone and knowledge are more important than what base system you use.
-And Audacity is great for simple tasks, but if you need more it doesn't quite cut it.
+And Audacity is great for simple tasks, but if you require more it doesn't quite cut it.
 And if Audacity is enough for your needs, you don't need to buy a Mac for it.
 I mean, if you prefer Mac, that's your choice that's fine, just don't buy a Mac just to run Audacity.
 
@@ -87,16 +87,18 @@ And it runs perfectly fine in Linux with WINE, or natively even supporting Jack 
 Why consider running REAPER in WINE at all when you can run it natively?
 For running VST plugins, of course!
 Some VST plugins might have a Linux version, but usually, they don't.
-I wanted to write how bad the situation is etc., but it just happens the very first plugin I tried,[Auburn Sounds's Grallion 2](https://www.auburnsounds.com/products/Graillon.html){:target="_blank" rel="noopener"}, had Linux versions in the download.
+I wanted to write how bad the situation is etc., but it just happens the very first plugin I tried, [Auburn Sounds's Grallion 2](https://www.auburnsounds.com/products/Graillon.html){:target="_blank" rel="noopener"}, had Linux versions in the download.
 Granted, REAPER's built-in plugins are good enough, I rarely had the need for plugins anyway, so I don't often look for them.
 
 ## Code Editor
 
-I use Visual Studio Code with neovim extension.
+I use Visual Studio Code with [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim){:target="_blank" rel="noopener"} extension.
 In my opinion, this is the best combination for people that use vim keybindings:
 this is the only option I have seen with proper support for undo.
-All alternatives I've tried to date, usually set you back half an hour or more.
+All alternatives I've tried to date, typically set you back half an hour or more if you try to use undo.
 And even redo works!
 
-If you have suggestions or software recommendations, share it in the comments below.
+For creative writing, I use the extension [LanguageTool Linter](https://marketplace.visualstudio.com/items?itemName=davidlday.languagetool-linter){:target="_blank" rel="noopener"}, [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint){:target="_blank" rel="noopener"} and [Markdown Fiction Writer](https://marketplace.visualstudio.com/items?itemName=vsc-zoctarine.markdown-fiction-writer){:target="_blank" rel="noopener"}.
+I would use [CriticMarkup for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=jloow.vscode-criticmarkup){:target="_blank" rel="noopener"}, but I still have to find collaborators willing to learn Markdown and CriticMarkup.
 
+If you have suggestions or software recommendations, share it in the comments below.
