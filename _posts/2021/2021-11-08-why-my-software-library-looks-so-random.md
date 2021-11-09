@@ -13,6 +13,7 @@ redirect_from:
 
 long: true
 seo_title_fix: 1
+seo_meta_fix: 3
 
 image: /blog/images/2021-11-08-cds.jpg
 image_alt: CDs (Symbolic Image)
