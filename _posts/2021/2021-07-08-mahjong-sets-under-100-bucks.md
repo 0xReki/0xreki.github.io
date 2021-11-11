@@ -48,7 +48,7 @@ Sure, you can get used to it, but they are quite a bother to play with.
 When you see a blank space, you don't know if it's the back side or actually a haku.
 Granted, this set uses the Chinese-style bing for a haku, but when you mainly play Riichi, this isn't something to think of.
 There are Arabic Numerals and Western letters on the tiles, which can help players, that can't read the characters yet, which is why I'm still mentioning this set despite my gripes about it.
-The dimensions of the tiles are slightly slimmer than usual Riichi sets.
+The dimensions of the tiles are slightly thinner than usual Riichi sets.
 With their usable weight, the tiles stand rather stable on the table.
 
 Unusual for a set with a Chinese-style bing, this set comes with tenbo.
@@ -87,7 +87,7 @@ The tiles are white with green back.
 And like the other set, it features Arabic numbers and Western letters.
 It also has bing for haku.
 
-The dimensions of the tiles are slightly wider and slimmer than usual Riichi sets.
+The dimensions of the tiles are slightly wider and thinner than usual Riichi sets.
 With their usable weight, the tiles stand rather stable on the table.
 
 If you're interested in this set, make sure to look for the [Philos 3166](https://www.amazon.de/-/dp/B000O521JE) and not the [Philos 3267](https://www.amazon.de/-/dp/B01BKELFW6/).

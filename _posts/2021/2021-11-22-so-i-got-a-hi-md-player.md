@@ -23,7 +23,7 @@ Not only that, they even stopped serving the software at all.
 After some digging, I found a [community-pached version of SonicStage](https://forums.sonyinsider.com/files/file/95-sonicstage-43-ultimate-edition/){:ref="nofollow"} that runs with current Windows.
 
 What new?
-I finally got around to buying Hi-Fi components, I got an Onkyo MD-105FX from Japan.
+I finally got around to buying Hi-fi components, I got an Onkyo MD-105FX from Japan.
 The trouble is, I live in Germany and the device is from Japan.
 Differences in the plugs aside, here in Germany, the electrical system run at 230V at 50 Hz, the device from Japan takes 100V at 50 or 60 Hz.
 It uses the same plug as the US, but the US seems to run at 110V at 60 Hz.
@@ -35,4 +35,5 @@ After some digging, I found a manufacturer that sells custom-made transformers, 
 I don't need that much power to use a MiniDisc player.
 Plus, it's 2021 and the manufacturer is in the UK.
 
-By the way, I'm totally not used to handling MDs, I keep putting them in like 3.5" floppies, MDs go in “sideways”.
+By the way, I'm still not used to handling MDs, I keep putting them in like 3.5" floppies.
+Compared to those, MDs go in “sideways”.
