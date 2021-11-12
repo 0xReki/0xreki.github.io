@@ -7,10 +7,19 @@ tags:
   - MiniDisc
   - Hi-MD
   - 90's Tech
-  
+
+redirect_from:
+  - /blog/2016/12-22-so-i-got-a-hi-md-player/
+
 long: true
 seo_meta_fix: 1
+
+excerpt: |
+  Well, I'm in my early 30s and I suddenly got that urge to get me some stuff couldn't have when I was younger.
+  So I did some research into what ever happened with magnetic-optical-technology, especially the Sony MiniDisc.
 ---
+*This post was originally published in 2016 and was refreshed and updated with current information.*
+
 Well, I'm in my early 30s and I suddenly got that urge to get me some stuff couldn't have when I was younger.
 So I did some research into what ever happened with magnetic-optical-technology, especially the Sony MiniDisc.
 
@@ -22,7 +31,7 @@ So in 2016, I ordered an MZ-NH600 and a bunch of MDs only to learn Sony disconti
 Not only that, they even stopped serving the software at all.
 After some digging, I found a [community-pached version of SonicStage](https://forums.sonyinsider.com/files/file/95-sonicstage-43-ultimate-edition/){:ref="nofollow"} that runs with current Windows.
 
-What new?
+What's new?
 I finally got around to buying Hi-fi components, I got an Onkyo MD-105FX from Japan.
 The trouble is, I live in Germany and the device is from Japan.
 Differences in the plugs aside, here in Germany, the electrical system run at 230V at 50 Hz, the device from Japan takes 100V at 50 or 60 Hz.

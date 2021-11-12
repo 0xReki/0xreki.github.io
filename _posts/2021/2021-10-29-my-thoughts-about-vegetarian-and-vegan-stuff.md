@@ -14,7 +14,14 @@ checker:
   - lt
 
 long: true
+
+excerpt: |
+  It's rather strange, since leaving uni, people tend to ask me if I'm vegetarian or vegan, just because I happen to pick up some vegan products while grocery shopping, especially when it's tofu.
+  I fill my tofu with minced meat, so no, I'm not.
+  To me, vegan sweets and the like are just easier to discern then looking up if any product might contain lactose.
 ---
+*This post was originally published in 2019 and was refreshed and updated with current information.*
+
 It's rather strange, since leaving uni, people tend to ask me if I'm vegetarian or vegan, just because I happen to pick up some vegan products while grocery shopping, especially when it's tofu.
 I fill my tofu with minced meat, so no, I'm not.
 To me, vegan sweets and the like are just easier to discern then looking up if any product might contain lactose.

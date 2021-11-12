@@ -15,7 +15,17 @@ checker:
   - lt
 
 long: true
+
+excerpt: |
+  MahjongSoul is still around and it's big.
+  Just like everyone else, I jumped on the hype.
+  At first, it looked nice.
+  Then, I started to dislike it.
+  With each little thing, I liked it less.
+  Now, I don't like it at all.
 ---
+*This post was originally published in 2019 and was refreshed and updated with current information.*
+
 MahjongSoul is still around and it's big.
 Just like everyone else, I jumped on the hype.
 At first, it looked nice.
