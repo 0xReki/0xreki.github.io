@@ -26,7 +26,7 @@ I can use MD in Hi-MD mode as mass-storage device no problem there, even without
 But I can't transfer any music to my MDs.
 Oh yeah, did I mention you have to put all your MP3s through some Sony Software else the players won't play them?
 
-Well, I stumbled across [linux-minidisc](https://wiki.physik.fu-berlin.de/linux-minidisc/).
+Well, I stumbled across [linux-minidisc](https://wiki.physik.fu-berlin.de/linux-minidisc/){:target="_blank" rel="noopener"}.
 It's open-source, multi-platform, very promising — just the little fact it can only experimentally write mp3s to my MD — just too bad I bought a model without MP3 support.
 OK, those cost 4 to 5 times more than what I paid for my MZ-NH600.
 
@@ -36,4 +36,4 @@ By the way, I'm totally not used to handling MDs, I keep putting them in like 3.
 
 {:class="rainbow cursive"}
 EDIT:\\
-It seems there is a [community-pached version of SonicStage](https://forums.sonyinsider.com/files/file/95-sonicstage-43-ultimate-edition/){:ref="nofollow"} out there AND IT WORKS!! \o/
+It seems there is a [community-pached version of SonicStage](https://forums.sonyinsider.com/files/file/95-sonicstage-43-ultimate-edition/){:target="_blank" rel="noopener" ref="nofollow"} out there AND IT WORKS!! \o/
