@@ -51,7 +51,7 @@ audio:
   "isAccessibleForFree": true,
   "organizer": {
     "@type": "Person",
-    "url": "https://0xreki.de/about-me/",
+    "url": "https://reki.wtf/about-me/",
     "name": "quốc Thái “0xReki” Chung"
   },
   "potentialAction": {
