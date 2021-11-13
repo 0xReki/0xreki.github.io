@@ -6,18 +6,23 @@ tags:
   - Riichi Mahjong
   - Doman Mahjong Tournament
 
-permalink: /doman/2022-02-water-tiger/
+permalink: /doman/2022-02-water-tiger-new-years-tournament/
 
-image: /blog/images/2022-02-ox.jpg
-image_alt: FFXIV Heavensturn Ox Event
+redirect_from: 
+  - /doman/
 
-seo_title_fix: 3
+image: /blog/images/2022-02-blue-tiger.jpg
+image_alt: Blue Tiger
+
+image_license: CC-BY-SA 3.0 Stewiemgr
+image_license_url: https://commons.wikimedia.org/wiki/File:Blue_tiger.jpg
+#seo_title_fix: 3
 
 start_date: 2022-02-04
 end_date: 2022-02-06
-# registration_url: https://docs.google.com/forms/d/e/1FAIpQLSeFPWYiCmlSUE1E73EEU713wlSetfkJ45GtA0MGZXjAeg2rkw/viewform?usp=sf_link
+registration_url: https://docs.google.com/forms/d/e/1FAIpQLSfl-xcvMN_ICM5CWQjuQv4oOg1dRInc4vu_Bg-wlODCO2RMVw/viewform?usp=sf_link
 registration_date: 2022-01-30
-#sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRdG2tiFL5ZhVZNDZWzEduUMslxAwT9oC-w0wfNqzpjWeV2fu6ALaIfGH2TN8zmT1B3zhgFUxT61p1x/pubhtml
+sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Hzcz7k7FropRD3hnuns_rDzpqWyZJiNR207zjGflejzRquHD4xor6UjM3Rdnk19nDJZyPkmmJ0XE/pubhtml
 
 excerpt: |
   A new year, a new tournament!
@@ -61,13 +66,13 @@ excerpt: |
 </script>
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-02-ox.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-02-ox.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-02-ox.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2021-02-ox.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-02-ox.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-02-ox.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-02-ox.webp' | prepend: site.static_url | absolute_url }}" alt="Heavensturn Ox Event" title="Heavensturn Ox Event">
+  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2022-02-blue-tiger.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2022-02-blue-tiger.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" alt="Blue Tiger" title="Blue Tiger">
 </picture>
 
 {:.mt-4}
@@ -75,6 +80,9 @@ A new year, a new tournament!
 This time, it's on the weekend of the Lunar New Year!
 This is the seventh Doman Mahjong Tournament on Light, feel free to make an alt to join.
 As before, this tournament is a player-run event: it is not affiliated with Final Fantasy XIV Online, Square Enix etc.
+
+Why do I put a tournament near the beginning of the new year?
+It's simple: the noise of mahjong tiles is said to bring good luck.
 
 ## Schedule
 
@@ -86,7 +94,7 @@ As before, this tournament is a player-run event: it is not affiliated with Fina
 
 1. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 15 EUR
 2. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 10 EUR
-3. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 15 EUR
+3. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 5 EUR
 
 The spreadsheet includes space for private games.
 Feel free to challenge some players for a game to fill the time.
@@ -94,6 +102,7 @@ There will be second ranking for those, which also include a small bonus of each
 Like last time, there's are extra prizes for the scores in social ladder:
 
 1. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 10 EUR.
+
 2. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 5 EUR.
 
 A big thanks to the sponsors!
@@ -109,7 +118,9 @@ Note: Prizes can't be received on any trial accounts.
 [Tournament Spreadsheet]({{ page.sheet_url }}){:target="_blank" rel="noopener"}, times are all UTC (a. k. a.&nbsp;Server Time) {% else %}not available yet{% endif %}
 
 **Where**: Final Fantasy XIV Online, Data Centre Light, preferably at the Mahjong Tables on Server Odin.
-To not miss the game announcements, do join the [Mahjong of Light Discord](https://discord.gg/nUSfJ2Q){:target="_blank" rel="noopener"}
+To not miss the game announcements, do join the [Mahjong of Light Discord](https://discord.gg/nUSfJ2Q){:target="_blank" rel="noopener"}!
+The registration form was made with DC Travel in mind.
+Since we don't know when DC Travel will be implemented, it'd be best if you choose to use an alt on Light.
 
 ## Format
 
@@ -176,6 +187,16 @@ To play, a trial account is sufficient. You only need to
 [unlock the Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/It_Could_Happen_to_You).
 Note, if you're not new to Mahjong, it's recommended to change the display from actual dora (setting: doman mahjong) to dora indicator (setting: traditional).
 If your character is not on Odin, you can use the [World Visit System](https://eu.finalfantasyxiv.com/lodestone/playguide/contentsguide/worldvisit/) to visit Odin.
+
+<picture>
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Settings" title="Doman Mahjong Settings">
+</picture>
 
 ## References
 

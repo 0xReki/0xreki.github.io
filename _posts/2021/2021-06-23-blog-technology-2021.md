@@ -10,7 +10,7 @@ redirect_from:
 
 image: /blog/images/2021-06-23-gears.jpg
 image_alt: Gears (Symbolic Picture)
-#image_license: CC-0
+image_license: CC-0
 
 checker:
   - lt

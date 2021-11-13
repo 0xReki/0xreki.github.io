@@ -10,6 +10,8 @@ tags:
 redirect_from: 
   - /wordpress/2014-07-26/games/game-reviews/golden-sun-dark-dawn
   - https://www.0xreki.de/wordpress/2014-07-26/games/game-reviews/golden-sun-dark-dawn
+  - /blog/2014/07-26-a-look-at-golden-sun-dark-dawn
+  - https://www.0xreki.de/blog/2014/07-26-a-look-at-golden-sun-dark-dawn
 
 checker:
   - lt
@@ -31,8 +33,8 @@ excerpt: |
 As they are forced to take another route by a group of shady characters, they find themselves in an unfamiliar place and try to find an alternative route to their original destination.
 What is that group plotting?
 
-Being a fan of the series, I enthusiastically pre-ordered a copy of “Dark Dawn”.
-When I told my fellow Golden Sun fans about it, they all had the same question: “If Matthew is Isaac’s son, who did Isaac marry?”.
+Being a fan of the series, I enthusiastically pre-ordered a copy of “Dark Dawn” as soon as I heard about it.
+When I told my fellow Golden Sun fans about it, they all had the same question: “If Matthew is Isaac's son, who did Isaac marry?”.
 Spoilers, the anwser is Jenna.
 
 But I was rather disappointed upon clearing the game way too fast and too easily.

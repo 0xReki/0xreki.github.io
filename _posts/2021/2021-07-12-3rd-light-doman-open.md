@@ -6,9 +6,6 @@ tags:
   - Riichi Mahjong
   - Doman Mahjong Tournament
 
-redirect_from: 
-  - /doman/
-
 permalink: /doman/2021-09-3rd-light-doman-open/
 
 image: /blog/images/2021-09-throne.jpg

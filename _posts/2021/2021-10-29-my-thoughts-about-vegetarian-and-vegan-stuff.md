@@ -3,8 +3,8 @@ title: My Thoughts About Vegetarian and Vegan Stuff
 
 tags:
   - Food
-  - Vegan
-  - Vegetarian
+  - Vegan Diet
+  - Vegetarian Diet
 
 redirect_from:
   - /blog/2019/08-14-my-thoughts-about-vegetarian-and-vegan-stuff/
@@ -19,20 +19,24 @@ excerpt: |
   It's rather strange, since leaving uni, people tend to ask me if I'm vegetarian or vegan, just because I happen to pick up some vegan products while grocery shopping, especially when it's tofu.
   I fill my tofu with minced meat, so no, I'm not.
   To me, vegan sweets and the like are just easier to discern then looking up if any product might contain lactose.
+  Why do strangers even care about what I eat?
+  I mean, you're not going to invite me over for a barbecue, are you?
 ---
 *This post was originally published in 2019 and was refreshed and updated with current information.*
 
 It's rather strange, since leaving uni, people tend to ask me if I'm vegetarian or vegan, just because I happen to pick up some vegan products while grocery shopping, especially when it's tofu.
 I fill my tofu with minced meat, so no, I'm not.
 To me, vegan sweets and the like are just easier to discern then looking up if any product might contain lactose.
+Why do strangers even care about what I eat?
+I mean, you're not going to invite me over for a barbecue, are you?
+<!--more-->
 
 When I was still at uni, I've never had to deal with such questions.
 In my time at the Student's Union, in fact, I was completely unaware of people I was working with being vegetarians or vegans for quite a while.
 I only noticed it one day when we were preparing for a camp when I looked at the participant list.
 And these are my thoughts about the matter:
-<!--more-->
 
-I stopped caring what reasons people have to eat like they eat -- be it beliefs or some disease or even just as a fun challenge.
+I stopped caring what reasons people have to eat like they eat --- be it beliefs or some disease or even just as a fun challenge.
 It's not my business.
 Yes, sure, I am slightly interested.
 But to me, accepting their eating habits entails not bothering them about it.
@@ -46,13 +50,14 @@ But everywhere you go, you see the nasty meat replacement in the vegetarian sect
 And because of that, I see people everywhere react negatively to the word tofu.
 Because in the meat-eaters mind: tofu equals meat-replacement.
 And it's not.
-Sure it's gotten better in the last years, and there are some products that sound promising and I would like to sample, but it's 2021 and I'm in Germany, and those products are only available in the US.
+Sure it's gotten better in the last years, and there are some products that sound promising and I would like to sample, but it's 2021, and I'm in Germany, and those products are only available in the US.
 
 While I haven't ever seen a vegetarian complain about bad food, I do have seen people working around it.
 One day, I saw a professor at the meat buffet.
 I knew she was vegetarian.
+That was before I realized, it's not by business what they eat.
 She simply got some salad that was part of the meat buffet.
-“The salad here tastes better than the vegetarian food they offer,” she said.
+“The salad here tastes better than the vegetarian food they offer,” she still politely explained.
 My point exactly.
 
 I hear meat-eaters complaining about vegetarian food all the time.
@@ -63,7 +68,7 @@ A meal without meat replacement?
 Usually I get a no.
 
 Of course, this is not only a problem from the meat-eater side.
-Some vegetarian think it's a good idea to show off meat replacement to people that aren't interested.
+Some vegetarians think it's a good idea to show off meat replacement to people that aren't interested.
 Please, just don't do that!
 Don't go there saying it doesn't taste that bad.
 Meat-eaters expect it to taste like meat.
