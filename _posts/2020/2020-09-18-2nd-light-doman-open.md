@@ -16,7 +16,7 @@ seo_meta_fix: 1
 start_date: 2020-09-18
 end_date: 2020-09-20
 
-registration_url: 
+#registration_url: 
 registration_date: 2020-09-13
 sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_i6HuA6osMNNKR7PaDNpMpTEWHaTxVXuUfLEHytMJaMsRZXpovG-bNiPx9UNJ14fm5WYmCwaNqbKA/pubhtml#
 
@@ -194,7 +194,7 @@ Congratulations!
 
 Again, I thank everyone who participated or just subbed.
 A special thanks goes to our sponsor.
-This was the Secound Light Doman Open and I hope to see you in the next tourmament.
+This was the Second Light Doman Open and I hope to see you in the next tournament.
 
 ## Schedule
 

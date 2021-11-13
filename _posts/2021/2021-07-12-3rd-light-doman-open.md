@@ -15,7 +15,7 @@ seo_title_fix: 3
 
 start_date: 2021-09-10
 end_date: 2021-09-12
-registration_url: https://docs.google.com/forms/d/e/1FAIpQLSd9L15ckhIjfVP4qf44KGoS6v5_PtPV2ik-dAKLd_x_iJY-sw/viewform?usp=sf_link
+#registration_url: https://docs.google.com/forms/d/e/1FAIpQLSd9L15ckhIjfVP4qf44KGoS6v5_PtPV2ik-dAKLd_x_iJY-sw/viewform?usp=sf_link
 registration_date: 2021-08-28
 sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS5XpMwe0ORqzwe95RdprTgyXqyeXz0ZIunmgT9SPu_jYn4ovK-IztXoP3G1t4LRnoNdYSGq2FdxZml/pubhtml
 
@@ -168,8 +168,8 @@ penalty.
 ## Final Fantasy XIV Online
 
 All games are being played in [Final Fantasy XIV Online](https://www.finalfantasyxiv.com/).
-To play, a trial account is sufficient. You only need to
-[unlock the Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/It_Could_Happen_to_You).
+To play, a trial account is sufficient.
+You only need to [unlock the Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/It_Could_Happen_to_You).
 Note, if you're not new to Mahjong, it's recommended to change the display from actual dora to dora indicator.
 
 ## References

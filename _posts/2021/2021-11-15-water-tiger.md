@@ -183,8 +183,8 @@ Good luck!
 ## Final Fantasy XIV Online
 
 All games are being played in [Final Fantasy XIV Online](https://www.finalfantasyxiv.com/).
-To play, a trial account is sufficient. You only need to
-[unlock the Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/It_Could_Happen_to_You).
+To play, a trial account is sufficient.
+You only need to [unlock the Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/It_Could_Happen_to_You).
 Note, if you're not new to Mahjong, it's recommended to change the display from actual dora (setting: doman mahjong) to dora indicator (setting: traditional).
 If your character is not on Odin, you can use the [World Visit System](https://eu.finalfantasyxiv.com/lodestone/playguide/contentsguide/worldvisit/) to visit Odin.
 
