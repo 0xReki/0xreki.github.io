@@ -5,21 +5,21 @@ long: true
 ref: christanity-west
 
 tags:
-  - Christanity
+  - Religion
 
 #image: /blog/images/2022-02-ox.jpg
 #image_alt: FFXIV Heavensturn Ox Event
 
 #seo_title_fix: 3
 ---
+I don't usually speak or write much about my faith.
+This post contains a lot of views people might disagree with, but these views I have are the result of me having actually engaged with my faith.
+When this post gets published, it should be shortly before Christmas.
+Let's take the time and really look at this.
+
 “We are swimming in Christianity” is a statement I've recently heard.
 I disagree.
-I don't usually speak or write much about my faith.
-They say, inaction is the greatest evil, so I'll just have to force myself to do it.
-When this post gets published, it should be shortly before Christmas.
-Let's take the time and really look at this: are we, the Western society, really swimming in Christianity?
-This post contains a lot of views people might disagree with, but these views I have are the result of me having actually engaged with my faith.
-Faith is more than just rituals.
+Are we, the Western society, really swimming in Christianity?
 
 ## Core Message of Christianity
 
@@ -29,15 +29,17 @@ From shortly before and well after my confirmation, my teachers in religious edu
 What does it mean?
 Let's start with forgiving people seek forgiveness, altruistic action, not excluding people because of their gender, their looks, their race, their religion, or their sexuality and meeting them with respect.
 This also includes not harassing people for being or thinking different.
-Those that act like this can be considered true Christians, regardless if they are baptized or even believe in God at all.
+Based on that principle, you can derive more… but that's not the core message.
 
 ## Looking West
 
-Looking at the Western world, I see rampant cooperate greed, bullying, sexism, transgyny, homogyny, racism, antisemitism, etc.
-Things that just prove how much we are not swimming in Christianity.
-Especially bullying should not exist in any community claiming to Christian, our society should be above that.
-Instead, society turns a blind eye towards bullying and even actively joins in the bullying.
+Looking at the Western world, I see rampant cooperate greed, bullying, sexism, transmisia, homomisia, xenomisia, racism, antisemitism, etc.
+Things I don't associate with the principle of loving one's neighbour.
+Economic growth over human rights. Protecting economy over protecting lives.
+Rituals and empty words over actions.
 
+Especially bullying should not exist in any community claiming to Christian, our society should be above that.
+Instead, society turns a blind eye towards bullying and even actively joins in the bullying, in racism, and other discrimination.
 Some might argue, those people are heathens, belonging to other non-Christian religions, or not real Christians.
 If they aren't Christians, we are not swimming in Christianity.
 
@@ -46,6 +48,12 @@ Seems like, stroking one's ego isn't a phenomenon that started with the internet
 I don't care how much you think how holy you think you are, or what illness you believe is a punishment from God.
 What matters is what you say and how you act.
 And if you are truly Christian, put benevolence first, even to those you believe are sinners.
+
+The current trend — I have seen exceptions that give me hope — is moving away from that: there is an increase in voices and actions to limit the return of former criminals to society.
+Are we swimming in Christianity?
+I don't think so.
+I would even argue, the Western society has actually never fully embraced Christianity.
+There have been ups and downs, and this another down phase.
 
 ## Science and Faith
 
@@ -58,7 +66,7 @@ Sometimes, he works through the actions of people around you.
 If you don't use all of what humanity has achieved to improve and save lives, and expect God to magically fix it, you're rejecting his help.
 That is why I got vaccinated and wear a face mask, even though I have trouble breathing through it.
 
-Sure, there could have been side effects, potentially deadly.
+Sure, there could have been side effects to the shot, potentially deadly ones too.
 But those could be mitigated, and my doctor told me what signs I could take to the hospital immediately.
 While I got the usual fever and aches, my phone died, and friends personally came over to check on me.
 To this day, just this one visit made me feel blessed.
@@ -68,32 +76,72 @@ In the worst case, I could have overlooked the signs of coming complications.
 I could have fainted alone in my flat and have nobody notice it.
 My friends could have all not remember me getting a shot that very weekend and not paid me a visit.
 But none of that happened.
-Did he actually do something?
+Did God actually do something?
 I don't need to know.
 
+To me, acting irrational because I believe in God's protection, is testing God, not believing in him.
 Sometimes, he works through the actions of humans.
 You cannot expect God to change the laws of nature.
 If we want to limit the effects of climate change, we need to act.
 We were given the means to detect it before it's too late, we should act on it.
-While I have very mixed views on gene testing and manipulation, inaction and expecting God fix climate change for us is what I call not respecting creation at all.
+While I have very controversial views on gene testing and manipulation, to me, inaction and expecting God fix climate change for us is complacent and what I call not respecting creation at all.
 
-## Possessed by Evil?
+## Young People and Faith
 
+Over the years, I've moved several times, and have seen multiple priests, that managed to engage young people with their faith.
+Sadly, they were all removed.
+The priests all claim it's for different reasons, but everyone knows if a priest doesn't stay for his full tenure, it's a transfer for disciplinary reasons.
+How dare I claim those priests lied?!
+They lied to protect the peace in the community.
+Looking at who actually came to see the priests off, it's evident they were an eyesore to the old folks that value old language and meaningless rituals.
+You know language in the church is old when you have an easier time understanding it in a foreign language you have barely started learning.
+Even though, at least one of them tried to appease the older generation by making dedicated masses for young people at a time when the old people rarely attend, they still get transferred away.
+
+In the end, since speaking your mind to the older generation is considered rude, the younger generation simply turn their back on the church.
+All they see is old people ruining it, clinging to their old, even worldly values and meaningless rituals instead of actions and engaging with the faith in the current world.
+
+Some say, I should formally leave the Church to display my dissatisfaction with its current state.
+But I disagree, all it does is making this conflict even worse.
+And here in Germany, part of that Church tax goes into childcare institutions, I don't have children, but taking away from children isn't something I want to do.
+But maybe that's just an excuse for me to not act.
+
+## Faith and Other People
+
+I hope, this post will reach people that are currently engaging with their faith.
+Maybe they will agree with me, or at least take this into account when they think about what their faith really means to them.
 But hey, there are people that say I'm possessed by evil, so what do I know?
-Maybe they were right, I've put off writing this post for quite a while.
-I have felt the need to write this a long time ago, but I was paralyzed with fear of how people would react to this post.
-But some things happened privately, and I had much time to think about it.
-They say inaction is the greatest evil.
-I have to agree with that.
 
-## Engaging with Your Faith
-
-Maybe this post will reach people that are currently engaging with their faith.
-And I hope they will agree with me, or at least take this into account when they think about what their faith really means to them.
-It's much likely this post will gather hate.
-I have to admit, I'm too weak to unilaterally say I forgive that.
+It doesn't matter if I've seen or heard it directly or indirectly, those words still hurt.
+I have to admit, I'm too weak to unilaterally say I forgive.
 I am by no means a saint, but I believe being a true Christian means to continuously work on myself and the world.
 Not excluding people because of their gender, their looks, their race, their religion, or their sexuality and meeting them with respect — I still catch myself thinking afoul of these, especially when I'm met with disrespect.
+Will I ever be able to forgive?
+I don't know, I will eventually be able to say or write those words, time heals.
+But I don't know if I will ever truly feel that way, all I can do is wish I will eventually be able to.
+Maybe that evil born from that pain will forever haunt me.
+
+Maybe they were right, and I am possessed by evil: I've hesitated on writing this post for quite a while.
+I have felt the need to write something like this a long time ago, it's been years, but I was paralyzed with fear of how people would react to this post — I am by no means a saint, fear, uncertainty and doubt are just human nature.
+But some things happened privately, and I had much time to think about me, my family, my environment, and the state of the world.
+They say inaction is the greatest evil.
+
+That said, respecting other people religion doesn't mean, I have to accept it when people start, directly or indirectly, harassing, or even worse, harming other people because of their faith.
+“But that's against freedom of religion!” they say.
+Freedom of religion should have its limits.
+If your religion makes you harm or harass others, you shouldn't be allowed to practice that religion.
+It doesn't matter where you think your religion originated from.
+Do *not* harm or harass other people because of your faith, especially if you claim you're from a Christian religion!
+
+Harming or harassing other people?
+Jesus ain't say that!
+
+## A True Christian Society
 
 With all said, when I look at the current state of the Western society that's supposedly to be *so* Christian, I can't help but feel sad.
 This Christian society could be so much better if those that claim to be Christian actually act like ones.
+
+*[transmisia]: commonly called transphobia; a collection of ideas and phenomena that encompass a range of negative attitudes, feelings, or actions towards transgender people or transness in general.
+
+*[homomisia]: commonly called homophobia; a collection of ideas and phenomena that encompass a range of negative attitudes, feelings, or actions towards homosexual people.
+
+*[xenomisia]: commonly called xenophobia; the fear or hatred of that which is perceived to be foreign or strange.
