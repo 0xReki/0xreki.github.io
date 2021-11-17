@@ -128,11 +128,11 @@ They say inaction is the greatest evil.
 That said, respecting other people religion doesn't mean, I have to accept it when people start, directly or indirectly, harassing, or even worse, harming other people because of their faith.
 “But that's against freedom of religion!” they say.
 Freedom of religion should have its limits.
-If your religion makes you harm or harass others, you shouldn't be allowed to practice that religion.
+If your religion makes you harm, harass or discriminate others, you shouldn't be allowed to practice that religion.
 It doesn't matter where you think your religion originated from.
-Do *not* harm or harass other people because of your faith, especially if you claim you're from a Christian religion!
+Do *not* harm, harass or discriminate other people because of your faith, especially if you claim you're from a Christian religion!
 
-Harming or harassing other people?
+Harming, harassing or discriminating other people?
 Jesus ain't say that!
 
 ## A True Christian Society
