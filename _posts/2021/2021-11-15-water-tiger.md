@@ -6,6 +6,9 @@ tags:
   - Riichi Mahjong
   - Doman Mahjong Tournament
 
+seo_title_fix: 4
+seo_meta_fix: 24578^\iaeoböäpbm
+
 permalink: /doman/2022-02-water-tiger-new-years-tournament/
 
 redirect_from: 
@@ -16,7 +19,6 @@ image_alt: Blue Tiger
 
 image_license: CC-BY-SA 3.0 Stewiemgr
 image_license_url: https://commons.wikimedia.org/wiki/File:Blue_tiger.jpg
-#seo_title_fix: 3
 
 start_date: 2022-02-04
 end_date: 2022-02-06
