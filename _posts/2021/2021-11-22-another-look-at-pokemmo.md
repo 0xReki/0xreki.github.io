@@ -116,7 +116,7 @@ It's both great and sad, I love this project so much.
 Is it Game Freak's fault?
 Maybe, but I believe the fault lies with the PokéMon Company for putting in enough money into Game Freak to make a fun game the fans deserve.
 
-While I'm looking forward to PokéMon Brilliant Diamond and Shining Pearl, only because I haven't played the original Nintendo DS games, I have started to lose interest in future games.
+While I'm currently having a blast with PokéMon Shining Pearl, that's probably only because I haven't played the original Nintendo DS games, I have started to lose interest in future games.
 I will not pre-order the Legends: Arceus game.
 Because of brand loyalty, I have already gotten two generations of PokéMon and was burned.
 The second one still stings.
