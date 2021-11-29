@@ -7,8 +7,9 @@ ref: christanity-west
 tags:
   - Religion
 
-#image: /blog/images/2022-02-ox.jpg
-#image_alt: FFXIV Heavensturn Ox Event
+image: /blog/images/2021-11-29-christanity.jpg
+image_alt: Cross (Symbolic Picture)
+image_license: CC-0
 
 #seo_title_fix: 3
 ---
@@ -84,7 +85,7 @@ Sometimes, he works through the actions of humans.
 You cannot expect God to change the laws of nature.
 If we want to limit the effects of climate change, we need to act.
 We were given the means to detect it before it's too late, we should act on it.
-While I have very controversial views on gene testing and manipulation, to me, inaction and expecting God fix climate change for us is complacent and what I call not respecting creation at all.
+While I have very controversial views on gene testing and gene manipulation, to me, inaction and expecting God fix climate change for us is complacent and what I call not respecting creation at all.
 
 ## Young People and Faith
 
@@ -129,6 +130,7 @@ That said, respecting other people religion doesn't mean, I have to accept it wh
 “But that's against freedom of religion!” they say.
 Freedom of religion should have its limits.
 If your religion makes you harm, harass or discriminate others, you shouldn't be allowed to practice that religion.
+Or the lack of one.
 It doesn't matter where you think your religion originated from.
 Do *not* harm, harass or discriminate other people because of your faith, especially if you claim you're from a Christian religion!
 
