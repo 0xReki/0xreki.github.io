@@ -7,7 +7,7 @@ ref: christanity-west
 tags:
   - Religion
 
-image: /blog/images/2021-11-29-christanity.jpg
+image: /blog/images/2021-11-29-christianity.jpg
 image_alt: Cross (Symbolic Picture)
 image_license: CC-0
 
@@ -17,6 +17,14 @@ I don't usually speak or write much about my faith.
 This post contains a lot of views people might disagree with, but these views I have are the result of me having actually engaged with my faith.
 When this post gets published, it should be shortly before Christmas.
 Let's take the time and really look at this.
+
+<picture>
+  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-11-29-christianity.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-11-29-christianity.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-11-29-christianity.png' | prepend: site.static_url | absolute_url }}" alt="Cross (Symbolic Picture)">
+</picture>
 
 “We are swimming in Christianity” is a statement I've recently heard.
 I disagree.
