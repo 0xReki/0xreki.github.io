@@ -39,16 +39,16 @@ It uses the same plug as the US, but the US seems to run at 120V at 60 Hz.
 Given the price of these units, it's rather not use these at the wrong voltage.
 And it's hard to find a transformer that'd get me the 100 Volts I need.
 I'm not getting a 230V to 120V one and then plug in another one for 120V to 100V.
-I did get a transformer that claim does 110V, but I don't have measuring tools around to test it.
+Oh, and I did buy a power converter from Japan, but upon closer inspection, it says not plug in Hi-fi equipment into it.
+I got another transformer that claims to do 110V, but I don't have measuring tools around to test it.
 It might just be a mislabelling, just like everyone claims it's 220V here in Europe, but it's actually 230V.
 We used do have 220V in mainland Europe, until 1987.
 Since then, European countries moved to 230V, with the standard made to be within the 220V spec.
-
-Oh, and I did buy a power converter from Japan, but upon closer inspection, it says not plug in HiFi equipment into it.
+This transformer might actually provide 110V, since it claims to take 230V.
 
 After some digging, I found a manufacturer that sells custom-made transformers, but it's bulky and overspecced.
 I don't need that much power to use a MiniDisc player.
-Plus, it's 2021 and the manufacturer is in the UK.
+Plus, it's 2021 and that manufacturer is in the UK.
 And I don't need two of these… yet.
 
 By the way, I'm still not used to handling MDs, I keep putting them in like 3.5" floppies.
