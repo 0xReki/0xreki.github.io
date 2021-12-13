@@ -42,12 +42,12 @@ I'm not getting a 230V to 120V one and then plug in another one for 120V to 100V
 Oh, and I did buy a power converter from Japan, but upon closer inspection, it says not plug in Hi-fi equipment into it.
 I got another transformer that claims to do 110V, but I don't have measuring tools around to test it.
 It might just be a mislabelling, just like everyone claims it's 220V here in Europe, but it's actually 230V.
-We used do have 220V in mainland Europe, until 1987.
+We used to have 220V in mainland Europe, until 1987.
 Since then, European countries moved to 230V, with the standard made to be within the 220V spec.
 This transformer might actually provide 110V, since it claims to take 230V.
 
 After some digging, I found a manufacturer that sells custom-made transformers, but it's bulky and overspecced.
-I don't need that much power to use a MiniDisc player.
+I don't need 1000W to power a MiniDisc player.
 Plus, it's 2021 and that manufacturer is in the UK.
 And I don't need two of these… yet.
 
