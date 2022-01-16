@@ -67,6 +67,7 @@ excerpt: |
 }
 </script>
 
+<figure>
 <picture>
   <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
   <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
@@ -76,6 +77,8 @@ excerpt: |
   <source srcset="{{ '/blog/images/2022-02-blue-tiger.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
   <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" alt="Blue Tiger" title="Blue Tiger">
 </picture>
+<figcaption>Blue Tiger<br> <a href="https://commons.wikimedia.org/wiki/File:Blue_tiger.jpg" target="_blank" rel="noopener nofollow"> CC-BY-SA 3.0 Stewiemgr </a></figcaption>
+</figure>
 
 {:.mt-4}
 A new year, a new tournament!
@@ -135,7 +138,8 @@ Having more slots just helps a lot with not playing the same people each time.
 
 All games will be played in Final Fantasy XIV Online as friendly matches “Full Game Four-player Mahjong (Kuitan Enabled)” on Data Centre Light.
 Don't be confused, what Doman Mahjong considers a “Full Game” is just a hanchan, it's *not* an iichan.
-After the game, since FFXIV doesn't have logs and spectator mode (yet! Yoshi-P, please add one for us!) the result should be screenshotted and sent to the organizer.
+After the game, since FFXIV doesn't have logs and spectator mode (yet! Yoshi-P, please add one for us!) the result should be screenshotted and sent to the orgaBlue Tiger
+CC-BY-SA 3.0 Stewiemgrnizer.
 
 ## Rules
 
