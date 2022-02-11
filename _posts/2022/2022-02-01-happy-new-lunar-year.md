@@ -1,12 +1,11 @@
 ---
 title: Happy New Lunar Year 2022!
 
-tags:
-  - SEO
-  - Tools
+image: /blog/images/2022-02-blue-tiger.jpg
+image_alt: Blue Tiger
 
-#image: /blog/images/2022-02-ox.jpg
-#image_alt: FFXIV Heavensturn Ox Event
+image_license: CC-BY-SA 3.0 Stewiemgr
+image_license_url: https://commons.wikimedia.org/wiki/File:Blue_tiger.jpg
 
 #seo_title_fix: 3
 

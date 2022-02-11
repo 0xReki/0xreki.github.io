@@ -7,7 +7,7 @@ tags:
   - Doman Mahjong Tournament
 
 seo_title_fix: 4
-seo_meta_fix: 24578^\iaeoböäpbm
+seo_meta_fix: 2
 
 permalink: /doman/2022-02-water-tiger-new-years-tournament/
 
@@ -22,7 +22,7 @@ image_license_url: https://commons.wikimedia.org/wiki/File:Blue_tiger.jpg
 
 start_date: 2022-02-04
 end_date: 2022-02-06
-registration_url: https://docs.google.com/forms/d/e/1FAIpQLSfl-xcvMN_ICM5CWQjuQv4oOg1dRInc4vu_Bg-wlODCO2RMVw/viewform?usp=sf_link
+# registration_url: https://docs.google.com/forms/d/e/1FAIpQLSfl-xcvMN_ICM5CWQjuQv4oOg1dRInc4vu_Bg-wlODCO2RMVw/viewform?usp=sf_link
 registration_date: 2022-01-30
 sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Hzcz7k7FropRD3hnuns_rDzpqWyZJiNR207zjGflejzRquHD4xor6UjM3Rdnk19nDJZyPkmmJ0XE/pubhtml
 
