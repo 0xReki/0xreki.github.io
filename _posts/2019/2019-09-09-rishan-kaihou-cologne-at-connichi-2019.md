@@ -15,7 +15,7 @@ checker:
 long: true
 seo_meta_fix: 1
 ---
-Saturday,  September 7th, 2019, it's about noon.
+Saturday, September 7th, 2019, it's about noon.
 An enthusiastic “Tsumo!” can be heard in the rooms of Games Unplugged at Connichi in Kassel.
 
 <picture>
@@ -47,7 +47,7 @@ We set up a 2nd table.
 I speak my mind: “If this continues, we might need to get another set from the car.”
 
 On Saturday, we get visitors that already knew how to play and just want to play with us.
-Some event want to learn beatori.
+Some even want to learn beatori.
 I'm still busy with teaching but table 1 as finishing up their beginner lesson.
 So they play at table 1.
 
@@ -57,11 +57,11 @@ Sadly, I didn't get to play them.
 So if you want to hear more, you'll have to ask Nico or Manuel.
 
 It's around noon.
-An enthusiastic “Tsumo!” can be heard in the rooms of [Games Unplugged](https://www.connichi.de/programm/games-unplugged/) at Connichi in Kassel.
+An enthusiastic “Tsumo!” can be heard in the rooms of Games Unplugged at Connichi in Kassel.
 I turn my head towards table 1.
 Nico announces his hand: “Suuankou tanki matchi!”
 Those who know what it means are in awe.
-To the others we explain what a yakuman is. And what a double yakuman is.
+To the others, we explain what a yakuman is. And what a double yakuman is.
 
 By the way, congratulations to Nico for his first Yakuman!
 
@@ -81,13 +81,14 @@ Those round tables are quite perfect in size.
 But you have to stand with those high tables.
 I swipe some high chairs from the balcony.
 After the lesson, I take the materials back into the room with me.
-The entrance area can't be locked up and I'm not a fan of leaving our materials unattended.
+The entrance area can't be locked up, and I'm not a fan of leaving our materials unattended.
 
-On Sunday we encounter a familiar problem: we need a 3rd table.
+On Sunday, we encounter a familiar problem: we need a 3rd table.
 So another table is set up in the entrance area.
-Since it's for a group of people that already play I leave them and visit once in a while.
-A little later I'm being called outside: “Thai, can you come quickly? We need help with scoring.”
-Of course, I get out to help. Huh? A very rare hand awaits me:
+Since it's for a group of people that already play, I leave them and visit once in a while.
+A little later, I'm being called outside: “Thai, can you come quickly? We need help with scoring.”
+Of course, I get out to help.
+Huh? A very rare hand awaits me:
 
 <picture>
   <source srcset="{{ '/blog/images/2019-09-09-ryanpeikou.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
@@ -98,5 +99,5 @@ Of course, I get out to help. Huh? A very rare hand awaits me:
 {:.mt-4}
 Sunday is nearing its end.
 It was an exhausting weekend.
-Exhausting but fun.
+Exhausting, but fun.
 If the Connichi doesn't mind we'd like to come next year as well.
