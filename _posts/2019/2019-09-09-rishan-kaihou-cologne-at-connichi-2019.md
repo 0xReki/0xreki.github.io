@@ -100,4 +100,4 @@ Huh? A very rare hand awaits me:
 Sunday is nearing its end.
 It was an exhausting weekend.
 Exhausting, but fun.
-If the Connichi doesn't mind we'd like to come next year as well.
+If the Connichi doesn't mind, we'd like to come next year as well.

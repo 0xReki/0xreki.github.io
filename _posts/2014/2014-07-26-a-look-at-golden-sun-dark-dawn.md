@@ -42,7 +42,7 @@ But I was rather disappointed upon clearing the game way too fast and too easily
 I guess it is good not to be too challenging, but then even the secret Boss Dullahan, who was considered the ultimate Boss in “Golden Sun: The Lost Age” was a pushover in “Golden Sun: Dark Dawn”!
 It definitely lacks the feature to play on a higher difficulty.
 
-Also, going into the third dimesion kinda ruined the Golden Sun feeling a little.
+Also, going into the third dimension kinda ruined the Golden Sun feeling a little.
 
 I'd rank it with 3 of 10.
 There's still hope the possible sequel might fix the issue.
