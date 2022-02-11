@@ -5,8 +5,9 @@ tags:
   - Software Recommendations
 
 redirect_from:
-  - /2020/05-22-blog-technology-2020
-  - /2020/05/22/blog-technology-2020
+  - /2020/05-22
+  - /2020/05/22
+  - /blog/2020/05-21
 
 image: /blog/images/2021-06-23-gears.jpg
 image_alt: Gears (Symbolic Picture)

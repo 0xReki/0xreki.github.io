@@ -81,8 +81,7 @@ So I'm passing on this one for now.
 
 [Hasklig](https://github.com/i-tu/Hasklig){:target="_blank" rel="noopener"} is Source Code Pro plus only few ligatures.
 
-The similar looking characters are distinct, and you can easily recognize which of the characters you're looking at.
-If you see an isolated l, you know it's a lowercase letter l without seeing a capital letter I or a number 1 in context.
+Like with Fira Code, similar looking characters are distinct, and you can easily recognize which of the characters you're looking at: if you see an isolated l, you know it's a lowercase letter l without seeing a capital letter I or a number 1 in context.
 Capital letter O and number 0 look very distinct as well.
 
 <picture>

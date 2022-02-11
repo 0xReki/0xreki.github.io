@@ -7,6 +7,9 @@ tags:
   - Apps
   - Games
 
+redirect_from:
+  - /blog/2020/06-08-a-look-at-doman-mahjong-in-final-fantasy-xiv-online
+
 long: true
 seo_meta_fix: 1
 ---
