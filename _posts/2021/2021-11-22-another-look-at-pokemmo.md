@@ -20,6 +20,7 @@ checker:
   - lt
 
 long: true
+seo_title_fix: 5
 seo_meta_fix: 2
 
 excerpt: |
