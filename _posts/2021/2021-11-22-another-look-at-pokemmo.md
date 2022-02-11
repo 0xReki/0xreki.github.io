@@ -20,7 +20,7 @@ checker:
   - lt
 
 long: true
-#seo_meta_fix: 1
+seo_meta_fix: 2
 
 excerpt: |
   In 2015, I had already taken a look at PokéMMO: while it was always full it was still very incomplete.
