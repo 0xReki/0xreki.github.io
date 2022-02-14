@@ -4,6 +4,7 @@ title: What I hate about Games in 2019
 tags:
   - Games
   - Rants
+  - Personal Views
 
 checker:
   - pwa

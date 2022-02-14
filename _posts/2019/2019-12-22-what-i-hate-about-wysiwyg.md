@@ -5,6 +5,7 @@ tags:
   - Text Processing
   - Markdown
   - Rants
+  - Personal Views
 
 checker:
   - pwa

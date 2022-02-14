@@ -6,6 +6,7 @@ ref: christanity-west
 
 tags:
   - Religion
+  - State of the World
 
 image: /blog/images/2021-11-29-christianity.jpg
 image_alt: Cross (Symbolic Picture)

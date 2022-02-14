@@ -5,6 +5,7 @@ long: true
 
 tags:
   - Rants
+  - State of the World
 
 seo_meta_fix: 4
 
