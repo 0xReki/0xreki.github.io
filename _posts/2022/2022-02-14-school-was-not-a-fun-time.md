@@ -6,7 +6,7 @@ tags:
   - Memory Lane
   - State of the World
 
-image: /blog/images/2022-02-14-japanase-classroom.jpg
+image: /blog/images/2022-02-14-japanese-classroom.jpg
 image_alt: Japanase High School Classroom
 
 image_license: CC-BY-SA 2.0 frwl
