@@ -6,10 +6,11 @@ tags:
   - Memory Lane
   - State of the World
 
-#image: /blog/images/2022-02-ox.jpg
-#image_alt: FFXIV Heavensturn Ox Event
+image: /blog/images/2022-02-14-japanase-classroom.jpg
+image_alt: Japanase High School Classroom
 
-#seo_title_fix: 3
+image_license: CC-BY-SA 2.0 frwl
+image_license_url: https://commons.wikimedia.org/wiki/File:Japanese_high_school_classroom.jpg
 
 #excerpt: |
 #  A new year, a new tournament!
@@ -21,6 +22,7 @@ While most people tend to look fondly to their time at school, I don't.
 Sure, there have been fun times, but for the most part, it wasn't.
 What could have been so bad?
 Bullying, yes, this post is about bullying.
+<!--more-->
 
 ## I would do anything to make it stop
 
