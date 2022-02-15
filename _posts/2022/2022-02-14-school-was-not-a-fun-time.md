@@ -24,7 +24,7 @@ What could have been so bad?
 Bullying, yes, this post is about bullying.
 <!--more-->
 
-## I would do anything to make it stop
+## I Would Do Anything to Make It Stop
 
 There were days when the only thought I had while walking home from school was: I would do anything to make it stop.
 That thought can mean you'd do anything to be part of the group.
@@ -42,7 +42,7 @@ Perhaps I can jump down over there!
 It's been years, and I don't even remember who did what and when.
 And to be honest, I don't really want to: it was a miserable time.
 
-## You're a boy, just deal with it
+## You're a Boy, Just Deal with It
 
 Authorities were just not prepared or willing to deal with it.
 “It's your own fault”, “just ignore them” or “you're a boy, just deal with it”.
@@ -52,7 +52,7 @@ Has that gotten better?
 Schools claim they did.
 I'm not convinced.
 
-## The bully always says it's a joke
+## The Bully Always Says It's a Joke
 
 One day, I snapped and tried to punch a certain bully — he was two heads bigger than I was — yelling in tears I did not care he'd have an easy time knocking me out, but I was angry, and I was definitely going to punch him even if it meant he'd beat daylights out of me.
 
@@ -66,7 +66,7 @@ And the bullying stopped, at least it did until new people joined class a few ye
 Anyway, the bullying completely stopped when my class discovered bullying teachers that don't show competency in teaching is much more fun!
 Still, school is not a definitely not a time I fondly remember.
 
-## Sampling the internet
+## Sampling the Internet
 
 There have been some Anime that feature excluded or even bullied people.
 And what I can see from comments about those Anime, people haven't changed: the majority doesn't even try to understand the protagonist at all.
