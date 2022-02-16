@@ -18,9 +18,14 @@ image_license_url: https://commons.wikimedia.org/wiki/File:Japanese_high_school_
 #  This is the seventh Doman Mahjong Tournament on Light, feel free to make an alt to join.
 #  As before, this tournament is a player event: it is not affiliated with FFXIV etc.
 
+checker:
+  - lt
+  - pwa
+
 redirect_from:
   - /wordpress/2014-06-11
 ---
+For some reason, some memories of my time at school surfaced.
 While most people tend to look fondly to their time at school, I don't.
 Sure, there have been fun times, but for the most part, it wasn't.
 What could have been so bad?
@@ -59,11 +64,13 @@ I'm not convinced.
 
 One day, I snapped and tried to punch a certain bully — he was two heads bigger than I was — yelling in tears I did not care he'd have an easy time knocking me out, but I was angry, and I was definitely going to punch him even if it meant he'd beat daylights out of me.
 
-I might have even blurted out my suicidal thoughts, but I don't remember, all I can remember is he didn't even touch me, instead he just gave me his hand, apologizing.
+I might have even blurted out my suicidal thoughts, but I don't remember.
+All I can remember is he didn't even touch me, instead he just gave me his hand, apologizing.
 Like always, the bully always says it's a joke.
 But to me, the one being bullied, it's dead serious!
-In this case, he really meant it, even though I initially refused his apology, he insisted, saying he'd also be fine with beating the daylights out of me if I continued to refuse.
-I got a long with him a lot better after that.
+Here he really meant it.
+Even though I initially refused his apology, he insisted, saying he'd also be fine with beating the daylights out of me if I continued to refuse.
+I got along with him a lot better after that.
 He was a chill guy, but with me being a nerdy Asian guy, I wasn't a good fit for his clique, which was the group that was getting in relationship and publicly kissing.
 And the bullying stopped, at least it did until new people joined class a few years later and somehow decided to target me.
 Anyway, the bullying completely stopped when my class discovered bullying teachers that don't show competency in teaching is much more fun!
@@ -72,11 +79,11 @@ Still, school is not a definitely not a time I fondly remember.
 ## Sampling the Internet
 
 There have been some Anime that feature excluded or even bullied people.
-And what I can see from comments about those Anime, people haven't changed: the majority doesn't even try to understand the protagonist at all.
+And what I can see from comments about those Anime, people haven't changed: the majority don't even try to understand the protagonist at all.
 It's just an awkward character, and whatever action they took in the story, it's perceived as the wrong move, and it's entirely their own fault they acted like that.
 It's illogical, or too passive, or too violent.
 
 You know what Anime I mean.
-What you don't see, is how those people actually feel.
+What you don't see is how those people actually feel.
 You just blindly join the bullies and claim it's the bullied one's fault.
 With such comments, you just openly show how much you don't care about bullying.

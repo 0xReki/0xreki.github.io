@@ -8,6 +8,10 @@ tags:
   - Religion
   - State of the World
 
+checker:
+  - lt
+  - pwa
+
 image: /blog/images/2021-11-29-christianity.jpg
 image_alt: Cross (Symbolic Picture)
 image_license: CC-0

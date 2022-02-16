@@ -150,17 +150,17 @@ You don't have the best interest of people in mind, you're just getting off your
 To this day, I'm still waiting for a built-in package manager for Windows programs.
 Microsoft wanted to make one for quite a while, but they got push back from all sides.
 Just having a working package manager would help IT security quite a lot: automatic updates and less bloatware.
-Why is bloatware a problem?
+Why is bloatware an issue?
 By not helping non-techies to avoid bloatware, we have come to train them to associate updates with bloatware, so they stop updating.
 And it's a problem.
 But people left and right were claiming that package manager Microsoft announced to be anti-consumer, so the development was slowed down, and bloatware sadly is still a thing on Windows.
 Granted, Windows Defender does block some bloatware-infested installers, but that just annoys the consumer that wants to install their software.
 
 Of course, for advanced users, I believe there should be a way to install software from other sources.
-The problem isn't Windows getting a package manager, the problem is Windows potentially locking out other sources.
+The issue isn't Windows getting a package manager, the problem is Windows potentially locking out other sources.
 By campaigning against the package manager, you're not helping.
 While there's still development in the Windows App Installer, it's still stuck in Insider Previews.
-There's other solutions like [Ninite](https://ninite.com){:target="_blank" rel="noopener"} or [Chocolatey](https://chocolatey.org){:target="_blank" rel="noopener"}, these are not built-in, so users or administrators need to be aware of them to even make use of them.
+There are other solutions like [Ninite](https://ninite.com){:target="_blank" rel="noopener"} or [Chocolatey](https://chocolatey.org){:target="_blank" rel="noopener"}, these are not built-in, so users or administrators need to be aware of them to even make use of them.
 Or they hack their own solutions.
 
 I'm very happy about the existence of Ninite.
