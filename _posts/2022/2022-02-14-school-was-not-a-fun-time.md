@@ -17,6 +17,9 @@ image_license_url: https://commons.wikimedia.org/wiki/File:Japanese_high_school_
 #  This time, it's on the weekend of the Lunar New Year!
 #  This is the seventh Doman Mahjong Tournament on Light, feel free to make an alt to join.
 #  As before, this tournament is a player event: it is not affiliated with FFXIV etc.
+
+redirect_from:
+  - /wordpress/2014-06-11
 ---
 While most people tend to look fondly to their time at school, I don't.
 Sure, there have been fun times, but for the most part, it wasn't.

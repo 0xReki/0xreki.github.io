@@ -10,11 +10,9 @@ tags:
 
 image: /blog/images/2021-11-22-hoenn-fall.png
 
-#redirect_from: 
-#  - /wordpress/2015-04-25/media/games/pokemmo
-#  - https://0xreki.de/wordpress/2015-04-25/media/games/pokemmo
-#  - /blog/2015/04-25-pokemmo
-#  - https://0xreki.de/blog/2015/04-25-pokemmo
+redirect_from: 
+  - /wordpress/2015-04-25
+  - /blog/2015/04-25
 
 checker:
   - lt
