@@ -9,6 +9,9 @@ checker:
   - lt
   - pwa
 
+redirect_from:
+  - /blog/2021/11-01
+
 long: true
 ---
 You might have noticed I pushed out Amauga onto some platforms, and then removed it from some platforms again.
@@ -48,15 +51,14 @@ It took several weeks to get it working properly, and it's a feature you will su
 On the plus side, you can choose from All Right Reserved and multiple Creative Commons licenses, but they are all version 3.0.
 There's no option to put your work into public domain.
 
-I get the feeling it's not worth my time to cross-post there anymore, so I might remove it soon.
-Given how dead it feels, I'm not sure if I have been reaching any new readers at all…
+In the end, I decided to remove my story from the site, it wasn't worth the hassle.
 
 ## Wattpad
 
 At first glance, [Wattpad](https://www.wattpad.com) seems to be a good place to start.
 Text-production tools exist, and for some reason, it replaces all typographical quotation marks (“”) with ambidextrous ones ("").
 I personally hate that, but it only happens to those two characters, even if you change the language.
-If you write in German and use typographical quotation marks („“) you end up with typographical ones for opening („) and ambidextrous ones for closing ("), it looks… shite.
+If you write in German and use typographical quotation marks („“) you end up with typographical ones for opening („) and ambidextrous ones for closing ("), and it looks… shite.
 
 I publish my work with a Creative Commons license.
 Many platforms don't give you the choice what Creative Commons license it actually is, but in Wattpad you can actually choose what Creative Commons license you want.
@@ -65,8 +67,8 @@ What made me remove my work from the page is that goddamn bug, that insists on p
 
 I also had to DMCA one of my works off that platform, it's kinda sad, since that work seemed to be doing well over there.
 But they didn't give proper attribution, so I had to nuke it.
-I mean I would have been fine, if they added the missing attribution, but they weren't reachable.
-And given how it keeps changing to “All Rights Reserved” I think the uploader didn't do anything wrong.
+I mean, I would have been fine, if they added the missing attribution, but they weren't reachable.
+And given how it keeps changing to “All Rights Reserved” I'd like to believe the uploader tried to select the correct license.
 
 ## ScribbleHub
 
@@ -82,12 +84,23 @@ It kinda inflates my word count.
 
 ## RoyalRoad
 
-So far, the latest platform I tried is [RoyalRoad](https://royalroad.com).
+There's nothing much to say about [RoyalRoad](https://royalroad.com).
 Text-production tools exist and work rather well.
 And if you really need to, there's even an HTML code editor.
 Navigation for chapters is built-in.
 
-So far, I haven't seen any field to select a license, so here too, put the proper license at the end of each chapter, and call it a day, but I do wish, I could properly choose what license I want.
+So far, I haven't seen any field to select a license, so here too, put the proper license at the end of each chapter, and call it a day, but I do wish, I could properly pick what license I want.
+
+## Tapas
+
+The latest platform I've tried is [Tapas](https://tapas.io).
+
+So far, it seems it's more a platform for comics than for novels, but we'll see how this will turn out.
+Text-production tools exist and work rather well, albeit they are rather limited.
+There's no HTML code editor.
+Navigation for chapters is built-in.
+
+Just like most other platforms, I haven't seen any field to select a license, so here too, put the proper license at the end of each chapter, and call it a day.
 
 ## other Platforms
 
