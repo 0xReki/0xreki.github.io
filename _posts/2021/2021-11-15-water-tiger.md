@@ -13,6 +13,7 @@ permalink: /doman/2022-02-water-tiger-new-years-tournament/
 
 redirect_from: 
   - /doman/
+  - /doman-mahjong-tournament/
 
 image: /blog/images/2022-02-blue-tiger.jpg
 image_alt: Blue Tiger
