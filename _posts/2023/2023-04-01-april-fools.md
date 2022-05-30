@@ -27,43 +27,7 @@ registration_url: "#registration-form"
 registration_date: 2023-04-01
 #sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Hzcz7k7FropRD3hnuns_rDzpqWyZJiNR207zjGflejzRquHD4xor6UjM3Rdnk19nDJZyPkmmJ0XE/pubhtml
 
-excerpt: |
-  A new year, a new tournament!
-  This time, it's on the weekend of the Lunar New Year!
-  This is the seventh Doman Mahjong Tournament on Light, feel free to make an alt to join.
-  As before, this tournament is a player even{{}}https://docs.google.com/forms/d/e/1FAIpQLSfl-xcvMN_ICM5CWQjuQv4oOg1dRInc4vu_Bg-wlODCO2RMVw/viewform?usp=sf_link
-  "@type": "SportsEvent",
-  "name": "{{ page.title }}",
-  "url": "{{ page.url }}",
-  "sport": "Riichi Mahjong",
-  "startDate": "{{ page.start_date }}",
-  "endDate": "{{ page.end_date }}",
-  "location": {
-    "@type": "VirtualLocation",
-    "name": "Final Fantasy XIV Online",
-    "disambiguatingDescription": "Server Odin, Datacenter Light",
-    "url": "https://eu.finalfantasyxiv.com/"
-  },
-  "image": "{{ page.image | absolute_url }}",
-  "description": "{{ page.excerpt }}",
-  "eventStatus": "https://schema.org/EventScheduled",
-  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
-  "isAccessibleForFree": true,
-  "organizer": {
-    "@type": "Person",
-    "url": "https://reki.wtf/about-me/",
-    "name": "quốc Thái “0xReki” Chung"
-  },
-  "potentialAction": {
-    "@type": "JoinAction",
-    "url": "{{ page.registration_url }}",
-    "name": "Registration Form",
-    "event": { "id": "{{ page.url }}" },
-    "endTime": "{{ page.registration_date }}"
-  }
-}
-</script>
-
+---
 <figure>
 <picture>
   <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">

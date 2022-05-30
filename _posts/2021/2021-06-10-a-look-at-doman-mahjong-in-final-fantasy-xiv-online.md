@@ -25,7 +25,7 @@ excerpt: |
   That's more than 2 years now!
   From what I have seen, at least is the West, it had a very rocky path to being an accepted addition to the game.
 ---
-*This post was originally published in 2019 and was refreshed and updated with current information.*
+*This post was originally published on 2019-07-14 and was refreshed and updated with current information.*
 
 Since January 2019, Doman Mahjong is a one of the Games you can play in the Gold Saucer in Final Fantasy XIV.[^patch-4-5]
 That's more than 2 years now!

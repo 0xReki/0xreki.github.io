@@ -23,7 +23,7 @@ excerpt: |
   Why do strangers even care about what I eat?
   I mean, you're not going to invite me over for a barbecue, are you?
 ---
-*This post was originally published in 2019 and was refreshed and updated with current information.*
+*This post was originally published on 2019-08-14 and was refreshed and updated with current information.*
 
 It's rather strange, since leaving uni, people tend to ask me if I'm vegetarian or vegan, just because I happen to pick up some vegan products while grocery shopping, especially when it's tofu.
 I fill my tofu with minced meat, so no, I'm not.

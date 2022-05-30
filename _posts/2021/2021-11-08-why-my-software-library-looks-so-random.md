@@ -27,7 +27,7 @@ excerpt: |
   To me, practicability is the most important thing to when using software.
   So I stick with whatever works best for me.
 ---
-*This post was originally published in 2020 and was refreshed and updated with current information.*
+*This post was originally published on 2020-06-06 and was refreshed and updated with current information.*
 
 People seem to be confused by the software I use — it seems so random.
 I have made both good and bad experiences with both closed source and open source software.

@@ -25,8 +25,6 @@ excerpt: |
   As they are forced to take another route by a group of shady characters, they find themselves in an unfamiliar place and try to find an alternative route to their original destination.
   What is that group plotting?
 ---
-*This post was originally published on 2014-07-26 on rekislife.de which has since moved then moved here.*
-
 “Golden Sun: Dark Dawn” is a JRPG made by Camelot which was released 2010 for Nintendo DS and sequel to “Golden Sun: The Lost Age”.
 
 30 years after the events of “Golden Sun: The Lost Age”, the descendants of the Warriors of Vale, the protagonists from the previous games, set out on a journey for a simple errand.

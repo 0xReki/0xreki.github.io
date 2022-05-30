@@ -28,8 +28,7 @@ excerpt: |
   It's now 2021, more than 5 years later, how did it change?
   Well, you still need to dump your ROMs, but it can be any language version, as long as it's a PokéMon Black or White one.
 ---
-*This post was originally published on 2015-04-25 on rekislife.de which has since moved then moved here.*
-*It has been refreshed and updated with current information.*
+*This post was originally published on 2015-04-25 and was refreshed and updated with current information.*
 
 In 2015, I had already taken a look at PokéMMO: while servers where always full, it was still very incomplete.
 There was no NPC collision, but if you had a ROM of PokéMon Heart Gold or Soul Silver in addition to the required PokéMon Fire Red US 1.0, you could have a PokéMon following you around.

@@ -24,7 +24,7 @@ excerpt: |
   With each little thing, I liked it less.
   Now, I don't like it at all.
 ---
-*This post was originally published in 2019 and was refreshed and updated with current information.*
+*This post was originally published on 2019-05-03 and was refreshed and updated with current information.*
 
 MahjongSoul is still around and it's big.
 Just like everyone else, I jumped on the hype.
