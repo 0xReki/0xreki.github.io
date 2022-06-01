@@ -91,7 +91,7 @@ I mean, if you prefer Mac, that's your choice that's fine, just don't buy a Mac 
 
 Ardour might be a real Digital Audio Workstation on Linux, but setting it up and using it is a real pain.
 So some years ago, I decided to buy a [REAPER](https://www.reaper.fm){:target="_blank" rel="noopener"} license, and I'm happy I paid for that.
-And it runs perfectly fine in Linux with WINE, or natively even supporting Jack Audio Server.
+And it runs perfectly fine on Linux with WINE, or natively even supporting Jack Audio Server.
 
 Why consider running REAPER in WINE at all when you can run it natively?
 For running VST plugins, of course!
