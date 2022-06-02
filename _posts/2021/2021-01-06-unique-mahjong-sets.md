@@ -80,10 +80,12 @@ It's such different take on tiles, I'd consider it more a collectable than an ac
 </picture>
 
 {:.mt-4}
-Of course, there's the [Doman Mahjong Set from Final Fanatsy XIV (US Shop Link)](https://store.na.square-enix-games.com/en_US/product/608809/final-fantasy-xiv-doman-mahjong-tiles){:target="_blank" rel="noopener"} [(EU Shop Link)](https://store.eu.square-enix-games.com/geo/ff14_doman_mahjong_tiles){:target="_blank" rel="noopener"}.
+Of course, there's the [Doman Mahjong Set from Final Fanatsy XIV](https://store.eu.square-enix-games.com/geo/ff14_doman_mahjong_tiles){:target="_blank" rel="noopener"}.
 Pinpu in this set are Namazu, souzu are Sabotender, and the manzu are with stylized arabic numbers.
 The only problem is some of those numbers also look like Katakana and might throw you for a loop. (Damn you, Kupti Koop!)
 If not for the ongoing pandemic, this set is widely available, so I decided to make this my go-to set for teaching mahjong to people that just want to get an initial look at it.
+
+EDIT 2022-06-02: The set was removed from SquareEnix's US Store, not that it really matters, it was constant unavailable anyway.
 
 ## MACHILL Set by THE 90s LAB
 

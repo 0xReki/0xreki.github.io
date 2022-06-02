@@ -78,8 +78,9 @@ In 2020, SquareEnix put their set into their merchandise lineup.
 I immediately ordered it, but due to COVID-19, it took till February 2021 to arrive.
 If you're interested to procure it yourself, check out the respective store pages.
 
-- [Doman Mahjong Set from Final Fantasy XIV (US Shop Link)](https://store.na.square-enix-games.com/en_US/product/608809/final-fantasy-xiv-doman-mahjong-tiles){:target="_blank" rel="noopener"}
 - [Doman Mahjong Set from Final Fantasy XIV (EU Shop Link)](https://store.eu.square-enix-games.com/geo/ff14_doman_mahjong_tiles){:target="_blank" rel="noopener"}.
+
+EDIT 2022-06-02: The set was removed from SquareEnix's US Store, not that it really matters, it was constant unavailable anyway.
 
 No matter if you choose the Standard layout or the High Resolution layout, the information you need is spread over the screen.
 Some information is redundant due to that.
