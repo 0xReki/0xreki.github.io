@@ -1,5 +1,5 @@
 ---
-title: Page Moved to New Domain reki.wtf
+title: Page Moved to New Domain
 
 long: true
 

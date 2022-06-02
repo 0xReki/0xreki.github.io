@@ -10,29 +10,23 @@ tags:
 
 #seo_title_fix: 3
 
-excerpt: |
-  Let's talk about superstitions.
-  Being a occult player, I will not try to disprove any of these.
-  There are other people that do that, so I don't have to.
-  Sure, there are some I follow and others I don't subscribe to that much.
-  Good superstitions are just some shorthand for some complex math, I don't need to bother thinking about.
 ---
 Let's talk about superstitions.
-Being an occult player, I will not try to disprove any of these.
-There are other people that do that, so I don't have to.
+Being an occult player myself, I will not try to disprove any of these.
 Sure, there are some I follow and others I don't subscribe to that much.
 I see it that way: good superstitions are just some shorthand for some complex math, I don't need to bother thinking about it.
+That being said, the Western Riichi online sphere is hostile, very hostile against occult players.
 If you don't believe in these, that's fine.
-Just be civil about it.
+But for the love of all that's holy to you, be civil about it.
 
-## “Lalafell have all the luck in Doman Mahjong”
+## “Lalafell have all the luck!”
 
-Let's start with a current one.
-Granted, this feels like you can extend this to all of Final Fantasy XIV Online: Lalafell seem to an influence on luck.
-More opening gates, more loot, better rolls on loot, more kandora, more uradora, more ippatsu tsumos.
-However, you might need to murder the Lalafell in your group with Rescue for the luck to trigger.
-Or convince the Lalafell to commit suicide.
-Somehow, that sounds wrong…
+Let's start with a current one:
+In Final Fantasy XIV Online, being a Lalafell seems to have an influence on luck - more opening gates in treasure maps, more loot, better rolls on loot etc.
+Even in Doman Mahjong, they get more kandora, more uradora, more riichi ippatsu tsumo.
+Most of the better performing players are Popotoes!
+
+So get your Fantasia and join the dark side!
 
 ## “If you're 3rd, and the last dealer is 4th, he will go on a luck streak and blast your ass down to 4th.”
 
@@ -52,12 +46,12 @@ I would try this out, but after opening my drawer, I've only found blue and blac
 You play at an automatic table and have bad luck?
 You can try this at your own risk: try reversing the polarity!
 Unplug the table, turn the plug by 180 degrees and plug it in again.
-Or use a sonic screwdriver.
-Whatever works.
+Oh wait, that not always an option…
 
 ## “Gotta go fast”
 
+
 ## Shuffling Tiles
 
-I heard the noise of shuffling tiles is supposed to bring luck.
-So shuffle like you mean it!
+This has nothing to do with playing mahjong, but I heard the noise of shuffling tiles is supposed to bring luck.
+So shuffle like you mean it, assuming you're playing without an automatic table.
