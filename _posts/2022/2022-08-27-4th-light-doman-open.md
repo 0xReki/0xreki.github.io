@@ -180,7 +180,19 @@ penalty.
 All games are being played in [Final Fantasy XIV Online](https://www.finalfantasyxiv.com/).
 To play, a trial account is sufficient.
 You only need to [unlock the Gold Saucer](https://ffxiv.consolegameswiki.com/wiki/It_Could_Happen_to_You).
-Note, if you're not new to Mahjong, it's recommended to change the display from actual dora to dora indicator.
+Note, if you're not new to Mahjong, it's recommended to change the display from actual dora (setting: doman mahjong) to dora indicator (setting: traditional).
+If your character is not on world Odin on Datacenter Light, you can use the [World Visit System](https://eu.finalfantasyxiv.com/lodestone/playguide/contentsguide/worldvisit/) or [Data Center Travel System](https://eu.finalfantasyxiv.com/lodestone/playguide/contentsguide/datacentertravel/) to be on Odin for the tournament.
+Your homeworld still has to be on an EU server, though.
+
+<picture>
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Settings" title="Doman Mahjong Settings">
+</picture>
 
 ## References
 
