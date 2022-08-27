@@ -107,9 +107,12 @@ There will be second ranking for those, which also include the scores for games 
 I'm giving an extra prize for the top average score: 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 5 EUR.
 {% endcomment %}
 
-A big thanks to the sponsors! If you want to sponsor, feel free to send it to [my PayPal](https://paypal.me/0xReki)
-
 Note: Prizes can't be received on any trial accounts.
+
+## Sponsors
+
+A big thanks to the sponsors! If you want to sponsor, feel free to send it to [my PayPal](https://paypal.me/0xReki).
+
 
 ## General Information
 
