@@ -86,7 +86,7 @@ As always, this is a player event: it is not affiliated with FFXIV, SquareEnix e
 
 ## Schedule
 
-**Deadline for Registration**: {{ page.registration_date }}, other than usual, registration ends two weeks before the games
+**Deadline for Registration**: {{ page.registration_date }}
 
 **Games**: {{ page.start_date }} to {{ page.end_date }}
 
