@@ -120,7 +120,7 @@ A big thanks to the sponsors! If you want to sponsor, feel free to send it to [m
 [Registration Form]({{ page.registration_url }}){:target="_blank" rel="noopener"}{% else %}registration closed{% endif %}
 
 **Registered Players, Seating etc.**: {% if page.sheet_url %} see the
-[Tournament Spreadsheet]({{ page.sheet_url }}){:target="_blank" rel="noopener"}, times are all UTC (a.k.a.Server Time) {% else %}not available{% endif %}
+[Tournament Spreadsheet]({{ page.sheet_url }}){:target="_blank" rel="noopener"}, times are all UTC (a.k.a. Server Time) {% else %}not available{% endif %}
 
 **Where**: Final Fantasy XIV Online, Data Centre Light, preferably at the Mahjong Tables on Server Odin. Feel free to join the [Mahjong of Light Discord](https://discord.gg/nUSfJ2Q){:target="_blank" rel="noopener"}
 
