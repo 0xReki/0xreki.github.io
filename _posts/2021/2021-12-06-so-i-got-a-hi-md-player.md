@@ -84,3 +84,5 @@ As you can see, I soon replaced the Tuner with a more modern TEAC one that suppo
 It also has some unified remote control solution, but I didn't have the time to build some kind of bridge for that.
 But it wouldn't be that hard, would it?
 There's already [docbender/Onkyo-RI](https://github.com/docbender/Onkyo-RI), so I would only need to work on the TEAC side.
+
+I've played with the thought of replacing the CD Player with a CD Changer, but looking at the eBay listings, that seems like a bad idea.
