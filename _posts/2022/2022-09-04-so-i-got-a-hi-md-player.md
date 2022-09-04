@@ -1,5 +1,5 @@
 ---
-title: So I got a Hi-MD Player
+title: "My Hi-Fi System: Hi-MD and All the Rest"
 
 tags:
   - Sony
@@ -57,7 +57,7 @@ Since then, European countries moved to 230V, with the standard made to be withi
 This transformer might actually provide 110V, since it claims to take 230V.
 So I'll just use the small one.
 
-I also got other devices from the same range: Onkyo A-905X Amplifier, Onkyo K-505X Cassette Deck, Onkyo C-705 XCD-Player, and Onkoy T-405R Tuner.
+I also got other devices from the same range: Onkyo A-905X Amplifier, Onkyo K-505X Cassette Deck, Onkyo C-705 XCD-Player, and Onkyo T-405R Tuner.
 From what I could glean, it's not all from the same generation — the letters after the number can denote the generation: none/R, X, AX/TX, FX.
 Luckily, they are all compatible with each other through the generations.
 The only component I didn't get was the Onkyo EQ-205 Equalizer.
@@ -85,4 +85,8 @@ It also has some unified remote control solution, but I didn't have the time to 
 But it wouldn't be that hard, would it?
 There's already [docbender/Onkyo-RI](https://github.com/docbender/Onkyo-RI), so I would only need to work on the TEAC side.
 
-I've played with the thought of replacing the CD Player with a CD Changer, but looking at the eBay listings, that seems like a bad idea.
+I've played with the thought of replacing the CD Player with a CD Changer, but looking at the eBay listings, that seems like a bad idea: they seem to break easily.
+
+Of course, there are speakers connected to the system.
+I got a pair of Teufel Ultima 20.
+Is that brand even known outside Germany?
