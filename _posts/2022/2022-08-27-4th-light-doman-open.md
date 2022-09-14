@@ -114,8 +114,11 @@ Note: Prizes can't be received on any trial accounts.
 
 ## Sponsors
 
-A big thanks to the sponsors! If you want to sponsor, feel free to send it to [my PayPal](https://paypal.me/0xReki).
+- Gemma
+- USPML
 
+A big thanks to the sponsors!
+If you want to sponsor, feel free to send it to [my PayPal](https://paypal.me/0xReki).
 
 ## General Information
 
