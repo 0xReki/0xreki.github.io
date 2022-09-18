@@ -35,18 +35,19 @@ While I didn't find out what happened to other MO-technology, I did find out tha
 Some Hi-MD players can actually store other data than audio and even play MP3s.
 Two things that make the whole MD thing better!!
 
-In 2016, I ordered an MZ-NH600, MZ-NH1 are way overpriced and overrated, and a bunch of MDs only to learn Sony discontinued their software SonicStage.
-Not only that, they even stopped serving the software at all.
-After some digging, I found a [community-pached version of SonicStage](https://forums.sonyinsider.com/files/file/95-sonicstage-43-ultimate-edition/){:ref="nofollow"} that runs with current Windows.
+In 2016, I ordered an MZ-NH600, MZ-NH1 are way overpriced and overrated.
 Why is the MZ-NH600 better than MZ-NH1?
 It uses normal AA batteries!
+I also got a bunch of MDs only to learn Sony discontinued their software SonicStage.
+Not only that, they even stopped serving the software at all.
+After some digging, I found a [community-pached version of SonicStage](https://forums.sonyinsider.com/files/file/95-sonicstage-43-ultimate-edition/){:ref="nofollow"} that runs with current Windows.
 
 So what's new now?
 I finally got around to buying Hi-Fi components: I got an Onkyo MD-105FX from Japan.
 The trouble is, I live in Germany and the device is from Japan.
 Differences in the plugs aside, here in Germany, the electrical system run at 230V at 50 Hz, the device from Japan takes 100V at 50 or 60 Hz.
 It uses the same plug as the US, but the US seems to run at 120V at 60 Hz.
-Given the price of these units, it's rather not use these at the wrong voltage.
+Given the price of these units, I'd rather not use these at the wrong voltage.
 And it's hard to find a transformer that'd get me the 100 Volts I need.
 I'm not getting a 230V to 120V one and then plug in another one for 120V to 100V.
 
