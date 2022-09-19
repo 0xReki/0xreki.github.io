@@ -18,7 +18,7 @@ redirect_from:
 
 start_date: 2022-09-23
 end_date: 2022-09-25
-registration_url: https://docs.google.com/forms/d/e/1FAIpQLScU0qWowtdQhK66iMx39eQVR2xIxk48u7lDY81BRsTt4xOCyg/viewform?usp=sf_link
+#registration_url: https://docs.google.com/forms/d/e/1FAIpQLScU0qWowtdQhK66iMx39eQVR2xIxk48u7lDY81BRsTt4xOCyg/viewform?usp=sf_link
 registration_date: 2022-09-18
 sheet_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vSxtNlGlzXMLAkqgO_Z7OU_j5OXTG4kBwLmiP5VYvnbzTL0h_VaWJaHUe2h8pP0wnpELBDGM_KdrDa2/pubhtml
 
