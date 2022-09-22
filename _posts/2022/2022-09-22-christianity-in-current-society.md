@@ -124,6 +124,7 @@ Why shouldn't it be different for faiths, that are commonly lumped together as C
 Or even faiths in general?
 For science, the core question is *“How much data didn't confirm your thesis?”*.
 For Christianity, the core question is *“How do I act according to the principle of loving one's neighbour?”*.
+If you don't act according to those questions, you're removing yourself from that group.
 
 ## Young People and Faith
 
