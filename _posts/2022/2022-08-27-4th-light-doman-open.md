@@ -95,20 +95,14 @@ As always, this is a player event: it is not affiliated with FFXIV, SquareEnix e
 
 ## Prizes
 
-TBA
+1. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 35 EUR
+2. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 25 EUR
+3. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 15 EUR
 
-{% comment %}
-1. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 20 EUR
-2. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 15 EUR
-3. 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 10 EUR
-{% endcomment %}
-
+Extra prize will be announce on the Discord Server.
 The spreadsheet includes space for private games.
 After the finalization of the timetable, feel free to challenge some players for a game to fill the time.
 There will be second ranking for those, which also include the scores for games someone subbed in.
-{% comment %}
-I'm giving an extra prize for the top average score: 1 Item or Item Set from the [FFXIV Online Store](https://store.finalfantasyxiv.com/ffxivstore){:target="_blank" rel="noopener"} of up to 5 EUR.
-{% endcomment %}
 
 Note: Prizes can't be received on any trial accounts.
 
@@ -116,6 +110,7 @@ Note: Prizes can't be received on any trial accounts.
 
 - Gemma
 - USPML
+- Sirocco
 
 A big thanks to the sponsors!
 If you want to sponsor, feel free to send it to [my PayPal](https://paypal.me/0xReki).
