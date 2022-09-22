@@ -8,6 +8,9 @@ tags:
   - Religion
   - State of the World
 
+redirect_from:
+  - /blog/2021/11-29-christianiry-in-current-society/
+
 checker:
   - lt
   - pwa
@@ -15,20 +18,27 @@ checker:
 image: /blog/images/2021-11-29-christianity.jpg
 image_alt: Cross (Symbolic Picture)
 image_license: CC-0
+image_size: [894, 596]
+image_size_xs: [319, 213]
 
 #seo_title_fix: 3
 ---
+*This post was originally published in 2021 and was refreshed and updated with current information.*
+
 I don't usually speak or write much about my faith.
 This post contains a lot of views people might disagree with, but these views I have are the result of me having actually engaged with my faith.
 When this post gets published, it should be shortly before Christmas.
 Let's take the time and really look at this.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-11-29-christianity.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-11-29-christianity.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-11-29-christianity.png' | prepend: site.static_url | absolute_url }}" alt="Cross (Symbolic Picture)">
+  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="213">
+  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="213">
+  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="213">
+  <source srcset="{{ '/blog/images/2021-11-29-christianity.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="894" height="596">
+  <source srcset="{{ '/blog/images/2021-11-29-christianity.webp' | prepend: site.static_url | absolute_url }}" media="
+  (min-width: 576px)" type="image/webp" width="894" height="596">
+  <source srcset="{{ '/blog/images/2021-11-29-christianity.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg" width="894" height="596">
+  <img loading="lazy" src="{{ '/blog/images/2021-11-29-christianity.webp' | prepend: site.static_url | absolute_url }}" alt="Cross (Symbolic Picture)">
 </picture>
 
 “We are swimming in Christianity” is a statement I've recently heard.
@@ -39,7 +49,7 @@ Are we, the Western society, really swimming in Christianity?
 
 I was born in Germany, baptized and raised a Roman Catholic.
 But if that's all that is needed to count, sure, we are swimming in Christianity, on paper.
-From shortly before and well after my confirmation, my teachers in religious education, religious mentors and priests conveyed the core message in any faith that calls itself a Christian one should be the principle of loving one's neighbour.
+From shortly before and well after my confirmation, my teachers in religious education, religious mentors and priests conveyed the core message in any faith that calls itself a Christian one should be the *principle of loving one's neighbour*.
 What does it mean?
 Let's start with forgiving people seek forgiveness, altruistic action, not excluding people because of their gender, their looks, their race, their religion, or their sexuality and meeting them with respect.
 This also includes not harassing people for being or thinking different.
@@ -49,7 +59,8 @@ Based on that principle, you can derive more… but that's not the core message.
 
 Looking at the Western world, I see rampant cooperate greed, bullying, sexism, transmisia, homomisia, xenomisia, racism, antisemitism, etc.
 Things I don't associate with the principle of loving one's neighbour.
-Economic growth over human rights. Protecting economy over protecting lives.
+Economic growth over human rights.
+Protecting economy over protecting lives.
 Rituals and empty words over actions.
 
 Especially bullying should not exist in any community claiming to Christian, our society should be above that.
@@ -68,6 +79,9 @@ Are we swimming in Christianity?
 I don't think so.
 I would even argue, the Western society has actually never fully embraced Christianity.
 There have been ups and downs, and this another down phase.
+In 2022, it's falling even more: we see a rise of fundamental “Christians” justifying transmisia, homomisia, xenomisia, etc. by claiming people that associate or even protect those are “groomers”.
+While transmisia and homomisia is nothing new with fundamentalists, even xenomisia seems to be uncontested among those gatherings.
+The modern West should be beyond that, no matter what faith you believe in, if any!
 
 ## Science and Faith
 
@@ -98,7 +112,17 @@ Sometimes, he works through the actions of humans.
 You cannot expect God to change the laws of nature.
 If we want to limit the effects of climate change, we need to act.
 We were given the means to detect it before it's too late, we should act on it.
-While I have very controversial views on gene testing and gene manipulation, to me, inaction and expecting God fix climate change for us is complacent and what I call not respecting creation at all.
+While I have very controversial views on gene testing and gene manipulation, to me, inaction and just expecting God fix climate change for us is complacent and what I call not respecting creation at all.
+
+There's people that say religion itself is evil, and as a Christian person, I cannot distance myself from those that I don't see as true Christians.
+Science should replace all religion in the world.
+I disagree.
+In the same way people misinterpreted religious dogmas, science is commonly misinterpreted or even wilfully altered to suit one's perception.
+As scientists, such people shouldn't be trusted, and they are commonly not seen as part of the scientific community.
+Why shouldn't it be different for faiths, that are commonly lumped together as Christianity?
+Or even faiths in general?
+For science, the core question is *“How much data didn't confirm your thesis?”*.
+For Christianity, the core question is *“How do I act according to the principle of loving one's neighbour?”*.
 
 ## Young People and Faith
 
@@ -106,17 +130,20 @@ Over the years, I've moved several times, and have seen multiple priests, that m
 Sadly, they were all removed.
 The priests all claim it's for different reasons, but everyone knows if a priest doesn't stay for his full tenure, it's a transfer for disciplinary reasons.
 How dare I claim those priests lied?!
+Those people are holy people!!
 They lied to protect the peace in the community.
+They acted according to the principle of loving one's neighbour.
 Looking at who actually came to see the priests off, it's evident they were an eyesore to the old folks that value old language and meaningless rituals.
 You know language in the church is old when you have an easier time understanding it in a foreign language you have barely started learning.
 Even though, at least one of them tried to appease the older generation by making dedicated masses for young people at a time when the old people rarely attend, they still get transferred away.
 
 In the end, since speaking your mind to the older generation is considered rude, the younger generation simply turn their back on the church.
 All they see is old people ruining it, clinging to their old, even worldly values and meaningless rituals instead of actions and engaging with the faith in the current world.
+In the end, all that's left are fundamentalists that stopped engaging with their religion.
 
 Some say, I should formally leave the Church to display my dissatisfaction with its current state.
 But I disagree, all it does is making this conflict even worse.
-And here in Germany, part of that Church tax goes into childcare institutions, I don't have children, but taking away from children isn't something I want to do.
+At least here in Germany, part of that Church tax goes into childcare institutions, I don't have children, but taking away from children isn't something I want to do.
 But maybe that's just an excuse for me to not act.
 
 ## Faith and Other People
@@ -145,10 +172,12 @@ Freedom of religion should have its limits.
 If your religion makes you harm, harass or discriminate others, you shouldn't be allowed to practice that religion.
 Or the lack of one.
 It doesn't matter where you think your religion originated from.
+It doesn't matter if you think you're doing God's work.
 Do *not* harm, harass or discriminate other people because of your faith, especially if you claim you're from a Christian religion!
 
 Harming, harassing or discriminating other people?
 Jesus ain't say that!
+*If you still insist on harming, harassing and/or discriminating other people, that is not God's work!*
 
 ## A True Christian Society
 
