@@ -27,7 +27,6 @@ image_size_xs: [319, 213]
 
 I don't usually speak or write much about my faith.
 This post contains a lot of views people might disagree with, but these views I have are the result of me having actually engaged with my faith.
-When this post gets published, it should be shortly before Christmas.
 Let's take the time and really look at this.
 
 <!-- markdownlint-disable MD033 -->
