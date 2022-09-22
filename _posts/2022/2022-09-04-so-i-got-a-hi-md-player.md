@@ -72,12 +72,12 @@ Sure, I can manually switch off the unneeded components, but I can't do that rem
 
 <figure>
 <picture>
-  <source srcset="{{ '/blog/images/xs/2022-09-03-hifi-stack.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2022-09-03-hifi-stack.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2022-09-03-hifi-stack.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2022-09-03-hifi-stack.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2022-09-03-hifi-stack.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2022-09-03-hifi-stack.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/xs/2022-09-03-hifi-stack.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="239">
+  <source srcset="{{ '/blog/images/xs/2022-09-03-hifi-stack.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="239">
+  <source srcset="{{ '/blog/images/xs/2022-09-03-hifi-stack.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="239">
+  <source srcset="{{ '/blog/images/2022-09-03-hifi-stack.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="894" height="671">
+  <source srcset="{{ '/blog/images/2022-09-03-hifi-stack.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp" width="894" height="671">
+  <source srcset="{{ '/blog/images/2022-09-03-hifi-stack.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg" width="894" height="671">
   <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-09-03-hifi-stack.webp' | prepend: site.static_url | absolute_url }}" alt="My 2022 Hi-Fi Stack: TEAC T-H380NT Tuner, Onkyo A-905X Amplifier, Onkyo MD-105FX MiniDisc Recorder, Onkyo K-505X Cassette Deck, Onkyo C-705X CD-Player" title="My 2022 Hi-Fi Stack: TEAC T-H380NT Tuner, Onkyo A-905X Amplifier, Onkyo MD-105FX MiniDisc Recorder, Onkyo K-505X Cassette Deck, Onkyo C-705X CD-Player">
 </picture>
 <figcaption>My 2022 Hi-Fi Stack: TEAC T-H380NT Tuner, Onkyo A-905X Amplifier, Onkyo MD-105FX MiniDisc Recorder, Onkyo K-505X Cassette Deck, Onkyo C-705X CD-Player</figcaption>
