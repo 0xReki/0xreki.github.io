@@ -17,6 +17,8 @@ seo_meta_fix: 1
 
 image: /blog/images/2022-09-03-hifi-stack.jpg
 image_alt: "My 2022 Hi-Fi Stack: TEAC T-H380NT Tuner, Onkyo A-905X Amplifier, Onkyo MD-105FX MiniDisc Recorder, Onkyo K-505X Cassette Deck, Onkyo C-705X CD-Player"
+image_size: [894, 671]
+image_size_xs: [319, 239]
 
 checker:
   - lt
