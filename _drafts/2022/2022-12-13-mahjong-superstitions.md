@@ -55,3 +55,9 @@ Oh wait, that not always an option…
 
 This has nothing to do with playing mahjong, but I heard the noise of shuffling tiles is supposed to bring luck.
 So shuffle like you mean it, assuming you're playing without an automatic table.
+
+##
+
+I shouldn't tell all of you this very legit hot FFXIV mahjong secret before the end of the tournament but if you queue for a game as WAR you can Holmgang to prevent your points from dropping below 1 for the next hand 🤫 (ONLY works in FFXIV!!)
+
+-- Deja Tsumo
