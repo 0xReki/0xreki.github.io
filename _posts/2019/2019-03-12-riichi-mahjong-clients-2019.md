@@ -90,7 +90,7 @@ Good thing you can simply switch the tileset to traditional in the Gold Saucer o
 {:.mt-4}
 All in all, I think Square Enix has done a great job of making Riichi Mahjong accessible to new players.
 
-### SEGA NET Mahjong MJ (セガNET麻雀 MJ)
+### SEGA NET Mahjong MJ (セガNET麻雀 MJ) Desktop
 
 [SEGA NET Mahjong MJ](https://sega-mj.com) is another client I commonly use.
 It is Japanese language only.
@@ -136,7 +136,7 @@ Of course, [Tenhou](https://tenhou.net/) runs on mobile.
 Basically, it's just the HTML5 client packaged into an app.
 Since extensions don't run on mobile you are stuck with a Japanese interface.
 
-### SEGA NET Mahjong MJ (セガNET麻雀 MJ)
+### SEGA NET Mahjong MJ (セガNET麻雀 MJ) Mobile
 
 [SEGA NET Mahjong MJ](https://sega-mj.com) also has apps for mobiles.
 
