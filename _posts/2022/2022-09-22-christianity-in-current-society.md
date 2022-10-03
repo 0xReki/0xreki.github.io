@@ -1,5 +1,5 @@
 ---
-title: Christanity in the Current Western Society
+title: Christianity in the Current Western Society
 long: true
 
 ref: christanity-west
