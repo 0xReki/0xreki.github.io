@@ -41,9 +41,9 @@ I'm writing a Novel, so options for more natural speech and other colloquial sty
 So I get the 7-day free trial of [ProWritingAid](https://prowritingaid.com/?afid=9599){:target="_blank" rel="sponsored" ref="noopener"} and start testing it.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-logo.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-logo.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-10-12-prowritingaid-logo.jpg' | prepend: site.static_url | absolute_url }}" alt="ProWritingAid">
+  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-logo.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-logo.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-10-12-prowritingaid-logo.jpg' | absolute_url }}" alt="ProWritingAid">
 </picture>
 
 {:.mt-4}
@@ -64,9 +64,9 @@ It doesn't have a Linux version, and the Windows version doesn't run in WINE, I 
 Maybe I'll have more luck with the MacOS version and darling, but that'll have to wait for later.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-desktop.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-desktop.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-10-12-prowritingaid-desktop.jpg' | prepend: site.static_url | absolute_url }}" alt="ProWritingAid DesktopApp">
+  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-desktop.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-10-12-prowritingaid-desktop.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-10-12-prowritingaid-desktop.jpg' | absolute_url }}" alt="ProWritingAid DesktopApp">
 </picture>
 
 {:.mt-4}

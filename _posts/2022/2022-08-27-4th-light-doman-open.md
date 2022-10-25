@@ -67,13 +67,13 @@ excerpt: |
 
 <!-- markdownlint-disable MD033 -->
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-09-throne.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="181">
-  <source srcset="{{ '/blog/images/xs/2021-09-throne.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="181">
-  <source srcset="{{ '/blog/images/xs/2021-09-throne.png' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="123">
-  <source srcset="{{ '/blog/images/2021-09-throne.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="922" height="522">
-  <source srcset="{{ '/blog/images/2021-09-throne.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp" width="922" height="522">
-  <source srcset="{{ '/blog/images/2021-09-throne.png' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/png" width="92" height="522">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-09-throne.webp' | prepend: site.static_url | absolute_url }}" alt="The Mahjong Throne" title="The Mahjong Throne">
+  <source srcset="{{ '/blog/images/xs/2021-09-throne.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="181">
+  <source srcset="{{ '/blog/images/xs/2021-09-throne.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="181">
+  <source srcset="{{ '/blog/images/xs/2021-09-throne.png' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="123">
+  <source srcset="{{ '/blog/images/2021-09-throne.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="922" height="522">
+  <source srcset="{{ '/blog/images/2021-09-throne.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp" width="922" height="522">
+  <source srcset="{{ '/blog/images/2021-09-throne.png' | absolute_url }}" media="(min-width: 576px)" type="image/png" width="92" height="522">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-09-throne.webp' | absolute_url }}" alt="The Mahjong Throne" title="The Mahjong Throne">
   <figcaption class="text-center">The Mahjong Throne</figcaption>
 </picture>
 <!-- markdownlint-enable MD033 -->
@@ -185,13 +185,13 @@ If your character is not on world Odin on Datacenter Light, you can use the [Wor
 Your homeworld still has to be on an EU server, though.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="364">
-  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="364">
-  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="364">
-  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="577" height="658">
-  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp" width="577" height="658">
-  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg" width="577" height="658">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Settings" title="Doman Mahjong Settings">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="364">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="364">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="364">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="577" height="658">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp" width="577" height="658">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg" width="577" height="658">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | absolute_url }}" alt="Doman Mahjong Settings" title="Doman Mahjong Settings">
 </picture>
 
 ## References

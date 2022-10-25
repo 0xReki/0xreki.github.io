@@ -24,9 +24,9 @@ Let's talk about “Shanghai: Dynasty”.
 <!--more-->
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-10-09-title-screen.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-10-09-title-screen.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-10-09-title-screen.jpg' | prepend: site.static_url | absolute_url }}" alt="Shanghai: Dynasty Title Screen">
+  <source srcset="{{ '/blog/images/2020-10-09-title-screen.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-10-09-title-screen.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-10-09-title-screen.jpg' | absolute_url }}" alt="Shanghai: Dynasty Title Screen">
 </picture>
 
 {:.mt-4}
@@ -90,16 +90,16 @@ Whenever you get uradora, you can only see them mark gold in the hand.
 You won't see the uradora indicators.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-1.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-1.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-10-09-whats-my-ura-1.jpg' | prepend: site.static_url | absolute_url }}" alt="Winning with 2 Dora">
+  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-1.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-1.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-10-09-whats-my-ura-1.jpg' | absolute_url }}" alt="Winning with 2 Dora">
 </picture>
 
 {:.mt-4}
 <picture>
-  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-2.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-2.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-10-09-whats-my-ura-2.jpg' | prepend: site.static_url | absolute_url }}" alt="You see 1 dora indicator, but no ura indicator">
+  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-2.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-10-09-whats-my-ura-2.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-10-09-whats-my-ura-2.jpg' | absolute_url }}" alt="You see 1 dora indicator, but no ura indicator">
 </picture>
 
 {:.mt-4}
@@ -110,9 +110,9 @@ Like you can kan after you call, you shouldn't be able to do that.
 Just when I was about to finish up my screenshot collection for this post, I stumbled across something else: a wild 4 Winds Abortion appears where it shouldn't.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-10-09-a-wild-suufon-appears.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-10-09-a-wild-suufon-appears.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-10-09-a-wild-suufon-appears.jpg' | prepend: site.static_url | absolute_url }}" alt="A Wild Suufon Appears!">
+  <source srcset="{{ '/blog/images/2020-10-09-a-wild-suufon-appears.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-10-09-a-wild-suufon-appears.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-10-09-a-wild-suufon-appears.jpg' | absolute_url }}" alt="A Wild Suufon Appears!">
 </picture>
 
 {:.mt-4}

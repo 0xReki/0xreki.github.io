@@ -47,13 +47,13 @@ excerpt: |
 </script>
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-05-furiten.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-05-furiten.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2020-05-furiten.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2020-05-furiten.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-05-furiten.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-05-furiten.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2020-05-furiten.webp' | prepend: site.static_url | absolute_url }}" alt="Furiten" title="Furiten">
+  <source srcset="{{ '/blog/images/xs/2020-05-furiten.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-05-furiten.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2020-05-furiten.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2020-05-furiten.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-05-furiten.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-05-furiten.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2020-05-furiten.webp' | absolute_url }}" alt="Furiten" title="Furiten">
   <figcaption class="text-center">Furiten</figcaption>
 </picture>
 

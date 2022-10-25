@@ -30,13 +30,13 @@ Writing on the phone is something I've given up on, so now I mostly write on my 
 <!--more-->
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2021-06-23-gears.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-06-23-gears.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-06-23-gears.webp' | prepend: site.static_url | absolute_url }}" alt="{{ page.image_alt }}" title="{{ page.image_alt }}">
+  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-06-23-gears.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-06-23-gears.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-06-23-gears.webp' | absolute_url }}" alt="{{ page.image_alt }}" title="{{ page.image_alt }}">
 </picture>
 
 ## Visual Studio Code and its Extensions

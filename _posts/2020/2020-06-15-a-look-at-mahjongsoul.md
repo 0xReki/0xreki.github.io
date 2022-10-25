@@ -39,9 +39,9 @@ But I can still try and be give you a neutral breakdown.
 <!--more-->
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-05-03-title-screen.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-05-03-title-screen.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-05-03-title-screen.jpg' | prepend: site.static_url | absolute_url }}" alt="MahjongSoul Title Screen">
+  <source srcset="{{ '/blog/images/2019-05-03-title-screen.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-title-screen.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-title-screen.jpg' | absolute_url }}" alt="MahjongSoul Title Screen">
 </picture>
 
 {:.mt-4}
@@ -54,9 +54,9 @@ The interface should be self-explanatory, so I'm not going to cover that.
 But at the top, we immediately see the 2 types of currency: Coppers and Jade.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-05-03-main-menu.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-05-03-main-menu.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-05-03-main-menu.jpg' | prepend: site.static_url | absolute_url }}" alt="MahjongSoul Main Menu">
+  <source srcset="{{ '/blog/images/2019-05-03-main-menu.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-main-menu.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-main-menu.jpg' | absolute_url }}" alt="MahjongSoul Main Menu">
 </picture>
 
 {:.mt-4}
@@ -103,9 +103,9 @@ As I said, that's just an attempt, there's no guarantee you even get a character
 ## The Visual Experience at the Table
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-05-03-table.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-05-03-table.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-05-03-table.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Soul Table">
+  <source srcset="{{ '/blog/images/2019-05-03-table.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-table.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-table.jpg' | absolute_url }}" alt="Mahjong Soul Table">
 </picture>
 
 {:.mt-4}
@@ -142,9 +142,9 @@ But if I have to do that, it just proves how terrible it is.
 ## Scoring of a Hand
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-05-03-hand.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-05-03-hand.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-05-03-hand.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Soul Scoring">
+  <source srcset="{{ '/blog/images/2019-05-03-hand.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-05-03-hand.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-05-03-hand.jpg' | absolute_url }}" alt="Mahjong Soul Scoring">
 </picture>
 
 {:.mt-4}

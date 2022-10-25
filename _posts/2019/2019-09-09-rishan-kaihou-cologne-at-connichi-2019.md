@@ -19,9 +19,9 @@ Saturday, September 7th, 2019, it's about noon.
 An enthusiastic “Tsumo!” can be heard in the rooms of Games Unplugged at Connichi in Kassel.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-09-09-connichi.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-09-09-connichi.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-09-09-connichi.png' | prepend: site.static_url | absolute_url }}" alt="Logo of Connichi">
+  <source srcset="{{ '/blog/images/2019-09-09-connichi.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-09-09-connichi.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-09-09-connichi.png' | absolute_url }}" alt="Logo of Connichi">
 </picture>
 
 {:.mt-4}
@@ -66,9 +66,9 @@ To the others, we explain what a yakuman is. And what a double yakuman is.
 By the way, congratulations to Nico for his first Yakuman!
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-09-09-suuankou-tanki.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-09-09-suuankou-tanki.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-09-09-suuankou-tanki.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Tiles: 六六六➁➄➄➄西西西北北北➁ 666m2555p333444z2p — suuankou tankimatchi (“double” Yakuman) ">
+  <source srcset="{{ '/blog/images/2019-09-09-suuankou-tanki.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-09-09-suuankou-tanki.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-09-09-suuankou-tanki.jpg' | absolute_url }}" alt="Mahjong Tiles: 六六六➁➄➄➄西西西北北北➁ 666m2555p333444z2p — suuankou tankimatchi (“double” Yakuman) ">
 </picture>
 
 {:.mt-4}
@@ -91,9 +91,9 @@ Of course, I get out to help.
 Huh? A very rare hand awaits me:
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-09-09-ryanpeikou.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-09-09-ryanpeikou.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-09-09-ryanpeikou.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Tiles: 四四五五六七七八八九九８８六 — 44556778899m88s6m — riichi ippatsu tsumo pinfu ryanpeikou (Haneman) ">
+  <source srcset="{{ '/blog/images/2019-09-09-ryanpeikou.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-09-09-ryanpeikou.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-09-09-ryanpeikou.jpg' | absolute_url }}" alt="Mahjong Tiles: 四四五五六七七八八九九８８六 — 44556778899m88s6m — riichi ippatsu tsumo pinfu ryanpeikou (Haneman) ">
 </picture>
 
 {:.mt-4}

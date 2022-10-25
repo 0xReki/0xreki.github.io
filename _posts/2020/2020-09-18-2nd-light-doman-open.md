@@ -61,11 +61,11 @@ excerpt: |
 </script>
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-18-turn-order.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-18-turn-order.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-18-turn-order.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Turn Order">
+  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-18-turn-order.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-18-turn-order.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-18-turn-order.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-18-turn-order.jpg' | absolute_url }}" alt="Mahjong Turn Order">
 </picture>
 
 {:.mt-4}
@@ -79,11 +79,11 @@ I set the bar for big hand to at least baiman.
 In retrospect, I should have asked for rare hands, too.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-18-baiman-dojun-sanshoku.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-18-baiman-dojun-sanshoku.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-18-baiman-dojun-sanshoku.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-18-baiman-dojun-sanshoku.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-18-baiman-dojun-sanshoku.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Dojun Sanshoku - Riichi Ippatsu Dora 6">
+  <source srcset="{{ '/blog/images/xs/2020-09-18-baiman-dojun-sanshoku.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-18-baiman-dojun-sanshoku.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-18-baiman-dojun-sanshoku.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-18-baiman-dojun-sanshoku.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-18-baiman-dojun-sanshoku.jpg' | absolute_url }}" alt="Baiman by Dojun Sanshoku - Riichi Ippatsu Dora 6">
 </picture>
 
 {:.mt-4}
@@ -91,11 +91,11 @@ A Baiman came very quickly, like this dora explosion by Dojun Sanshoku, I wonder
 Riichi Ippatsu Dora 6. Sadly, it stayed the biggest hand for the day.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-ai-hinatsuru.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-ai-hinatsuru.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-ai-hinatsuru.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-ai-hinatsuru.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-ai-hinatsuru.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Ai Hinatsuru — Honitsu Chanta Haku Hatsu Sha Dora Dora">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-ai-hinatsuru.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-ai-hinatsuru.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-ai-hinatsuru.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-ai-hinatsuru.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-ai-hinatsuru.jpg' | absolute_url }}" alt="Baiman by Ai Hinatsuru — Honitsu Chanta Haku Hatsu Sha Dora Dora">
 </picture>
 
 {:.mt-4}
@@ -104,11 +104,11 @@ Ai Hinatsuru hit with an open Honitsu Chanta Haku Hatsu Sha Dora Dora.
 Even so, it wasn't enough to become first at that table.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-aeliott-cadenza.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-aeliott-cadenza.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-aeliott-cadenza.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-aeliott-cadenza.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-aeliott-cadenza.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Aeliott Cadenza - Honitsu Toitoi Chun Hatsu Dora Dora">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-aeliott-cadenza.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-aeliott-cadenza.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-aeliott-cadenza.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-aeliott-cadenza.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-aeliott-cadenza.jpg' | absolute_url }}" alt="Baiman by Aeliott Cadenza - Honitsu Toitoi Chun Hatsu Dora Dora">
 </picture>
 
 {:.mt-4}
@@ -116,11 +116,11 @@ At another table, Aeliott soared to first place with his Honitsu Toitoi Chun Hat
 Apparently they didn't let go of their lead ended that table with 52700 points.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-sakarov-kowarovsky.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-sakarov-kowarovsky.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-sakarov-kowarovsky.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-sakarov-kowarovsky.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-sakarov-kowarovsky.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Sakarow Kowarowsky - Riichi Ippatsu Chitoi Dora 4">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-sakarov-kowarovsky.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-sakarov-kowarovsky.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-sakarov-kowarovsky.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-sakarov-kowarovsky.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-sakarov-kowarovsky.jpg' | absolute_url }}" alt="Baiman by Sakarow Kowarowsky - Riichi Ippatsu Chitoi Dora 4">
 </picture>
 
 {:.mt-4}
@@ -128,11 +128,11 @@ Later, Sakarow Kowarowsky hit a very tasty Riichi Ippatsu Chitoi Dora 4 to steal
 Just another example that suji only means a tile less likely to be a winning tile, not guaranteed not to be.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Chihaya Nakahara - Tsumo Pinfu Tanyao Iipeikou Dora 4">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.jpg' | absolute_url }}" alt="Baiman by Chihaya Nakahara - Tsumo Pinfu Tanyao Iipeikou Dora 4">
 </picture>
 
 {:.mt-4}
@@ -140,11 +140,11 @@ Even though by the end of Saturday people started going missing the Big Hand Col
 Chihaya Nakahara scored Tsumo Pinfu Tanyao Iipeikou Dora 4 on the final game of the day.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Chihaya Nakahara - Tsumo Pinfu Tanyao Iipeikou Dora 4">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-19-baiman-chihaya-nakahara.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-19-baiman-chihaya-nakahara.jpg' | absolute_url }}" alt="Baiman by Chihaya Nakahara - Tsumo Pinfu Tanyao Iipeikou Dora 4">
 </picture>
 
 {:.mt-4}
@@ -152,11 +152,11 @@ Sunday, last day of the tourmanent, Not Sirocco started the Big Hand Colection e
 Riichi Tsumo Sanankou Dora 7 — Sanbaiman.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-sakarov-kowarovsky.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-sakarov-kowarovsky.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-20-baiman-sakarov-kowarovsky.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-20-baiman-sakarov-kowarovsky.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-20-baiman-sakarov-kowarovsky.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Sakarow Kowarowsky - Riichi Pinfu Chinitsu Ippeikou">
+  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-sakarov-kowarovsky.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-sakarov-kowarovsky.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-20-baiman-sakarov-kowarovsky.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-20-baiman-sakarov-kowarovsky.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-20-baiman-sakarov-kowarovsky.jpg' | absolute_url }}" alt="Baiman by Sakarow Kowarowsky - Riichi Pinfu Chinitsu Ippeikou">
 </picture>
 
 {:.mt-4}
@@ -165,11 +165,11 @@ In his words: “Baiman without dora ain't that a thing of beauty?”
 I kinda agree, a Baiman with Dora does seem like a piece of art.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-nonori.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-nonori.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-20-baiman-nonori.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-20-baiman-nonori.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-20-baiman-nonori.jpg' | prepend: site.static_url | absolute_url }}" alt="Baiman by Nonori Rereyl — Riichi Ippatsu Tsumo Honitsu Itsuu Dora Dora">
+  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-nonori.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-20-baiman-nonori.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-20-baiman-nonori.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-20-baiman-nonori.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-20-baiman-nonori.jpg' | absolute_url }}" alt="Baiman by Nonori Rereyl — Riichi Ippatsu Tsumo Honitsu Itsuu Dora Dora">
 </picture>
 
 {:.mt-4}
@@ -180,11 +180,11 @@ But Lemon Bread just had to get a Dealer Yakuman: Daisangen!
 And with that they made it to temporarily first and ended up secound with a final score 160.4.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2020-09-20-yakuman-lemon-bread.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2020-09-20-yakuman-lemon-bread.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2020-09-20-yakuman-lemon-bread.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-09-20-yakuman-lemon-bread.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-09-20-yakuman-lemon-bread.jpg' | prepend: site.static_url | absolute_url }}" alt="Yakuman by Lemon Bread — Daisangen">
+  <source srcset="{{ '/blog/images/xs/2020-09-20-yakuman-lemon-bread.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2020-09-20-yakuman-lemon-bread.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2020-09-20-yakuman-lemon-bread.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-09-20-yakuman-lemon-bread.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-09-20-yakuman-lemon-bread.jpg' | absolute_url }}" alt="Yakuman by Lemon Bread — Daisangen">
 </picture>
 
 {:.mt-4}

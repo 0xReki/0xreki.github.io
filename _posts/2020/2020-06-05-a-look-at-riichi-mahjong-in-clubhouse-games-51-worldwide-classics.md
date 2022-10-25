@@ -31,9 +31,9 @@ This is **not** a full review of Clubhouse Games.
 ## The Visual Experience at the Table
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-06-05-table.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-06-05-table.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-06-05-table.jpg' | prepend: site.static_url | absolute_url }}" alt="Riichi Table in Clubhouse Games">
+  <source srcset="{{ '/blog/images/2020-06-05-table.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-06-05-table.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-06-05-table.jpg' | absolute_url }}" alt="Riichi Table in Clubhouse Games">
 </picture>
 
 {:.mt-4}
@@ -76,9 +76,9 @@ I'd prefer some variety though.
 ## Scoring of a Hand
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-06-05-scoring.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-06-05-scoring.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-06-05-scoring.jpg' | prepend: site.static_url | absolute_url }}" alt="Haneman in Clubhouse Games">
+  <source srcset="{{ '/blog/images/2020-06-05-scoring.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-06-05-scoring.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-06-05-scoring.jpg' | absolute_url }}" alt="Haneman in Clubhouse Games">
 </picture>
 
 {:.mt-4}

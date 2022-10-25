@@ -29,9 +29,9 @@ If you know of other place to reliably find such sets, please get in touch.
 ## Crabs and Gold Fish Set by Ichikawaya
 
 <picture>
-  <source srcset="{{ '/blog/images/2021-01-06-kingyo.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-01-06-kingyo.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-01-06-kingyo.jpg' | prepend: site.static_url | absolute_url }}" alt="Crabs and Gold Fish Set by Ichikawaya">
+  <source srcset="{{ '/blog/images/2021-01-06-kingyo.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-01-06-kingyo.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-01-06-kingyo.jpg' | absolute_url }}" alt="Crabs and Gold Fish Set by Ichikawaya">
 </picture>
 
 {:.mt-4}
@@ -43,9 +43,9 @@ Sure, green souzu isn't green, but everything about this set says it's from a pr
 ## Tengen Set by Ichikawaya
 
 <picture>
-  <source srcset="{{ '/blog/images/2021-01-06-tengen.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-01-06-tengen.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-01-06-tengen.jpg' | prepend: site.static_url | absolute_url }}" alt="Tengen Set by Ichikawaya">
+  <source srcset="{{ '/blog/images/2021-01-06-tengen.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-01-06-tengen.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-01-06-tengen.jpg' | absolute_url }}" alt="Tengen Set by Ichikawaya">
 </picture>
 
 {:.mt-4}
@@ -56,9 +56,9 @@ EDIT: Well now it's sold out. T_T
 ## Galaxy Set by Ichikawaya
 
 <picture>
-  <source srcset="{{ '/blog/images/2021-01-06-galaxy.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-01-06-galaxy.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-01-06-galaxy.jpg' | prepend: site.static_url | absolute_url }}" alt="Galaxy Set by Ichikawaya">
+  <source srcset="{{ '/blog/images/2021-01-06-galaxy.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-01-06-galaxy.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-01-06-galaxy.jpg' | absolute_url }}" alt="Galaxy Set by Ichikawaya">
 </picture>
 
 {:.mt-4}
@@ -74,9 +74,9 @@ It's such different take on tiles, I'd consider it more a collectable than an ac
 ## Doman Mahjong Set from Final Fantasy XIV
 
 <picture>
-  <source srcset="{{ '/blog/images/2021-01-06-doman.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-01-06-doman.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-01-06-doman.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Set from Final Fanatsy XIV">
+  <source srcset="{{ '/blog/images/2021-01-06-doman.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-01-06-doman.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-01-06-doman.jpg' | absolute_url }}" alt="Doman Mahjong Set from Final Fanatsy XIV">
 </picture>
 
 {:.mt-4}
@@ -90,9 +90,9 @@ EDIT 2022-06-02: The set was removed from SquareEnix's US Store, not that it rea
 ## MACHILL Set by THE 90s LAB
 
 <picture>
-  <source srcset="{{ '/blog/images/2021-01-06-machill.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-01-06-machill.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-01-06-machill.jpg' | prepend: site.static_url | absolute_url }}" alt="MACHILL Set by THE 90s LAB">
+  <source srcset="{{ '/blog/images/2021-01-06-machill.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-01-06-machill.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-01-06-machill.jpg' | absolute_url }}" alt="MACHILL Set by THE 90s LAB">
 </picture>
 
 {:.mt-4}
@@ -104,9 +104,9 @@ Anyway, I can't find it anywhere, so even if I would want to buy it, I currently
 ## The Minimal Line by The Mahjong Line
 
 <picture>
-  <source srcset="{{ '/blog/images/2021-01-06-minimal.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-01-06-minimal.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-01-06-minimal.jpg' | prepend: site.static_url | absolute_url }}" alt="The Minimal Line by The Mahjong Line">
+  <source srcset="{{ '/blog/images/2021-01-06-minimal.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-01-06-minimal.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-01-06-minimal.jpg' | absolute_url }}" alt="The Minimal Line by The Mahjong Line">
 </picture>
 
 {:.mt-4}

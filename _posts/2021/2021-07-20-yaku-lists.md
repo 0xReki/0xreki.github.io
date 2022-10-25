@@ -24,13 +24,13 @@ To help with that, here is a list of terms used in EMA [^ema], WRC [^wrc], SEGA 
 
 <!-- markdownlint-disable MD033 -->
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.png' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/png">
-  <source srcset="{{ '/blog/images/2021-07-20-daisharin.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-07-20-daisharin.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-07-20-daisharin.png' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/png">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-20-daisharin.webp' | prepend: site.static_url | absolute_url }}" alt="Not a standard hand, but Big Wheels seems to be quite popular." title="Not a standard hand, but Big Wheels seems to be quite popular.">
+  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-07-20-daisharin.png' | absolute_url }}" media="(max-width: 575.96px)" type="image/png">
+  <source srcset="{{ '/blog/images/2021-07-20-daisharin.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-07-20-daisharin.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-07-20-daisharin.png' | absolute_url }}" media="(min-width: 576px)" type="image/png">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-20-daisharin.webp' | absolute_url }}" alt="Not a standard hand, but Big Wheels seems to be quite popular." title="Not a standard hand, but Big Wheels seems to be quite popular.">
   <figcaption class="text-center">Not a standard hand, but Big Wheels seems to be quite popular.</figcaption>
 </picture>
 

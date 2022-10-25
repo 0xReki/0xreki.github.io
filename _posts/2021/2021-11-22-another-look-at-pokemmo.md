@@ -51,11 +51,11 @@ Luckily I have a friend with better memory.
 But first, the map… looks different.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-11-22-hoenn-fall.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-11-22-hoenn-fall.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-11-22-hoenn-fall.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-11-22-hoenn-fall.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-11-22-hoenn-fall.png' | prepend: site.static_url | absolute_url }}" alt="Littleroot Town with Fall Leaves">
+  <source srcset="{{ '/blog/images/xs/2021-11-22-hoenn-fall.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-11-22-hoenn-fall.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-11-22-hoenn-fall.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-11-22-hoenn-fall.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-11-22-hoenn-fall.png' | absolute_url }}" alt="Littleroot Town with Fall Leaves">
 </picture>
 
 They added seasons and day/night-cycle to all the maps, regardless of region!
@@ -65,11 +65,11 @@ I actually prefer not waiting to wait for nurse Joy to load all six of my PokéB
 Just like in 2015, the battles are shown on an overlay.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-11-22-battle.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-11-22-battle.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-11-22-battle.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-11-22-battle.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-11-22-battle.png' | prepend: site.static_url | absolute_url }}" alt="Battle Screen">
+  <source srcset="{{ '/blog/images/xs/2021-11-22-battle.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-11-22-battle.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-11-22-battle.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-11-22-battle.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-11-22-battle.png' | absolute_url }}" alt="Battle Screen">
 </picture>
 
 So it uses the assets in the ROMs, is the something else it can do?
@@ -78,11 +78,11 @@ I downloaded some mods to replace the low resolution pixel sprites with updated 
 While I was at it, I also got some mods that add the music from the remakes.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-11-22-horde-battle.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-11-22-horde-battle.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-11-22-horde-battle.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-11-22-horde-battle.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2021-11-22-horde-battle.png' | prepend: site.static_url | absolute_url }}" alt="Battle Screen">
+  <source srcset="{{ '/blog/images/xs/2021-11-22-horde-battle.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-11-22-horde-battle.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-11-22-horde-battle.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-11-22-horde-battle.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2021-11-22-horde-battle.png' | absolute_url }}" alt="Battle Screen">
 </picture>
 
 Yes, that is a horde battle.

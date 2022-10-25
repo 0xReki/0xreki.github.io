@@ -52,9 +52,9 @@ Or you can play bot games using the NPC tables in the Gold Saucer.
 ## The Visual Experience at the Table
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong">
+  <source srcset="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2019-07-14-final-fantasy-xiv-doman-mahjong.jpg' | absolute_url }}" alt="Doman Mahjong">
 </picture>
 
 {:.mt-4}
@@ -68,9 +68,9 @@ Personally, I like the look of most tiles of the set, I just don't like stylized
 People that are proficient in Japanese can happen to actually see katakana instead of numbers.
 
 <picture>
-  <source srcset="{{ '/blog/images/2021-01-06-doman.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-01-06-doman.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-01-06-doman.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Set from Final Fantasy XIV">
+  <source srcset="{{ '/blog/images/2021-01-06-doman.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-01-06-doman.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-01-06-doman.jpg' | absolute_url }}" alt="Doman Mahjong Set from Final Fantasy XIV">
 </picture>
 
 {:.mt-4}
@@ -135,9 +135,9 @@ Also, if you're not good a reading the river, you can enable the dangerous tiles
 Which would mark all the dangerous tiles with red and orange marks.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-07-14-dangerous-tiles.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-07-14-dangerous-tiles.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2019-07-14-dangerous-tiles.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Dangerous Tiles Marker">
+  <source srcset="{{ '/blog/images/2019-07-14-dangerous-tiles.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-07-14-dangerous-tiles.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2019-07-14-dangerous-tiles.jpg' | absolute_url }}" alt="Doman Mahjong Dangerous Tiles Marker">
 </picture>
 
 {:.mt-4}

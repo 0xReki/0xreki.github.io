@@ -42,7 +42,7 @@ But the damage is already done.
 Over time, frustrated users have already started to disable updates.
 And they will not re-enable them if they can help it.
 
-![Windows 10 Update]({{ "/blog/images/2019-07-30-windows-10-update.webp" | prepend: site.static_url | absolute_url }}){:loading="lazy"}
+![Windows 10 Update]({{ "/blog/images/2019-07-30-windows-10-update.webp" | absolute_url }}){:loading="lazy"}
 
 Another reason is updates that improve user experience.
 While it might sound like a good idea, after all this time, reading “improve user experience” just means one of two things: on a console that's just another update designed to hinder the execution of homebrew, user-written software for consoles.

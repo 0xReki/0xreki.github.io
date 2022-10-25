@@ -69,13 +69,13 @@ excerpt: |
 
 <figure>
 <picture>
-  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2022-02-blue-tiger.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2022-02-blue-tiger.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-blue-tiger.webp' | prepend: site.static_url | absolute_url }}" alt="Blue Tiger" title="Blue Tiger">
+  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2022-02-blue-tiger.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2022-02-blue-tiger.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2022-02-blue-tiger.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2022-02-blue-tiger.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-blue-tiger.webp' | absolute_url }}" alt="Blue Tiger" title="Blue Tiger">
 </picture>
 <figcaption>Blue Tiger<br> <a href="https://commons.wikimedia.org/wiki/File:Blue_tiger.jpg" target="_blank" rel="noopener nofollow"> CC-BY-SA 3.0 Stewiemgr </a></figcaption>
 </figure>
@@ -196,13 +196,13 @@ Note, if you're not new to Mahjong, it's recommended to change the display from 
 If your character is not on Odin, you can use the [World Visit System](https://eu.finalfantasyxiv.com/lodestone/playguide/contentsguide/worldvisit/) to visit Odin.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Settings" title="Doman Mahjong Settings">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2022-02-doman-mahjong-settings.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2022-02-doman-mahjong-settings.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2022-02-doman-mahjong-settings.webp' | absolute_url }}" alt="Doman Mahjong Settings" title="Doman Mahjong Settings">
 </picture>
 
 ## References

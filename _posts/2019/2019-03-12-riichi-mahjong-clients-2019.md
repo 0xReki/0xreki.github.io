@@ -30,9 +30,9 @@ Although it is only available in Japanese there is an [extension for Firefox and
 Tenhou is very playable even without a premium subscription.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-03-12-tenhou.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-03-12-tenhou.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-03-12-tenhou.jpg' | prepend: site.static_url | absolute_url }}" alt="Tenhou">
+  <source srcset="{{ '/blog/images/2019-03-12-tenhou.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-03-12-tenhou.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-03-12-tenhou.jpg' | absolute_url }}" alt="Tenhou">
 </picture>
 
 {:.mt-4}
@@ -49,9 +49,9 @@ Since Final Fantasy XIV Online is a multilingual MMO even the Mahjong game is tr
 And I think it's the most beginner friendly client.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Guides">
+  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-guides.jpg' | absolute_url }}" alt="Doman Mahjong Guides">
 </picture>
 
 {:.mt-4}
@@ -65,9 +65,9 @@ Then, near the end of a deal or after somebody calls Riichi there are the Danger
 Safe tiles are not marked.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong">
+  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong.jpg' | absolute_url }}" alt="Doman Mahjong">
 </picture>
 
 {:.mt-4}
@@ -82,9 +82,9 @@ OK, it is obvious when you see them in the sorted with other manzu, but when you
 Good thing you can simply switch the tileset to traditional in the Gold Saucer options.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.jpg' | prepend: site.static_url | absolute_url }}" alt="Doman Mahjong Set">
+  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-03-12-final-fantasy-doman-mahjong-set.jpg' | absolute_url }}" alt="Doman Mahjong Set">
 </picture>
 
 {:.mt-4}
@@ -96,9 +96,9 @@ All in all, I think Square Enix has done a great job of making Riichi Mahjong ac
 It is Japanese language only.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-03-12-sega-net-mj.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-03-12-sega-net-mj.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-03-12-sega-net-mj.jpg' | prepend: site.static_url | absolute_url }}" alt="SEGA NET Mahjong MJ">
+  <source srcset="{{ '/blog/images/2019-03-12-sega-net-mj.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-03-12-sega-net-mj.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-03-12-sega-net-mj.jpg' | absolute_url }}" alt="SEGA NET Mahjong MJ">
 </picture>
 
 {:.mt-4}
@@ -117,9 +117,9 @@ I do quite like how it looks.
 But looking at it more you can see it has very major flaws.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-03-12-openriichi.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-03-12-openriichi.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-03-12-openriichi.jpg' | prepend: site.static_url | absolute_url }}" alt="OpenRiichi">
+  <source srcset="{{ '/blog/images/2019-03-12-openriichi.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-03-12-openriichi.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-03-12-openriichi.jpg' | absolute_url }}" alt="OpenRiichi">
 </picture>
 
 {:.mt-4}
@@ -145,9 +145,9 @@ Since extensions don't run on mobile you are stuck with a Japanese interface.
 [Minna no Mahjong](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.mjminna) used to be good single player client.
 
 <picture>
-  <source srcset="{{ '/blog/images/2019-03-12-minna-no-mahjong.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-03-12-minna-no-mahjong.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-03-12-minna-no-mahjong.jpg' | prepend: site.static_url | absolute_url }}" alt="Minna no Mahjong">
+  <source srcset="{{ '/blog/images/2019-03-12-minna-no-mahjong.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2019-03-12-minna-no-mahjong.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2019-03-12-minna-no-mahjong.jpg' | absolute_url }}" alt="Minna no Mahjong">
 </picture>
 
 {:.mt-4}

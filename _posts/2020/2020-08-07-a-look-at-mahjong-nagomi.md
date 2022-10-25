@@ -19,9 +19,9 @@ On the first glance, it looks decent. So let's dive right in!
 <!--more-->
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-08-07-title-screen.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-08-07-title-screen.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-08-07-title-screen.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Nagomi Title Screen">
+  <source srcset="{{ '/blog/images/2020-08-07-title-screen.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-08-07-title-screen.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-08-07-title-screen.jpg' | absolute_url }}" alt="Mahjong Nagomi Title Screen">
 </picture>
 
 {:.mt-4}
@@ -61,9 +61,9 @@ If you find any mistake or have more information, please get in touch.
 ## The Visual Experience at the Table
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-08-07-table.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-08-07-table.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-08-07-table.jpg' | prepend: site.static_url | absolute_url }}" alt="Mahjong Nagomi Table">
+  <source srcset="{{ '/blog/images/2020-08-07-table.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-08-07-table.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-08-07-table.jpg' | absolute_url }}" alt="Mahjong Nagomi Table">
 </picture>
 
 {:.mt-4}

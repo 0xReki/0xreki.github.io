@@ -48,9 +48,9 @@ For most languages, it just makes the text look prettier.
 For other languages, it's a central feature that makes having the language on computers even possible.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-11-12-libertine.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-11-12-libertine.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-libertine.png' | prepend: site.static_url | absolute_url }}" alt="Font ligatures in Linux Libertine">
+  <source srcset="{{ '/blog/images/2020-11-12-libertine.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-11-12-libertine.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-libertine.png' | absolute_url }}" alt="Font ligatures in Linux Libertine">
 </picture>
 
 {:.mt-4}
@@ -67,9 +67,9 @@ If you see an isolated l, you know it's a lowercase letter l without seeing a ca
 Capital letter O and number 0 look very distinct as well.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-11-12-fira.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-11-12-fira.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-fira.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Fira Code">
+  <source srcset="{{ '/blog/images/2020-11-12-fira.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-11-12-fira.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-fira.png' | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Fira Code">
 </picture>
 
 {:.mt-4}
@@ -85,9 +85,9 @@ Like with Fira Code, similar looking characters are distinct, and you can easily
 Capital letter O and number 0 look very distinct as well.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-11-12-hasklig.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-11-12-hasklig.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-hasklig.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Hasklig">
+  <source srcset="{{ '/blog/images/2020-11-12-hasklig.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-11-12-hasklig.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-hasklig.png' | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Hasklig">
 </picture>
 
 {:.mt-4}
@@ -102,9 +102,9 @@ It's more condensed, so you can fit more text into one line.
 But that makes it slightly harder to read.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-11-12-iosevka.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-11-12-iosevka.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-iosevka.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Iosevka">
+  <source srcset="{{ '/blog/images/2020-11-12-iosevka.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-11-12-iosevka.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-iosevka.png' | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font Iosevka">
 </picture>
 
 {:.mt-4}
@@ -123,9 +123,9 @@ Capital letter O and number 0 don't look very distinct.
 Making them more distinct doesn't fit into the look of the boxy aesthetic of the font.
 
 <picture>
-  <source srcset="{{ '/blog/images/2020-11-12-jetbrains.avif' | prepend: site.static_url | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2020-11-12-jetbrains.webp' | prepend: site.static_url | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2020-11-12-jetbrains.png' | prepend: site.static_url | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font JetBrains Mono">
+  <source srcset="{{ '/blog/images/2020-11-12-jetbrains.avif' | absolute_url }}" type="image/avif">
+  <source srcset="{{ '/blog/images/2020-11-12-jetbrains.webp' | absolute_url }}" type="image/webp">
+  <img loading="lazy" src="{{ '/blog/images/2020-11-12-jetbrains.png' | absolute_url }}" alt="coding ligatures and capital i lower l number 1 number 0 capital o in font JetBrains Mono">
 </picture>
 
 {:.mt-4}

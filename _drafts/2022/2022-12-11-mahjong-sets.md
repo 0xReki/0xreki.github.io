@@ -36,13 +36,13 @@ The trays are too big, which might be better for getting the tiles out, but not 
 But it's the tiles we're most interested in, so how are they?
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2021-07-08-jaques.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-07-08-jaques.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-07-08-jaques.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-jaques.webp' | prepend: site.static_url | absolute_url }}" alt="Jaques Set" title="Jaques Set">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-jaques.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-07-08-jaques.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-07-08-jaques.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-07-08-jaques.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-jaques.webp' | absolute_url }}" alt="Jaques Set" title="Jaques Set">
 </picture>
 
 They are white tiles from resin with white back.
@@ -102,13 +102,13 @@ There's no chips or tenbo, it's just the tiles and dice.
 So in the end, this is effectively slightly more costly.
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-07-08-philos-3166.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-07-08-philos-3166.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-07-08-philos-3166.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2021-07-08-philos-3166.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-07-08-philos-3166.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-07-08-philos-3166.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-philos-3166.webp' | prepend: site.static_url | absolute_url }}" alt="{{ page.image_alt }}" title="{{ page.image_alt }}">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-philos-3166.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-philos-3166.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-philos-3166.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-07-08-philos-3166.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-07-08-philos-3166.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-07-08-philos-3166.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-philos-3166.webp' | absolute_url }}" alt="{{ page.image_alt }}" title="{{ page.image_alt }}">
 </picture>
 
 The tiles are white with green back.
@@ -153,13 +153,13 @@ And its colours are, like most Japanese sets, quite dark.
 I'm putting the successor the AMOS Max, the AMOS Complete Gear, since it's the same set in better package, both in the sense of the case and the extras you get. 
 
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2021-07-08-amos-max.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-07-08-amos-max.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-07-08-amos-max.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-amos-max.webp' | prepend: site.static_url | absolute_url }}" alt="AMOS Max Set" title="AMOS Max Set">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-07-08-amos-max.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-07-08-amos-max.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-07-08-amos-max.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-07-08-amos-max.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-07-08-amos-max.webp' | absolute_url }}" alt="AMOS Max Set" title="AMOS Max Set">
 </picture>
 
 Even though you have to import this set from Japan, at the time of writing, it ends up about the same price as the previous two sets.

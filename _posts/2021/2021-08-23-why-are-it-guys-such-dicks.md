@@ -55,13 +55,13 @@ Only *then* will they convert to believe in free software!!
 
 <!-- markdownlint-disable MD033 -->
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-08-23-war.avif' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
-  <source srcset="{{ '/blog/images/xs/2021-08-23-war.webp' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
-  <source srcset="{{ '/blog/images/xs/2021-08-23-war.jpg' | prepend: site.static_url | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
-  <source srcset="{{ '/blog/images/2021-08-23-war.avif' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/avif">
-  <source srcset="{{ '/blog/images/2021-08-23-war.webp' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/webp">
-  <source srcset="{{ '/blog/images/2021-08-23-war.jpg' | prepend: site.static_url | absolute_url }}" media="(min-width: 576px)" type="image/png">
-  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-08-23-war.webp' | prepend: site.static_url | absolute_url }}" alt="{{ page.image_alt }}" title="{{ page.image_license }}">
+  <source srcset="{{ '/blog/images/xs/2021-08-23-war.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif">
+  <source srcset="{{ '/blog/images/xs/2021-08-23-war.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp">
+  <source srcset="{{ '/blog/images/xs/2021-08-23-war.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg">
+  <source srcset="{{ '/blog/images/2021-08-23-war.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif">
+  <source srcset="{{ '/blog/images/2021-08-23-war.webp' | absolute_url }}" media="(min-width: 576px)" type="image/webp">
+  <source srcset="{{ '/blog/images/2021-08-23-war.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/png">
+  <img loading="lazy" class="my-2" src="{{ '/blog/images/2021-08-23-war.webp' | absolute_url }}" alt="{{ page.image_alt }}" title="{{ page.image_license }}">
   <figcaption class="text-center">{{ page.image_alt }}</figcaption>
 </picture>
 <!-- markdownlint-enable MD033 -->
