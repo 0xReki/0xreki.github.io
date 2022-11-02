@@ -15,7 +15,7 @@ checker:
   - lt
   - pwa
 
-image: /blog/images/2021-11-29-christianity.jpg
+image: /blog/images/cross.jpg
 image_alt: Cross (Symbolic Picture)
 image_license: CC-0
 image_size: [894, 596]
