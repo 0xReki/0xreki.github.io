@@ -15,7 +15,7 @@ image_license: Image by Elchinator from Pixabay
 image_size: [894, 532]
 image_size_xs: [319, 190]
 
-#seo_title_fix: 3
+seo_meta_fix: 3
 ---
 *TLDR: No, we didn't. Someone just tried to scam us.*
 
@@ -115,8 +115,9 @@ Or maybe write a blog post to make fun of it.
 >
 > Please note that Bitcoin is anonymous and no one will find out that y0u have c0mplied.
 
-As much as I hate crypto, I have to correct: crypto is at most pseudonymous.
-And you *can* connect crypto addresses to people if put in enough effort.
+As much as I hate cryptocurrencies, I have to correct: it's at most pseudonymous.
+And you *can* connect cryptocurrency addresses to people if put in enough effort.
+It's even easier if they use the same address over and over again.
 
 {:class="ml-1 pl-4" style="border-left: 1px solid"}
 > Finally d0n't reply as this email is unmonit0red.
