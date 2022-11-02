@@ -1,5 +1,5 @@
 ---
-title: OMG! We got hacked!!!!
+title: OMG!! We got hacked!!!!
 long: true
 
 tags:
