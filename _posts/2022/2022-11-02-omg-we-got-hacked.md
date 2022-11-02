@@ -40,6 +40,7 @@ Punctuation would be nice.
 Company? What company?!
 And what's with that budget leetspeak in the mail?
 Was this mail written by some script kiddy that thinks that makes it cool or something?
+This looks more like crytyping than a serious threat.
 
 {:class="ml-1 pl-4" style="border-left: 1px solid"}
 > We have hacked your website <https://riichi.cologne> and extracted y0ur databases.
