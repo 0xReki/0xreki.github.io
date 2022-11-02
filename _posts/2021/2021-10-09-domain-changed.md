@@ -67,12 +67,12 @@ I might write about what can go and went wrong some time in the future.
 
 In short:
 
-- reki.wtf will be the main domain for this page.
+- <reki.wtf> will be the main domain for this page.
 
-- 0xreki.de will contain all static resources for this page.
+- ~~<0xreki.de> will contain all static resources for this page.~~
 
-- amau.ga are short URLs for [Amauga](/amauga/).
+- <amau.ga> are short URLs for [Amauga](/amauga/).
 
-- cd-ht.ml are short URLs for [Crystal Down](/crystaldown/) and [Crystal Down: Scions](/scions/).
+- <cd-ht.ml> are short URLs for [Crystal Down](/crystaldown/) and [Crystal Down: Scions](/scions/).
 
 All old URLs should be redirected to the new domain, if you find some that don't work, please [send me a message](/contact/).
