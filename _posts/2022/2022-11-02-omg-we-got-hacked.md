@@ -72,7 +72,7 @@ Oh, please do leak those databases, I want to know what you actually found!
 {:class="ml-1 pl-4" style="border-left: 1px solid"}
 > Lastly any links that you have indexed in the search engines will be de-indexed based off 0f blackhat techniques that we used in the past to de-index 0ur targets.
 
-OK, this is actually believable, but there are also means to combat this.
+OK, this is actually believable, it's rather expensive to do, but there are also means to combat this, so not a real threat.
 
 {:class="ml-1 pl-4" style="border-left: 1px solid"}
 > H0w do i stop this?
@@ -103,7 +103,7 @@ What on earth is a Bitcoin-ATM?!
 >
 > if y0u decide not to pay, we will start the attack at the indicated date and uph0ld it until you do, there’s n0 c0unter measure t0 this, you will 0nly end up wasting m0re m0ney trying to find a s0lution.
 
-Yes, they are right, there's no countermeasure to this because the other clain are complete bollocks.
+Yes, they are right, there's no countermeasure to this, because all threat claims in mail are complete bollocks.
 I don't need to spend money to find a solution, I just need to ignore the mail.
 Or maybe write a blog post to make fun of it.
 
