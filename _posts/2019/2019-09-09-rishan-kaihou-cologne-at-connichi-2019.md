@@ -30,13 +30,13 @@ If you have been at Connichi last weekend probably knows about it: we have been 
 Not all of us could get a day off.
 So Manuel and I left Cologne for Kassel at 15:00.
 We have 5 Sets and 4 Junkmats with us.
-We planned for a maximum of 2 to 3 tables but it never hurts to have some extra.
+We planned for a maximum of 2 to 3 tables, but it never hurts to have some extra.
 
 A few hours later we check into the hostel, we quickly refresh ourselves and hurry to the convention with enough materials for 3 tables.
 We finally arrive by 19:00.
 We're welcomed by a surprise: people have been asking for us in the first few hours of the convention quite a lot.
 The section Games Unplugged is relieved to see us.
-Kai and Nico have been there quite early but Manuel and I have had all the materials.
+Kai and Nico have been there quite early, but Manuel and I have had all the materials.
 We can finally fulfill the demand of Mahjong!
 
 We set up a table and start teaching the game to interested people.
@@ -48,10 +48,10 @@ I speak my mind: “If this continues, we might need to get another set from the
 
 On Saturday, we get visitors that already knew how to play and just want to play with us.
 Some even want to learn beatori.
-I'm still busy with teaching but table 1 as finishing up their beginner lesson.
+I'm still busy with teaching, but table 1 as finishing up their beginner lesson.
 So they play at table 1.
 
-But as if the weekend hasn't already been eventful enough some Japanese people turn up and want to play with us.
+But as if the weekend hasn't already been eventful enough, some Japanese people turn up and want to play with us.
 I learn they have been looking for us on Friday.
 Sadly, I didn't get to play them.
 So if you want to hear more, you'll have to ask Nico or Manuel.
@@ -61,7 +61,8 @@ An enthusiastic “Tsumo!” can be heard in the rooms of Games Unplugged at Con
 I turn my head towards table 1.
 Nico announces his hand: “Suuankou tanki matchi!”
 Those who know what it means are in awe.
-To the others, we explain what a yakuman is. And what a double yakuman is.
+To the others, we explain what a yakuman is.
+And what a double yakuman is.
 
 By the way, congratulations to Nico for his first Yakuman!
 
