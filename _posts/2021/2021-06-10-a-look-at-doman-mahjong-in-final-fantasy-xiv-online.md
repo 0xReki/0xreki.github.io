@@ -3,6 +3,7 @@ title: "A Look At Doman Mahjong in Final Fantasy XIV: Online"
 
 tags:
   - Games
+  - 立直
   - Riichi Mahjong  
   - Doman Mahjong
   - Final Fantasy XIV

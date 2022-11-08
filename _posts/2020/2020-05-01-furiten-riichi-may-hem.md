@@ -4,6 +4,7 @@ long: true
 permalink: /doman/2020-05-furiten-riichi-may-hem/
 
 tags:
+  - 立直
   - Riichi Mahjong
   - Doman Mahjong Tournament
 

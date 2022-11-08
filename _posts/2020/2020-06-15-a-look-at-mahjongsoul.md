@@ -3,6 +3,7 @@ title: A Look at MahjongSoul
 
 tags:
   - Games
+  - 立直
   - Riichi Mahjong
   - Review
 

@@ -3,6 +3,7 @@ title: A Look At Mahjong Nagomi
 
 tags:
   - Games
+  - 立直
   - Riichi Mahjong
   - Review
 

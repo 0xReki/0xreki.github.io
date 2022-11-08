@@ -4,6 +4,7 @@ long: true
 permalink: /doman/2020-09-2nd-light-doman-open/
 
 tags:
+  - 立直
   - Riichi Mahjong
   - Doman Mahjong Tournament
 

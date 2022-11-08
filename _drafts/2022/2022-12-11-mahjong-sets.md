@@ -3,6 +3,7 @@ title: Comparison of Mahjong Sets
 
 tags:
   - Games
+  - 立直
   - Riichi Mahjong
 
 image: /blog/images/2021-07-08-philos-3166.jpg

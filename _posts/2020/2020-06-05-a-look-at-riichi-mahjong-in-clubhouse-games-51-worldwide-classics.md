@@ -4,6 +4,7 @@ title: "A Look At Riichi Mahjong in Clubhouse Games: 51 Worldwide Classics"
 tags:
   - Games
   - Hobbies
+  - 立直
   - Riichi Mahjong
   - Review
   - Nintendo

@@ -11,7 +11,8 @@ checker:
 
 image: /blog/images/security.jpg
 image_alt: Security Alarm Monitor Cyber (Symbolic Picture)
-image_license: Image by Elchinator from Pixabay 
+image_license: Image by Elchinator from Pixabay
+image_license_url: https://pixabay.com/photos/security-alarm-monitor-cyber-5043368/
 image_size: [894, 532]
 image_size_xs: [319, 190]
 

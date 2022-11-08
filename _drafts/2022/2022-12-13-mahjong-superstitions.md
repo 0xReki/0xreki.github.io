@@ -3,6 +3,7 @@ title: Mahjong Superstitions
 long: true
 
 tags:
+  - 立直
   - Riichi Mahjong
 
 #image: /blog/images/2022-02-ox.jpg
