@@ -9,9 +9,7 @@ tags:
 
 redirect_from: 
   - /wordpress/2014-07-26/games/game-reviews/golden-sun-dark-dawn
-  - https://www.0xreki.de/wordpress/2014-07-26/games/game-reviews/golden-sun-dark-dawn
   - /blog/2014/07-26-a-look-at-golden-sun-dark-dawn
-  - https://www.0xreki.de/blog/2014/07-26-a-look-at-golden-sun-dark-dawn
 
 checker:
   - lt
