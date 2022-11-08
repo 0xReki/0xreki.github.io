@@ -3,9 +3,12 @@ title: "来冬 の 麻雀 (Mahjong of Light) — 3rd Light Doman Open"
 long: true
 
 tags:
-  - 立直麻雀
   - Riichi Mahjong
+  - Doman Mahjong
   - Doman Mahjong Tournament
+  - 立直麻雀
+  - ドマ式麻雀
+  - ドマ式麻雀大会
 
 permalink: /doman/2021-09-3rd-light-doman-open/
 

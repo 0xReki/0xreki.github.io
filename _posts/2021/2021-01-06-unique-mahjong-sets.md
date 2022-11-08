@@ -3,10 +3,10 @@ title: "Unique Mahjong Sets: Art or Gentrification?"
 
 tags:
   - Games
-  - 立直麻雀麻将
   - Riichi Mahjong
-  - 麻将
   - General Mahjong
+  - 立直麻雀
+  - 麻雀
   
 
 image: /blog/images/2021-01-06-galaxy.jpg

@@ -4,9 +4,9 @@ title: Riichi Mahjong Clients 2019
 tags:
   - Games
   - Hobbies
-  - 立直麻雀
   - Riichi Mahjong
   - Review
+  - 立直麻雀
 
 image: /blog/images/2019-03-12-final-fantasy-doman-mahjong.jpg
 

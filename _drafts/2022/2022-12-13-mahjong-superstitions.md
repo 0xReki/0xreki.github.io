@@ -3,8 +3,8 @@ title: Mahjong Superstitions
 long: true
 
 tags:
-  - 立直麻雀
   - Riichi Mahjong
+  - 立直麻雀
 
 #image: /blog/images/2022-02-ox.jpg
 #image_alt: FFXIV Heavensturn Ox Event

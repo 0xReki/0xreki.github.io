@@ -3,12 +3,14 @@ title: "Good Game: “Shanghai: Dynasty”"
 
 tags:
   - Games
-  - 立直麻雀
   - Riichi Mahjong
   - Chinese Mahjong
   - American Mahjong
+  - General Mahjong
   - WINE Is Not an Emulator
   - Good Game
+  - 立直麻雀
+  - 麻雀
 
 image: /blog/images/2020-10-09-title-screen.jpg
 

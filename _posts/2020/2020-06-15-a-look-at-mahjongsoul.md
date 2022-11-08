@@ -3,9 +3,9 @@ title: A Look at MahjongSoul
 
 tags:
   - Games
-  - 立直麻雀
   - Riichi Mahjong
   - Review
+  - 立直麻雀
 
 image: /blog/images/2019-05-03-title-screen.jpg
 

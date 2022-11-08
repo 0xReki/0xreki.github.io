@@ -3,9 +3,12 @@ title: Water Tiger Doman Mahjong Tournament on Light — 2022 New Year's Tournam
 long: true
 
 tags:
-  - 立直麻雀
   - Riichi Mahjong
+  - Doman Mahjong
   - Doman Mahjong Tournament
+  - 立直麻雀
+  - ドマ式麻雀
+  - ドマ式麻雀大会
 
 seo_title_fix: 4
 seo_meta_fix: 2

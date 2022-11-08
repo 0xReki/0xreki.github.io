@@ -4,9 +4,12 @@ long: true
 permalink: /doman/2020-09-2nd-light-doman-open/
 
 tags:
-  - 立直麻雀
   - Riichi Mahjong
+  - Doman Mahjong
   - Doman Mahjong Tournament
+  - 立直麻雀
+  - ドマ式麻雀
+  - ドマ式麻雀大会
 
 image: /blog/images/2020-09-18-turn-order.jpg
 image_alt: Mahjong Turn Order

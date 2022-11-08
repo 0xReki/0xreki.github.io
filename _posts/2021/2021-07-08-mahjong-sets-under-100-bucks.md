@@ -3,8 +3,8 @@ title: Mahjong Sets for Under 100 Bucks
 
 tags:
   - Games
-  - 立直麻雀
   - Riichi Mahjong
+  - 立直麻雀
 
 image: /blog/images/2021-07-08-philos-3166.jpg
 image_alt: Philos 3166 Mahjong Set

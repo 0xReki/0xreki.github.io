@@ -3,9 +3,9 @@ title: A Look At Mahjong Nagomi
 
 tags:
   - Games
-  - 立直麻雀
   - Riichi Mahjong
   - Review
+  - 立直麻雀
 
 checker:
   - pwa

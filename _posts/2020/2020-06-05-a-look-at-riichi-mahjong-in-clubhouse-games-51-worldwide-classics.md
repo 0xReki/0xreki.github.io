@@ -4,11 +4,11 @@ title: "A Look At Riichi Mahjong in Clubhouse Games: 51 Worldwide Classics"
 tags:
   - Games
   - Hobbies
-  - 立直麻雀
   - Riichi Mahjong
   - Review
   - Nintendo
   - Nintendo Switch
+  - 立直麻雀
 
 image: /blog/images/2020-06-05-table.jpg
 image_alt: Riichi Table in Clubhouse Games

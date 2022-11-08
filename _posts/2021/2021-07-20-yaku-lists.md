@@ -6,8 +6,8 @@ lang: en-US
 long: true
 
 tags:
-  - 立直麻雀
   - Riichi Mahjong
+  - 立直麻雀
 
 image: /blog/images/2021-07-20-daisharin.png
 image_alt: Not a standard hand, but Big Wheels seems to be quite popular.
