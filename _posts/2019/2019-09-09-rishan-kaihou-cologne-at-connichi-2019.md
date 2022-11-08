@@ -4,7 +4,7 @@ title: Rinshan Kaihou at Connichi 2019
 tags:
   - Games
   - Hobbies
-  - 立直
+  - 立直麻雀
   - Riichi Mahjong
   - Conventions
 

@@ -3,7 +3,7 @@ title: "Good Game: “Shanghai: Dynasty”"
 
 tags:
   - Games
-  - 立直
+  - 立直麻雀
   - Riichi Mahjong
   - Chinese Mahjong
   - American Mahjong

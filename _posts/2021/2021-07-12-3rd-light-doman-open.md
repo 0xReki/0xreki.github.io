@@ -3,7 +3,7 @@ title: "来冬 の 麻雀 (Mahjong of Light) — 3rd Light Doman Open"
 long: true
 
 tags:
-  - 立直
+  - 立直麻雀
   - Riichi Mahjong
   - Doman Mahjong Tournament
 
