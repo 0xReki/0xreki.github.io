@@ -9,7 +9,6 @@ tags:
   
 redirect_from:
   - /blog/2019/08-14-my-thoughts-about-vegetarian-and-vegan-stuff/
-  - https://0xreki.de/blog/2019/08-14-my-thoughts-about-vegetarian-and-vegan-stuff/
 
 checker:
   - lt
