@@ -5,6 +5,9 @@ tags:
   - Games
   - 立直
   - Riichi Mahjong
+  - 麻将
+  - Mahjong
+  
 
 image: /blog/images/2021-01-06-galaxy.jpg
 
