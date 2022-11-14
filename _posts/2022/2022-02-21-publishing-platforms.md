@@ -60,6 +60,9 @@ Text-production tools exist, and for some reason, it replaces all typographical 
 I personally hate that, but it only happens to those two characters, even if you change the language.
 If you write in German and use typographical quotation marks („“) you end up with typographical ones for opening („) and ambidextrous ones for closing ("), and it looks… shite.
 
+Text-alignment never works correctly.
+It just keeps aligning everything to the right if I choose to align the last paragraph to the right.
+
 I publish my work with a Creative Commons license.
 Many platforms don't give you the choice what Creative Commons license it actually is, but in Wattpad you can actually choose what Creative Commons license you want.
 Although they don't say which version is meant.
