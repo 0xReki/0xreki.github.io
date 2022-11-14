@@ -31,14 +31,14 @@ Let's take the time and really look at this.
 
 <!-- markdownlint-disable MD033 -->
 <picture>
-  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="213">
-  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="213">
-  <source srcset="{{ '/blog/images/xs/2021-11-29-christianity.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="213">
-  <source srcset="{{ '/blog/images/2021-11-29-christianity.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="894" height="596">
-  <source srcset="{{ '/blog/images/2021-11-29-christianity.webp' | absolute_url }}" media="
+  <source srcset="{{ '/blog/images/xs/cross.avif' | absolute_url }}" media="(max-width: 575.96px)" type="image/avif" width="319" height="213">
+  <source srcset="{{ '/blog/images/xs/cross.webp' | absolute_url }}" media="(max-width: 575.96px)" type="image/webp" width="319" height="213">
+  <source srcset="{{ '/blog/images/xs/cross.jpg' | absolute_url }}" media="(max-width: 575.96px)" type="image/jpeg" width="319" height="213">
+  <source srcset="{{ '/blog/images/cross.avif' | absolute_url }}" media="(min-width: 576px)" type="image/avif" width="894" height="596">
+  <source srcset="{{ '/blog/images/cross.webp' | absolute_url }}" media="
   (min-width: 576px)" type="image/webp" width="894" height="596">
-  <source srcset="{{ '/blog/images/2021-11-29-christianity.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg" width="894" height="596">
-  <img loading="lazy" src="{{ '/blog/images/2021-11-29-christianity.webp' | absolute_url }}" alt="Cross (Symbolic Picture)">
+  <source srcset="{{ '/blog/images/cross.jpg' | absolute_url }}" media="(min-width: 576px)" type="image/jpeg" width="894" height="596">
+  <img loading="lazy" src="{{ '/blog/images/cross.webp' | absolute_url }}" alt="Cross (Symbolic Picture)">
 </picture>
 <!-- markdownlint-enable MD033 -->
 
