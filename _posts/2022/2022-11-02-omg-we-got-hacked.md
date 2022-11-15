@@ -88,8 +88,9 @@ OK, this is actually believable, it's rather expensive to do, but there are also
 >
 > once y0u have paid we will aut0matically get informed that it was your payment.
 
-Actually, I googled that address and the result the same mail with the same budget leetspeak.
+Actually, I googled that address and the result is commont with the same text as the mail with the same budget leetspeak.
 They're not even using different addresses for this scam!
+I had to dig a little since the site I found did a bad job of disabling comments and all comments that do exist are spam.
 
 {:class="ml-1 pl-4" style="border-left: 1px solid"}
 > Please note that y0u have t0 make payment within 3 days after opening this e-mail 0r the database leak, e-mails dispatched, and de-index of your site WiLL start!
@@ -126,3 +127,4 @@ It's even easier if they use the same address over and over again.
 >
 
 I did some digging: the domain is an ISP, so I guess someone fell for a phishing attack and used those addresses to send out scam mails.
+I did report it, but as always people never get back to me.
