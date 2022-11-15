@@ -1,9 +1,10 @@
 ---
-title: A Look at MahjongSoul
+title: Goodbye MahjongSoul
 
 tags:
   - Games
   - Riichi Mahjong
+  - Rant
   - Review
   - 立直麻雀
 
@@ -11,6 +12,7 @@ image: /blog/images/2019-05-03-title-screen.jpg
 
 redirect_from: 
   - /2019/05/03/i-played-mahjongsoul-and-i-dont-like-it
+  - /2020/06-15-a-look-at-mahjongsoul
 
 checker:
   - lt
@@ -19,25 +21,28 @@ long: true
 
 excerpt: |
   MahjongSoul is still around and it's big.
-  Just like everyone else, I jumped on the hype.
+  In 2019, just like everyone else, I jumped on the hype.
   At first, it looked nice.
   Then, I started to dislike it.
   With each little thing, I liked it less.
-  Now, I don't like it at all.
+  In 2021, I was still around, since everyone else is still on it…
+  Just like with Facebook…
 ---
-*This post was originally published on 2019-05-03 and was refreshed and updated with current information.*
+*This post was originally published on 2019-05-03, refreshed on 2020-06-15 and was refreshed and updated with current information.*
 
 MahjongSoul is still around and it's big.
-Just like everyone else, I jumped on the hype.
+In 2019, just like everyone else, I jumped on the hype.
 At first, it looked nice.
 Then, I started to dislike it.
 With each little thing, I liked it less.
-Now, I don't like it at all.
-I'm still around, since everyone else is still on it…
+In 2021, I was still around, since everyone else is still on it…
 Just like with Facebook.
-That's just how it is…
-But I can still try and be give you a neutral breakdown.
+But now, it's 2022 and I have to say, it's gotten so bad, I have to leave.
+Trigger the ejection seat, I'm not waiting for the next landing.
+I should have left many eons ago.
+
 <!--more-->
+## The Game
 
 <picture>
   <source srcset="{{ '/blog/images/2019-05-03-title-screen.avif' | absolute_url }}" type="image/avif">
@@ -75,7 +80,7 @@ And sadly, MahjongSoul already lets me down here.
 Well, let's go the for easy route first: no, you can't buy Jade for Coppers.
 That's not a minus per se, but that would have been the easiest way to clear this analysis.
 So let's look at the thing everyone wants: summoning a new character.
-To do that you need 200 Jade, which is about USD 3.40 (USD 1.20, if you factor in the first purchase bonus).
+To do that, you need 200 Jade, which is about USD 3.40 (USD 1.20, if you factor in the first purchase bonus).
 Compared to that, you need 50 Stardust, the freemium currency.
 
 How do you get those?
@@ -95,13 +100,15 @@ Looking at these numbers, I'd definitely say it's not reasonably possible to get
 So the premium aspect of this game is a big minus.
 
 Granted, starting in Silver Room you can get free items playing, but even these did double the amount of items you get, it's still too slow.
-Plus, you are limited to 5 scrolls; no indication when I can get more.
-They get reset from time to time.
+~~Plus, you are limited to 5 scrolls; no indication when I can get more.
+They get reset from time to time.~~
+The number of scrolls is limited to 4 per months.
 And you tend to get free summons from time to time.
 But it's still not enough if you're not lucky.
 As I said, that's just an attempt, there's no guarantee you even get a character.
+If you're unlucky, you'll need 150 pull for a character, after that you have enough tokens to just buy the character you want.
 
-## The Visual Experience at the Table
+## The Experience at the Table
 
 <picture>
   <source srcset="{{ '/blog/images/2019-05-03-table.avif' | absolute_url }}" type="image/avif">
@@ -125,7 +132,8 @@ When you are tenpai, the exclamation mark appears to the right.
 Clicking on it or hovering over the correct tile to discard reveals your waits and the number of tiles left.
 They even warn you if you'd be furiten or don't have any yaku for that wait.
 
-## The Audio Experience
+Sometimes, when you try to drag around a tile to sort it, the sorting action gets aborted.
+It's just an annoyance and only affects you if you tend to play with manual sorting, but it's an annoyance nonetheless.
 
 Now, to the sounds and music.
 I wish I could say something nice about this.
@@ -140,77 +148,20 @@ And it gets annoying very fast, too.
 Sure, you can disable the sounds.
 But if I have to do that, it just proves how terrible it is.
 
-## Scoring of a Hand
+## The Problem
 
-<picture>
-  <source srcset="{{ '/blog/images/2019-05-03-hand.avif' | absolute_url }}" type="image/avif">
-  <source srcset="{{ '/blog/images/2019-05-03-hand.webp' | absolute_url }}" type="image/webp">
-  <img loading="lazy" src="{{ '/blog/images/2019-05-03-hand.jpg' | absolute_url }}" alt="Mahjong Soul Scoring">
-</picture>
+Now let's talk about why I'm leaving.
+Don't get me wrong, I get fan service is how MahjongSoul gets their money.
+But oversexualizing underage girls is a problem.
+While before, it could be argued those are possible exceptions — it wasn't — the 2022 Saki Collaboration comes with 8 characters from Saki, 4 old and 4 ones, and their time-limited costumes: bunny girl outfits.
+Let me remind you, the oldest of the bunch are all under 16 years old, and yet, all of them got playboy bunny girl costumes.
+Don't forget, one of the characters looks like she's 10.
+I don't want to be connected to normalizing oversexualizing underage girls!
+And I certainly don't want Mahjong to be intrinsically connected to normalizing oversexualizing underage girls!
 
-{:.mt-4}
-Scoring is as you would expect.
-If you have levelled the bond with your character, the character with a complete portrait shot reads the yaku — plus can unlock their alternate costume.
-
-It took them damn way too long to add in some male characters.
-But they also have added more fan service.
-People... if you want to see porn, do watch porn.
-I just want to play Mahjong without that... I digress.
-
-## Stuff for Beginners
-
-As I said before, the game throws you into quite a decent tutorial.
-
-If you aren't proficient with the Chinese numerals, you can enable the little numbers in the corner in the options of the main menu only.
-It's not a real problem, you can't turn them on during a hand since they are enabled by default.
-And you have to actively turn them off.
-
-Oh yes, before I forget, you can open the list of yaku anytime with the options at the top right of the screen.
-
-### Disconnects
-
-So I got very infuriated with disconnecting players.
-In low lobbies, in about one every third game so far, someone disconnected.
-It does happen, yes, that's just how it is with online games.
-But hell, in the few days it happened well too often.
-
-Aside from a message in the announcement, I haven't seen anything to either penalize people who disconnect because they have a bad run or the anything to make the game go on normally.
-I mean, today, I even got 2 people disconnecting in a hanchan.
-It was quite a farm for me.
-But if I was my toimen, I'd have been swearing a lot in this game.
-Luckily for both of us, we managed to tobi one of the players that left.
-It's a big part of my frustration with the game.
-It gets better the higher you get, but it's still an issue.
-
-And after seeing how Nintendo handles disconnects in [Clubhouse Games: 51 Worldwide Classics](/blog/2020/06-05-a-look-at-riichi-mahjong-in-clubhouse-games-51-worldwide-classics/) this feels just so… backwards.
-And people usually accuse Nintendo of being backwards.
-
-## In Short
-
-- Beginner Friendliness: 5
-  - Beginner Friendly Tiles (2)
-  - In-Game Yaku List (1)
-  - Seat Wind Indicator (1)
-  - Short Tutorial (1)
-- Basic Usability: 5
-- Extra Usability: 5
-- Audio: 0
-  - Monotone, gets annoying fast
-- Goodies: 1
-  - Nice Visuals: 1
-- Baddies:
-  - Endless Disconnects of Other Players: -3
-  - Sexualization of Characters: -3
-
-Sum: 10
-
-If you don't mind the freemium, the cat girl, the repetitive background music and the fact players seem to be leaving games a lot in this game is for you.
-
-It is a solid client.
-But the characters are a problem.
-And don't get me started with the oversexualization of underage characters.
-
-If you do mind mentioned things, better look for something else.
+Better look for something else.
+At least, I am.
+I should have left many eons ago.
 
 *[tompuusen]: East only
 
