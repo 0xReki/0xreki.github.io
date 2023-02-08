@@ -1,5 +1,5 @@
 ---
-title: "来冬 の 麻雀 (Mahjong of Light) — 3rd Light Doman Open"
+title: "来冬 の 麻雀 (raito no maajan) — 3rd Light Doman Open"
 long: true
 
 tags:
