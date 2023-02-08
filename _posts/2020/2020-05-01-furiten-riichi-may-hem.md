@@ -13,7 +13,7 @@ tags:
 
 image: /blog/images/2020-05-furiten.jpg
 
-seo_title_fix: 1
+seo_title_fix: 2
 
 excerpt: |
   I wasn't planning on having another tournament till 2020 Q3.

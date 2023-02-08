@@ -14,7 +14,7 @@ tags:
 image: /blog/images/2020-09-18-turn-order.jpg
 image_alt: Mahjong Turn Order
 
-seo_title_fix: 2
+seo_title_fix: 3
 seo_meta_fix: 1
 
 start_date: 2020-09-18
